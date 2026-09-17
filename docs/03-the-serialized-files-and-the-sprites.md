@@ -200,14 +200,16 @@ the renders stay in `_work/` and are not published.
 | `skinny_attende` (path 12419) | `sheet0`, 3,792 × 2,100 DXT5, rect 3394,942 167 × 510 | **the first picture: a skeleton in a green hoodie with red lettering on the chest, arms folded** — sent within a minute of the layout closing |
 | `menu_ronald` (path 2023) | its own 1,920 × 1,080 DXT1 | a wall of pinned photographs of two boys, one blond in a yellow T-shirt, one dark-haired in the green hoodie: the menu |
 | `PS4_ITA` (path 1131) | its own 1,920 × 1,080 DXT1 | a DualShock with Italian labels: ACCELERA CURSORE, MOSTRA HOTSPOT, MAPPA, INVENTARIO, AZIONE |
-| `cameretta` (path 1268) | `cameretta`, 2,020 × 383 RGBA32 | **a black polygon on transparency — not the room but its walk mask**, the `bitmask` the `<area>` files and the `bitmask` verb name; three sprites carry the name `cameretta` (2,020 × 383, 512 × 288, 1,920 × 1,080) and `render --sprite` took the first |
+| `cameretta` (path 1268) | `cameretta`, 2,020 × 383 RGBA32 | **a black shape on transparency — not the room but its walk mask.** `areas\cameretta.xml` is `<area bitmask="cameretta" X="0" Y="697">` with `<segment color="black" footstep="footstep"/>`: the sprite the area names, placed at y = 697 in a 1,080-high room and 383 rows tall — 697 + 383 = 1,080, the floor strip exactly; black is the walkable floor that sounds of footsteps, 78.8 % of the 1,978 × 383 rectangle (x 44 … 2,019 in room coordinates: the room scrolls, its textures are 2,020 wide); the nine `<angle>` vertices (x 134 … 1,914) lie inside it and carry `b-scale` 0.47 / `f-scale` 0.7, the hero's size at the back and the front. Three sprites carry the name `cameretta` (2,020 × 383, 512 × 288, 1,920 × 1,080) and `render --sprite` took the first (`_work/maskbbox.py`) |
 | `cameretta` (path 1683) | its own 1,920 × 1,080 DXT1 | the bedroom the game starts in (`default\skinny.xml`: `location="cameretta"`): a bed, a Union Jack rug, an arcade cabinet, two guitars, shelves, a poster, "the cake is a lie" written on the wall |
 | the player's icon | `The Wardrobe.exe` resource ICON 9, 256 × 256 32-bpp DIB | the skeleton's face over the green hoodie |
 
-What the owner said about them is recorded in
-[08](08-tools-predictions-and-calibration.md) §the renders; the layout is
-closed by the bytes either way, and a picture that looks like a game is the
-control the bytes cannot give.
+**The owner confirmed all five sent renders at sight** — the skeleton,
+the menu wall, the PS4 screen, the bedroom, the icon — and, shown the
+black shape, said it "seems a walkable map of the bedroom" without being
+sure; the bytes above make it sure. The layout is closed by the bytes
+either way, and a picture that looks like the game the owner played is
+the control the bytes cannot give ([08](08-tools-predictions-and-calibration.md)).
 
 ## What is not read
 

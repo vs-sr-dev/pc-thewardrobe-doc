@@ -82,9 +82,9 @@ files — is the game in writing**, which is the part that reads.
   the 105 serialized files, all at format 22, read from a hex dump and closed
   on 1,161 of 1,161 textures (twice) and 17,368 of 17,368 sprites; **99
   sprites are 1,920 × 1,080 backgrounds**, 2,066 are frames of the skeleton
-  `skinny_*`; the first sprite rendered was the skeleton, and it went to
-  the owner at once ([03](03-the-serialized-files-and-the-sprites.md) says
-  what came back).
+  `skinny_*`; the first sprite rendered was the skeleton, it went to the
+  owner at once, and the owner confirmed it and four more at sight
+  ([03](03-the-serialized-files-and-the-sprites.md)).
 * **The voices.** 482 FMOD Studio banks: 200 `_vo_ita`, 200 `_vo_eng`, 79
   `_sfx`, `ost`, `master_bank`, `master_bank.strings`. Two spoken languages
   against six written. 6,385 Vorbis samples at 48 kHz: **Italian 2,991
@@ -125,7 +125,7 @@ Every percentage in these documents names one of these:
 ## What was read, and how far
 
 The texture layout at 22 to a render (some sprites, not 17,368: a census and
-five renders, sent to the owner); the XML to a grammar and a
+five renders, sent to the owner and confirmed); the XML to a grammar and a
 six-language diff (not an execution); the banks to their chunk tree and the
 sample headers (no audio decoded); the films to their boxes (no frame
 decoded); the assemblies to their members (no IL). Unity's SerializedFile,

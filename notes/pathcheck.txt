@@ -1,5 +1,5 @@
-tracked files            : 686
-text files checked       : 686
+tracked files            : 687
+text files checked       : 687
 needles                  : 2, masked in this report
 hits excused as artefacts: 0
 VIOLATIONS               : 0

@@ -209,9 +209,12 @@ about the picture.
 
 Five renders were sent as they were made — the skeleton, the menu wall,
 the PS4 control screen, the bedroom, the icon — with a question each
-time. What came back is recorded here as it came: *no reply had arrived
-by the time these documents were written*; the layout stands on its two
-closures, and the owner's word, when it comes, is the third.
+time. What came back, after the first commit: **all five confirmed at
+sight**, and of the sixth, the black shape rendered by accident, "it
+seems a walkable map of the bedroom, but I am not sure" — which
+`areas\cameretta.xml` then settled (Y = 697, height 383, 697 + 383 =
+1,080; `segment color="black" footstep`; [03](03-the-serialized-files-and-the-sprites.md)).
+The layout stands on its two closures, and the owner's word is the third.
 
 ## P20, P21 and P22
 

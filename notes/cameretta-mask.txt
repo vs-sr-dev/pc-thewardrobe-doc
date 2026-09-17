@@ -1,0 +1,19 @@
+$ python _work/maskbbox.py 1268   (the cameretta bitmask sprite, path 1268 in resources.assets, against areas/cameretta.xml)
+
+sprite cameretta: 1978x383, texture rect x0=42.0513; opaque pixels 597020 (78.8%), bbox x 2..1977 y 0..382
+in room coordinates (rect x0 + bbox, area Y=697 + bbox): x 44..2019, y 697..1079
+
+$ cat "TheWardrobe/The Wardrobe_Data/StreamingAssets/XML/areas/cameretta.xml"
+
+<area bitmask="cameretta" X="0" Y="697" b-scale="0.47" f-scale="0.7">
+  <segment color="black" footstep="footstep" />
+  <angle x="134" y="218" />
+  <angle x="181" y="148" />
+  <angle x="931" y="322" />
+  <angle x="1446" y="55" />
+  <angle x="1657" y="92" />
+  <angle x="1797" y="135" />
+  <angle x="1913" y="133" />
+  <angle x="1914" y="141" />
+  <angle x="1853" y="208" />
+</area>
