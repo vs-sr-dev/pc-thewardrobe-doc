@@ -104,6 +104,22 @@ All three new readers take `dirguard.want_file` / `want_tree`, call
 not by extension, and pass their selftests in a repository that does not
 contain the object.
 
+## One defect found the day after, and left for the next object
+
+`coverage.py`'s sidecar pass — the one that files a `.resS` as DERIVED when
+every `m_StreamData` record of a sibling lies inside it — reads a
+Texture2D record as `<II` at −12/−8 from the path string. That is the
+version-17 layout (u32 offset, u32 size). At format 22 the offset is a u64
+at −16, so the pass reads its high word, 0, and every record "lies inside
+the file" at offset 0: the DERIVED verdict on this object's five `.resS`
+([01](01-what-this-is.md), [03](03-the-serialized-files-and-the-sprites.md))
+was granted on a check that could not fail. The number those chapters
+publish — 2,466,018,043 of 2,466,018,272 bytes reached, 229 of slack — is
+`unitytex22.py sidecars`', which reads the u64, and stands. The pass is
+mended on the next object (pc-celltosingularity-doc), where the same
+verdict covered eight sidecars of nine and the honest tiling is far
+shorter; this note is the correction here.
+
 ## Rule 0
 
 `tools/rule0hook.py` was registered before the first command and proved

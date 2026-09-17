@@ -101,8 +101,12 @@ wide. Six of the 105 files hold textures at all: `resources.assets` 1,053,
 ## The five sidecars, tiled by their siblings' records
 
 The coverage table files the five `.resS` as DERIVED because every stream
-record of a sibling file lies inside them; `unitytex22.py sidecars` says how
-much of each the records reach:
+record of a sibling file lies inside them — **and that check is vacuous at
+format 22**, found the day after: the pass reads the record's offset as a
+u32 at −12 from the path, which at 22 is the high word of the u64 offset,
+always 0, so "inside the file" held for nothing ([08](08-tools-predictions-and-calibration.md)).
+The tiling that stands is this one, `unitytex22.py sidecars`, which reads
+the u64 and says how much of each file the records reach:
 
 | sidecar | bytes | records | reached | gaps | ends at |
 |---|---:|---:|---:|---|---|
