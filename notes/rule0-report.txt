@@ -1,0 +1,13 @@
+shell calls seen by the hook : 184
+  allowed                    : 182
+  REFUSED as rule-0          : 2
+      inline program         1
+      here-string            1
+
+the refusals, in order:
+  2026-09-17T12:29:40  inline program cd "<path>"; python -c "print('this should be refused by rule0hook')"
+  2026-09-17T12:59:39  here-string    cd "<path>"; S="TheWardrobe/The Wardrobe_Data/StreamingAssets"; python - 2>/dev/null <<< "" ; python _work/peekbank.py "
+
+A rule 0 violation that reaches the shell is a hook failure.
+A rule 0 violation that is REFUSED is the hook working, and the
+count of refusals is how many times the habit still fired.

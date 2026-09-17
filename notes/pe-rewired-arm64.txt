@@ -1,0 +1,10 @@
+$ python tools/pe.py "TheWardrobe/The Wardrobe_Data/Plugins/ARM64/Rewired_DirectInput.dll" --sections
+
+machine 0xAA64  PE32+ True  image base 0x180000000  sections 6  timestamp 0x65CBE2B8
+name            vsize      vaddr    rawsize     rawoff   entropy   zeros%
+.text      0x0000D86C 0x00001000 0x0000DA00 0x00000400    6.3165   16.42%
+.rdata     0x00007DC6 0x0000F000 0x00007E00 0x0000DE00    4.1462   51.48%
+.data      0x00002000 0x00017000 0x00000A00 0x00015C00    2.0561   77.34%
+.pdata     0x00000938 0x00019000 0x00000A00 0x00016600    4.6815   43.79%
+.rsrc      0x000001E0 0x0001A000 0x00000200 0x00017000    4.7177   22.27%
+.reloc     0x00000628 0x0001B000 0x00000800 0x00017200    4.8121   26.22%

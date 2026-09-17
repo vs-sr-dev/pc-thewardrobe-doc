@@ -1,0 +1,46 @@
+$ python tools/fevbank.py tree "TheWardrobe/The Wardrobe_Data/StreamingAssets/master_bank.strings.bank" --depth 1
+
+master_bank.strings.bank: 292808 bytes, RIFF length 292800 (+8 = file), 40 chunks, residue 0
+FMT   8
+LIST PROJ 292772
+  BNKI  32
+  LIST IBSS 4
+  LIST GBSS 4
+  LIST RBSS 4
+  LIST PRTS 4
+  LIST MBSS 4
+  LIST BEFX 4
+  LIST PEFX 4
+  LIST SEFX 4
+  LIST SCFX 4
+  LIST VCAS 4
+  LIST EVTS 4
+  LIST TLNS 4
+  LIST PMLS 4
+  LIST PRMS 4
+  LIST CTRS 4
+  LIST CRVS 4
+  LIST MPGS 4
+  LIST MUIS 4
+  LIST SPIS 4
+  LIST PRIS 4
+  LIST EVIS 4
+  LIST WAIS 4
+  LIST EFIS 4
+  LIST CMDS 4
+  LIST SLNS 4
+  LIST LWVS 4
+  LIST WAVS 4
+  LIST SNAS 4
+  LIST MODS 4
+  SNDH  0
+  STDT  292313
+  STBL  0
+  HASH  2
+  DEL   0
+  MUTE  0
+  REFI  0
+  PLAT  0
+
+chunk ids: LIST:30 FMT :1 BNKI:1 SNDH:1 STDT:1 STBL:1 HASH:1 DEL :1 MUTE:1 REFI:1 PLAT:1
+no SND chunk: a shell

@@ -1,0 +1,30 @@
+$ python _work/calib3.py   (the series with this session's +6.50 appended by hand; on arrival the 48-term file printed claims wrong : 0 of 8)
+
+THE SERIES AS INHERITED, re-derived by summing:
+  terms    : 49
+  sum      : 31.0700
+  mean     : 0.6341
+  negative : 27   positive : 21   zero : 1
+  last10   : 76.5000   mean 7.6500
+  tail run of consecutive negatives : 0
+  the last term 6.50 ranks 17 of 49 by absolute value
+
+  the series, in order:
+     10.50    7.50    5.00    2.00  -14.00   -2.00    9.00    0.00   19.75
+      5.25   -4.10   -3.40    9.30    1.05   -2.50   -3.57   -2.50   -0.35
+     -3.85   -4.95   -4.70    0.70   -2.40   -2.12   -3.57   -3.88   -3.87
+     -2.92   -8.89   -5.93    0.51   -7.57   -0.42   -1.79   -6.69   -5.86
+     -5.16   -5.50   -3.50    4.00    5.00    9.00    8.00    9.00   11.00
+      9.00    7.00    8.00    6.50
+
+  the brief's eight claims about the series, one at a time:
+    terms        brief 49        counted 49        ok
+    sum          brief 31.07     counted 31.07     ok
+    mean         brief 0.6341    counted 0.6341    ok
+    negative     brief 27        counted 27        ok
+    zero         brief 1         counted 1         ok
+    last10 sum   brief 76.50     counted 76.50     ok
+    last10 mean  brief 7.6500    counted 7.6500    ok
+    tail run     brief 0         counted 0         ok
+    claims wrong : 0 of 8
+

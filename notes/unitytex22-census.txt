@@ -1,0 +1,55 @@
+$ python tools/unitytex22.py census "TheWardrobe/The Wardrobe_Data"
+
+Texture2D objects        1161 in 6 serialized files (format 22)
+closure (body end)       1161 of 1161
+closure (arithmetic)     1161 of 1161
+pixels streamed          960   inline 195   none 6
+bytes of pixels          2659751664 (m_CompleteImageSize summed)
+m_ForcedFallbackFormat   non-zero on 109 of 1161; m_IsReadable on 160
+
+FMT  NAME          COUNT          BYTES DECODED HERE
+12   DXT5            735     1965279808 yes
+4    RGBA32          236      549197496 yes
+10   DXT1             91       58669856 yes
+1    Alpha8           49        4753765 yes
+2    ARGB4444         32         137408 yes
+3    RGB24            18       81713331 yes
+
+WHERE                                     COUNT          BYTES
+resources.assets.resS                       892     2432581943
+(inline in resources.assets)                158      192503688
+globalgamemanagers.assets.resS               48        5716192
+(inline in Resources/unity default resources)     36         181357
+sharedassets2.assets.resS                    15       25317000
+sharedassets1.assets.resS                     4        2397448
+(no pixels: resources.assets)                 3              0
+sharedassets0.assets.resS                     1           5460
+(inline in sharedassets0.assets)              1        1048576
+(no pixels: sharedassets1.assets)             1              0
+(no pixels: sharedassets2.assets)             1              0
+(no pixels: Resources/unity default resources)      1              0
+
+SIZE            COUNT
+1920 x 1080        99
+512 x 288          44
+16 x 16            32
+512 x 512          13
+12 x 12            11
+1 x 1               7
+680 x 504           7
+184 x 2020          7
+0 x 0               6
+14 x 14             6
+3374 x 282          5
+3072 x 332          5
+636 x 664           4
+188 x 2020          4
+684 x 504           4
+
+FILE                                      COUNT
+Resources/unity default resources            37
+globalgamemanagers.assets                    48
+resources.assets                           1053
+sharedassets0.assets                          2
+sharedassets1.assets                          5
+sharedassets2.assets                         16

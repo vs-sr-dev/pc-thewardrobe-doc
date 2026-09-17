@@ -1,0 +1,53 @@
+$ python tools/cilmeta.py members "TheWardrobe/The Wardrobe_Data/Managed/Assembly-CSharp.dll" --type Script
+
+Script   28 fields, 20 methods
+    field   List
+    field   Index
+    field   VoiceOver
+    field   SoundsList
+    field   type
+    field   ObjectIndex
+    field   HotspotIndex
+    field   cangonext
+    field   on_going
+    field   onSkinny
+    field   ishotspot
+    field   InIf
+    field   IfGuard
+    field   VoiceOverParameterName
+    field   IfInternal
+    field   Talkie
+    field   WaitTimer
+    field   n_WaitTimer
+    field   IsWaitHotspotShown
+    field   WaitingHotspotShown
+    field   QuakeTimer
+    field   n_QuakeTimer
+    field   PixelToQuake
+    field   n_PauseTimer
+    field   ScrollingTimer
+    field   ScrollingTiming
+    field   CameraDestination
+    field   Text
+    method  get_Type
+    method  set_Type
+    method  get_CanGoNext
+    method  set_CanGoNext
+    method  get_OnGoing
+    method  set_OnGoing
+    method  get_IsHotspot
+    method  set_IsHotspot
+    method  AddSound
+    method  StopSounds
+    method  Abort
+    method  StopCommands
+    method  StopTalkie
+    method  Listing
+    method  Update
+    method  Execute
+    method  Start
+    method  Stop
+    method  SkipText
+    method  .ctor
+
+379 types, 2196 fields, 3136 methods; 1 types printed

@@ -1,0 +1,115 @@
+$ python tools/wardrobexml.py grammar "TheWardrobe/The Wardrobe_Data/StreamingAssets/XML/eng"
+
+10674 commands in 179 files under eng
+
+VERB            COUNT  FLAGS                    TARGET SIGN   EXAMPLE
+text             3185  c:200 t:23 w:20 nt:16    -:918         text "Computer, update."
+wait             1560                           -:2           wait 0,5
+expression        819                           -:180         expression "angry"
+pose              508                                         pose d
+sound             494  l:18 x:1 s:1                           sound "coccodrillo_aprebocca"
+animation         489  o:435 c:166 a:87 p:62    -:431         animation -"me" 00 -o=0,0 -c "vecchio_megafono_on"
+internal          483  g:350 i:170 s:1          -:183 >:78 #  internal #"diavoletto" 1
+hide              482  nc:24                    -:164 +:161   hide dialog
+show              427                           -:199 +:158   show +"porta_bagno_chiusa_cameretta"
+bitmap            424  o:22                     -:402         bitmap -"me" "cieco_megafono"
+if                234  i:39                     -:101 >:7     if not bitmask -"navicella aliena" "null"
+fi                146                                         fi
+throw             122  a:5                      -:5           throw "buono"
+goto              110  nofade:18                              goto "museo"
+pick              110                                         pick n "premio"
+status            108                           >:56          status >"cameretta" 3
+pause              86                           -:82          pause -"pittore"
+resume             85                           -:82          resume -"me"
+fie                85                                         fie
+default            84  talk:63 pick:19 use:2                  default -talk
+screen             71  w:71 fo:42 fi:23 a:19                  screen c -fi=500 -w=5
+dialog             64  r:24 nc:2 x:1                          dialog -nc "sfida guardia"
+lookat             61                           -:53          lookat -"me"
+stop               58  a:6 b:4                  -:11          stop "canzone_cinese"
+achievement        47  n:9                                    achievement "grasso"
+load               38                                         load "nonnina_spaventa_ragazzini"
+nolook             33                                         nolook
+cutscene           33  s:6 x:6                                cutscene -s "outro3"
+area               29                           >:23          area >"discarica" "discarica2"
+move               28  a:1                                    move (99,900)
+buffer             25                                         buffer "call"
+ost                24                           >:9           0 ost
+inventory          20                                         inventory
+blackscreen        14                                         blackscreen
+map                13                                         map "meteorite"
+destination        13                           -:5           destination -"discarica/plutonio" (1323,888)
+bitmask            11                           -:8           0 bitmask -"struccante" "struccante"
+background         10                           >:6           1 background "cameretta_traslocata"
+position            9                           -:7           position -"me" (-22,515)
+label               7                           -:7           0 label -"me" "bag_pensile_label_1"
+viewer              4                           -:4           2 viewer -"me" (1131,486)
+document            3                                         document "locandina"
+name                2                                         name "gro_diavoletto_name_1"
+transfer            2                                         transfer "painter_back"
+tutorial            2                                         tutorial
+check               2                                         check "call"
+quake               2                                         1 quake 1 5,0
+block               2                                         0 block
+scroll              2                                         0 scroll (0,1230) 4
+camera              2                                         camera
+credits             1                                         credits
+end                 1                                         end
+
+52 distinct verbs
+
+GUARD           COUNT
+0                1443
+1                 589
+2                 244
+3                 138
+0-1                85
+4                  81
+1-2                40
+3-4                22
+1-2-3               9
+0-1-2-3-4           9
+6                   4
+5                   3
+7                   2
+1-2-3-4-5           1
+0-1-4               1
+2671 guarded commands
+
+SPEAKER                             LINES   (text lines by speaker)
+(unlabelled = Skinny)                2267
+me                                    494
+altoparlante                           68
+tutorial                               60
+guardia                                57
+skinny_mic                             41
+custode                                29
+Francesco                              19
+Frank                                  14
+Orso                                   13
+Noce                                   12
+inventory                              12
+eremita                                 9
+Boogeyman                               9
+teppistello1                            8
+inserviente_left                        7
+Due                                     7
+giostraio                               7
+Uno                                     6
+Tre                                     6
+inserviente_up                          5
+Stefano                                 4
+Marco                                   4
+Egon                                    4
+teppistello2                            4
+nonnina                                 3
+toro_skinny                             3
+giocatore_basso                         3
+ciccione                                2
+diavoletto                              2
+barman                                  2
+zombie                                  1
+ronald                                  1
+zingara                                 1
+telecamera2                             1
+35 distinct speakers; 209 text lines carry a trailing number, 473 a $-tag

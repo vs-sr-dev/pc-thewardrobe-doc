@@ -1,0 +1,3 @@
+$ python tools/unityfs.py info "TheWardrobe/The Wardrobe_Data/StreamingAssets/SaveIcon.png"
+
+unityfs: refused: TheWardrobe/The Wardrobe_Data/StreamingAssets/SaveIcon.png: fileSize 218765834 does not equal the file's 80430 bytes

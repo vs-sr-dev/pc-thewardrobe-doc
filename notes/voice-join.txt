@@ -1,0 +1,131 @@
+$ python _work/voicejoin.py ita   (over notes/fevbank-samples.tsv and wardrobexml.py lines)
+
+ita: 200 voice banks, 29 shells
+KIND     BANKS  XML HIT  EXACT  SAMPLES  LINES-$   SECONDS
+buf          2        2      2      111      111     324.7
+cut         31        7      6       19       18      97.3
+default      1        1      0       67        0     148.1
+dia         33       33     27      797      824    2615.3
+inv         85       85     76      268      292     722.0
+loc         47       47     33     1452     1467    4245.2
+matrix       1        0      0      277        0     742.7
+TOTAL      200      175    144     2991     2712    8895.1
+default.xml has 67 <phrase>
+
+banks whose sample count != untagged text lines (or no XML):
+  cut_armadio_discarica_vo_ita.bank            None                                     samples    0  text    0  $-tagged   0
+  cut_arrivo_pacco_vo_ita.bank                 None                                     samples    0  text    0  $-tagged   0
+  cut_casa_a_fuoco_vo_ita.bank                 None                                     samples    0  text    0  $-tagged   0
+  cut_ciccione_fuga_vo_ita.bank                None                                     samples    0  text    0  $-tagged   0
+  cut_estrazione_ingranaggi_vo_ita.bank        None                                     samples    0  text    0  $-tagged   0
+  cut_evoluzione_mostro_vo_ita.bank            None                                     samples    0  text    0  $-tagged   0
+  cut_foto_telecamera_vo_ita.bank              None                                     samples    0  text    0  $-tagged   0
+  cut_fuga_ladro_vo_ita.bank                   None                                     samples    0  text    0  $-tagged   0
+  cut_furgone_vo_ita.bank                      None                                     samples    0  text    0  $-tagged   0
+  cut_ingresso_catacomba_vo_ita.bank           None                                     samples    0  text    0  $-tagged   0
+  cut_intro_vo_ita.bank                        scripts/cutscenes/intro.xml              samples    9  text    8  $-tagged   0
+  cut_johnny_vo_ita.bank                       None                                     samples    0  text    0  $-tagged   0
+  cut_nonnina_spaventa_ragazzini_vo_ita.bank   None                                     samples    0  text    0  $-tagged   0
+  cut_outro1_vo_ita.bank                       None                                     samples    0  text    0  $-tagged   0
+  cut_outro2_vo_ita.bank                       None                                     samples    0  text    0  $-tagged   0
+  cut_pala_custode_vo_ita.bank                 None                                     samples    0  text    0  $-tagged   0
+  cut_pittore_dipinge_vo_ita.bank              None                                     samples    0  text    0  $-tagged   0
+  cut_pomello_excalibur_vo_ita.bank            None                                     samples    0  text    0  $-tagged   0
+  cut_pomello_fiamma_ossidrica_vo_ita.bank     None                                     samples    0  text    0  $-tagged   0
+  cut_ripresa_trasloco_vo_ita.bank             None                                     samples    0  text    0  $-tagged   0
+  cut_skinny_matrix_vo_ita.bank                None                                     samples    0  text    0  $-tagged   0
+  cut_sveglia_barbone_vo_ita.bank              None                                     samples    0  text    0  $-tagged   0
+  cut_viaggio_tempo_1863_vo_ita.bank           None                                     samples    0  text    0  $-tagged   0
+  cut_viaggio_tempo_1981_vo_ita.bank           None                                     samples    0  text    0  $-tagged   0
+  cut_viaggio_tempo_back_vo_ita.bank           None                                     samples    0  text    0  $-tagged   0
+  default_vo_ita.bank                          default.xml                              samples   67  text    0  $-tagged   0
+  dia_barista_vo_ita.bank                      dialogs/barista.xml                      samples   13  text   18  $-tagged   0
+  dia_coccodrillo_vo_ita.bank                  dialogs/coccodrillo.xml                  samples   18  text   17  $-tagged   0
+  dia_mostro_polvere_vo_ita.bank               dialogs/mostro_polvere.xml               samples   33  text   32  $-tagged   0
+  dia_scelta_premio_vo_ita.bank                dialogs/scelta_premio.xml                samples   12  text   16  $-tagged   0
+  dia_sfida guardia_vo_ita.bank                dialogs/sfida guardia.xml                samples   39  text   57  $-tagged   0
+  dia_tutorial_vo_ita.bank                     dialogs/tutorial.xml                     samples   13  text   15  $-tagged   0
+  inv_bambola voodoo funzionante_vo_ita.bank   objects/bambola voodoo funzionante.xml   samples    4  text   22  $-tagged  16
+  inv_bambola voodoo_vo_ita.bank               objects/bambola voodoo.xml               samples   10  text   16  $-tagged   4
+  inv_bicchiere di birra_vo_ita.bank           objects/bicchiere di birra.xml           samples    5  text   20  $-tagged  12
+  inv_lenzuolo_vo_ita.bank                     objects/lenzuolo.xml                     samples    9  text   22  $-tagged   5
+  inv_pala_vo_ita.bank                         objects/pala.xml                         samples    6  text   17  $-tagged   8
+  inv_polvere_sparo_vo_ita.bank                objects/polvere_sparo.xml                samples    0  text    1  $-tagged   0
+  inv_spillo_vo_ita.bank                       objects/spillo.xml                       samples    8  text   23  $-tagged  10
+  loc_bagno1_vo_ita.bank                       locations/bagno1.xml                     samples   94  text  102  $-tagged   0
+  loc_cabina_vo_ita.bank                       locations/cabina.xml                     samples    8  text    9  $-tagged   0
+  loc_casa_albero_vo_ita.bank                  locations/casa_albero.xml                samples   36  text   37  $-tagged   0
+  loc_ingresso_vo_ita.bank                     locations/ingresso.xml                   samples   31  text   32  $-tagged   0
+  loc_marciapiede_vo_ita.bank                  locations/marciapiede.xml                samples   46  text   45  $-tagged   0
+  loc_meteorite_vo_ita.bank                    locations/meteorite.xml                  samples   40  text   42  $-tagged   0
+  loc_museo_vo_ita.bank                        locations/museo.xml                      samples   18  text   16  $-tagged   0
+  loc_piano_terra_vo_ita.bank                  locations/piano_terra.xml                samples   37  text   34  $-tagged   0
+  loc_sala_botanica_IIWW_vo_ita.bank           locations/sala_botanica_IIWW.xml         samples   28  text   32  $-tagged   0
+  loc_sala_vikingi_egizi_vo_ita.bank           locations/sala_vikingi_egizi.xml         samples   22  text   26  $-tagged   0
+  loc_scantinato_vo_ita.bank                   locations/scantinato.xml                 samples   20  text   21  $-tagged   0
+  loc_vicolo_vo_ita.bank                       locations/vicolo.xml                     samples   29  text   28  $-tagged   0
+  matrix_vo_ita.bank                           None                                     samples  277  text    0  $-tagged   0
+
+$ python _work/voicejoin.py eng
+
+eng: 200 voice banks, 29 shells
+KIND     BANKS  XML HIT  EXACT  SAMPLES  LINES-$   SECONDS
+buf          2        2      1      103      111     290.6
+cut         31        7      6       19       18     103.8
+default      1        1      0       67        0     136.7
+dia         33       33     29      800      824    2448.7
+inv         85       85     76      269      292     656.4
+loc         47       47     36     1438     1467    3795.3
+matrix       1        0      0      278        0     641.6
+TOTAL      200      175    148     2974     2712    8073.1
+default.xml has 67 <phrase>
+
+banks whose sample count != untagged text lines (or no XML):
+  buf_call_vo_eng.bank                         scripts/buffers/call.xml                 samples  101  text  109  $-tagged   0
+  cut_armadio_discarica_vo_eng.bank            None                                     samples    0  text    0  $-tagged   0
+  cut_arrivo_pacco_vo_eng.bank                 None                                     samples    0  text    0  $-tagged   0
+  cut_casa_a_fuoco_vo_eng.bank                 None                                     samples    0  text    0  $-tagged   0
+  cut_ciccione_fuga_vo_eng.bank                None                                     samples    0  text    0  $-tagged   0
+  cut_estrazione_ingranaggi_vo_eng.bank        None                                     samples    0  text    0  $-tagged   0
+  cut_evoluzione_mostro_vo_eng.bank            None                                     samples    0  text    0  $-tagged   0
+  cut_foto_telecamera_vo_eng.bank              None                                     samples    0  text    0  $-tagged   0
+  cut_fuga_ladro_vo_eng.bank                   None                                     samples    0  text    0  $-tagged   0
+  cut_furgone_vo_eng.bank                      None                                     samples    0  text    0  $-tagged   0
+  cut_ingresso_catacomba_vo_eng.bank           None                                     samples    0  text    0  $-tagged   0
+  cut_intro_vo_eng.bank                        scripts/cutscenes/intro.xml              samples    9  text    8  $-tagged   0
+  cut_johnny_vo_eng.bank                       None                                     samples    0  text    0  $-tagged   0
+  cut_nonnina_spaventa_ragazzini_vo_eng.bank   None                                     samples    0  text    0  $-tagged   0
+  cut_outro1_vo_eng.bank                       None                                     samples    0  text    0  $-tagged   0
+  cut_outro2_vo_eng.bank                       None                                     samples    0  text    0  $-tagged   0
+  cut_pala_custode_vo_eng.bank                 None                                     samples    0  text    0  $-tagged   0
+  cut_pittore_dipinge_vo_eng.bank              None                                     samples    0  text    0  $-tagged   0
+  cut_pomello_excalibur_vo_eng.bank            None                                     samples    0  text    0  $-tagged   0
+  cut_pomello_fiamma_ossidrica_vo_eng.bank     None                                     samples    0  text    0  $-tagged   0
+  cut_ripresa_trasloco_vo_eng.bank             None                                     samples    0  text    0  $-tagged   0
+  cut_skinny_matrix_vo_eng.bank                None                                     samples    0  text    0  $-tagged   0
+  cut_sveglia_barbone_vo_eng.bank              None                                     samples    0  text    0  $-tagged   0
+  cut_viaggio_tempo_1863_vo_eng.bank           None                                     samples    0  text    0  $-tagged   0
+  cut_viaggio_tempo_1981_vo_eng.bank           None                                     samples    0  text    0  $-tagged   0
+  cut_viaggio_tempo_back_vo_eng.bank           None                                     samples    0  text    0  $-tagged   0
+  default_vo_eng.bank                          default.xml                              samples   67  text    0  $-tagged   0
+  dia_barista_vo_eng.bank                      dialogs/barista.xml                      samples   13  text   18  $-tagged   0
+  dia_mostro_polvere_vo_eng.bank               dialogs/mostro_polvere.xml               samples   33  text   32  $-tagged   0
+  dia_sfida guardia_vo_eng.bank                dialogs/sfida guardia.xml                samples   39  text   57  $-tagged   0
+  dia_tutorial_vo_eng.bank                     dialogs/tutorial.xml                     samples   13  text   15  $-tagged   0
+  inv_bambola voodoo funzionante_vo_eng.bank   objects/bambola voodoo funzionante.xml   samples    4  text   22  $-tagged  16
+  inv_bambola voodoo_vo_eng.bank               objects/bambola voodoo.xml               samples   10  text   16  $-tagged   4
+  inv_bicchiere di birra_vo_eng.bank           objects/bicchiere di birra.xml           samples    5  text   20  $-tagged  12
+  inv_lenzuolo_vo_eng.bank                     objects/lenzuolo.xml                     samples    9  text   22  $-tagged   5
+  inv_pala_vo_eng.bank                         objects/pala.xml                         samples    6  text   17  $-tagged   8
+  inv_polvere_sparo_vo_eng.bank                objects/polvere_sparo.xml                samples    0  text    1  $-tagged   0
+  inv_spillo_vo_eng.bank                       objects/spillo.xml                       samples    9  text   23  $-tagged  10
+  loc_bagno1_vo_eng.bank                       locations/bagno1.xml                     samples   93  text  102  $-tagged   0
+  loc_baracca_vo_eng.bank                      locations/baracca.xml                    samples   53  text   54  $-tagged   0
+  loc_cabina_vo_eng.bank                       locations/cabina.xml                     samples    8  text    9  $-tagged   0
+  loc_cimitero_vo_eng.bank                     locations/cimitero.xml                   samples   29  text   33  $-tagged   0
+  loc_discarica_vo_eng.bank                    locations/discarica.xml                  samples  108  text  109  $-tagged   0
+  loc_macchina_tempo_vo_eng.bank               locations/macchina_tempo.xml             samples    5  text   11  $-tagged   0
+  loc_meteorite_vo_eng.bank                    locations/meteorite.xml                  samples   40  text   42  $-tagged   0
+  loc_sala_botanica_IIWW_vo_eng.bank           locations/sala_botanica_IIWW.xml         samples   28  text   32  $-tagged   0
+  loc_scantinato_vo_eng.bank                   locations/scantinato.xml                 samples   20  text   21  $-tagged   0
+  matrix_vo_eng.bank                           None                                     samples  278  text    0  $-tagged   0

@@ -1,0 +1,27 @@
+$ python tools/sift.py TheWardrobe --group personal
+
+root                : TheWardrobe
+blobs searched      : 2020   (2020 of 2020 -- nothing was filtered out)
+bytes searched      : 3494280269
+chance rate in this haystack, per needle width:
+    2 bytes    53318.485550 expected occurrences
+    4 bytes        0.813576 expected occurrences
+    6 bytes        0.000012 expected occurrences
+    8 bytes        0.000000 expected occurrences
+
+pattern                                hits    blobs
+------------------------------------------------------
+e-mail shape                             82        8
+P.O. Box                                  0        0
+telephone shape                           2        1
+Documents and Settings                    0        0
+home dir                                 19        7
+/home/                                    0        0
+Copyright <name>                          0        0
+street address shape                      1        1
+postal code and town                     24       16
+CONTROL must-hit '!This pr' (derived from the population)      161      160
+CONTROL must-miss 'zzqxjvwk'              0        0
+------------------------------------------------------
+positive control fired : YES (161 hits)
+negative control quiet : YES

@@ -1,0 +1,202 @@
+$ python tools/mp4probe.py "TheWardrobe/The Wardrobe_Data/StreamingAssets/Movies/CG_horizontal.mp4" "TheWardrobe/The Wardrobe_Data/StreamingAssets/Movies/TW_gamera_logo.mp4" "...31 files"
+
+=== CG_horizontal.mp4  394907 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 5611 = 5.611 s
+  tracks     2
+    #1  vide  avc1   1920x1080       140 samples       257391 B    5.600 s    367701 bit/s  AVC Main profile, level 4.1
+    #2  soun  mp4a   -               263 samples       132815 B    5.611 s    189375 bit/s  2 ch, 16-bit, 48000 Hz, object type 0x40 (AAC LC)
+  sample bytes 390206 of 394907 in the file  (98.81%)
+=== TW_gamera_logo.mp4  4919034 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 5005 = 5.005 s
+  tracks     2
+    #1  vide  avc1   1920x1080       150 samples      4714296 B    5.005 s   7535338 bit/s  AVC High profile, level 4.2
+    #2  soun  mp4a   -               234 samples       198042 B    4.992 s    317375 bit/s  2 ch, 16-bit, 48000 Hz, object type 0x40 (AAC LC)
+  sample bytes 4912338 of 4919034 in the file  (99.86%)
+=== accensione_catacomba.mp4  8096822 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 14000 = 14.000 s
+  tracks     1
+    #1  vide  avc1   1920x1080       840 samples      8085749 B   14.000 s   4620428 bit/s  AVC High profile, level 4.1
+  sample bytes 8085749 of 8096822 in the file  (99.86%)
+=== armadio_discarica.mp4  3190925 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 7434 = 7.434 s
+  tracks     1
+    #1  vide  avc1   1920x1080       446 samples      3184636 B    7.433 s   3427411 bit/s  AVC High profile, level 4.1
+  sample bytes 3184636 of 3190925 in the file  (99.80%)
+=== arrivo_pacco.mp4  2846223 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 6467 = 6.467 s
+  tracks     1
+    #1  vide  avc1   1920x1080       388 samples      2840654 B    6.467 s   3514211 bit/s  AVC High profile, level 4.1
+  sample bytes 2840654 of 2846223 in the file  (99.80%)
+=== boogeyman.mp4  6078786 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 9317 = 9.317 s
+  tracks     1
+    #1  vide  avc1   1920x1080       559 samples      6071089 B    9.317 s   5213100 bit/s  AVC High profile, level 4.1
+  sample bytes 6071089 of 6078786 in the file  (99.87%)
+=== casa_a_fuoco.mp4  5840090 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 11950 = 11.950 s
+  tracks     1
+    #1  vide  avc1   1920x1080       717 samples      5830533 B   11.950 s   3903286 bit/s  AVC High profile, level 4.1
+  sample bytes 5830533 of 5840090 in the file  (99.84%)
+=== ciccione_fuga.mp4  3209525 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 7467 = 7.467 s
+  tracks     1
+    #1  vide  avc1   1920x1080       448 samples      3203208 B    7.467 s   3432009 bit/s  AVC High profile, level 4.1
+  sample bytes 3203208 of 3209525 in the file  (99.80%)
+=== estrazione_ingranaggi.mp4  5490488 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 8517 = 8.517 s
+  tracks     1
+    #1  vide  avc1   1916x1080       511 samples      5483365 B    8.517 s   5150715 bit/s  AVC High profile, level 4.1
+  sample bytes 5483365 of 5490488 in the file  (99.87%)
+=== evoluzione_mostro.mp4  8865051 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 16600 = 16.600 s
+  tracks     1
+    #1  vide  avc1   1920x1080       996 samples      8853002 B   16.600 s   4266507 bit/s  AVC High profile, level 4.1
+  sample bytes 8853002 of 8865051 in the file  (99.86%)
+=== foto_telecamera.mp4  1187842 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 3950 = 3.950 s
+  tracks     1
+    #1  vide  avc1   1920x1080       237 samples      1184089 B    3.950 s   2398155 bit/s  AVC High profile, level 4.1
+  sample bytes 1184089 of 1187842 in the file  (99.68%)
+=== fuga_ladro.mp4  4395584 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 9517 = 9.517 s
+  tracks     1
+    #1  vide  avc1   1920x1080       571 samples      4387779 B    9.517 s   3688501 bit/s  AVC High profile, level 4.1
+  sample bytes 4387779 of 4395584 in the file  (99.82%)
+=== fuga_traslocatori.mp4  8479712 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 15667 = 15.667 s
+  tracks     1
+    #1  vide  avc1   1920x1080       940 samples      8467451 B   15.667 s   4323805 bit/s  AVC High profile, level 4.1
+  sample bytes 8467451 of 8479712 in the file  (99.86%)
+=== furgone.mp4  3651077 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 12467 = 12.467 s
+  tracks     1
+    #1  vide  avc1   1920x1080       748 samples      3641256 B   12.467 s   2336635 bit/s  AVC High profile, level 4.1
+  sample bytes 3641256 of 3651077 in the file  (99.73%)
+=== ingresso_catacomba.mp4  4303295 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 5950 = 5.950 s
+  tracks     1
+    #1  vide  avc1   1920x1080       357 samples      4298009 B    5.950 s   5778836 bit/s  AVC High profile, level 4.1
+  sample bytes 4298009 of 4303295 in the file  (99.88%)
+=== intro.mp4  33199400 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 65467 = 65.467 s
+  tracks     1
+    #1  vide  avc1   1920x1080      3928 samples     33151119 B   65.467 s   4051053 bit/s  AVC High profile, level 4.1
+  sample bytes 33151119 of 33199400 in the file  (99.85%)
+=== johnny.mp4  8798755 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 10050 = 10.050 s
+  tracks     1
+    #1  vide  avc1   1892x1080       603 samples      8790508 B   10.050 s   6997419 bit/s  AVC High profile, level 4.1
+  sample bytes 8790508 of 8798755 in the file  (99.91%)
+=== matrimonio.mp4  10453176 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 20667 = 20.667 s
+  tracks     1
+    #1  vide  avc1   1920x1080      1240 samples     10437279 B   20.667 s   4040237 bit/s  AVC High profile, level 4.1
+  sample bytes 10437279 of 10453176 in the file  (99.85%)
+=== nonnina_spaventa_ragazzini.mp4  2955881 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 6000 = 6.000 s
+  tracks     1
+    #1  vide  avc1   1920x1080       360 samples      2950632 B    6.000 s   3934176 bit/s  AVC High profile, level 4.1
+  sample bytes 2950632 of 2955881 in the file  (99.82%)
+=== outro1.mp4  3814041 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 5434 = 5.434 s
+  tracks     1
+    #1  vide  avc1   1194x796        326 samples      3809163 B    5.433 s   5608584 bit/s  AVC High profile, level 4.1
+  sample bytes 3809163 of 3814041 in the file  (99.87%)
+=== outro2.mp4  29097123 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 60200 = 60.200 s
+  tracks     1
+    #1  vide  avc1   1920x1080      3612 samples     29052498 B   60.200 s   3860797 bit/s  AVC High profile, level 4.1
+  sample bytes 29052498 of 29097123 in the file  (99.85%)
+=== outro3.mp4  16233289 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 31200 = 31.200 s
+  tracks     1
+    #1  vide  avc1   1920x1080      1872 samples     16209732 B   31.200 s   4156342 bit/s  AVC High profile, level 4.1
+  sample bytes 16209732 of 16233289 in the file  (99.85%)
+=== outro4.mp4  4854008 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 15300 = 15.300 s
+  tracks     1
+    #1  vide  avc1   1920x1080       918 samples      4842095 B   15.300 s   2531814 bit/s  AVC High profile, level 4.1
+  sample bytes 4842095 of 4854008 in the file  (99.75%)
+=== pala_custode.mp4  3193515 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 5600 = 5.600 s
+  tracks     1
+    #1  vide  avc1   1920x1080       336 samples      3188538 B    5.600 s   4555054 bit/s  AVC High profile, level 4.1
+  sample bytes 3188538 of 3193515 in the file  (99.84%)
+=== pittore_dipinge.mp4  3783608 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 8434 = 8.434 s
+  tracks     1
+    #1  vide  avc1   1920x1080       506 samples      3776635 B    8.433 s   3582579 bit/s  AVC High profile, level 4.1
+  sample bytes 3776635 of 3783608 in the file  (99.82%)
+=== pomello_excalibur.mp4  1964357 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 4834 = 4.834 s
+  tracks     1
+    #1  vide  avc1   1920x1080       290 samples      1959972 B    4.833 s   3244092 bit/s  AVC High profile, level 4.1
+  sample bytes 1959972 of 1964357 in the file  (99.78%)
+=== pomello_fiamma_ossidrica.mp4  3694449 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 8467 = 8.467 s
+  tracks     1
+    #1  vide  avc1   1920x1080       508 samples      3687424 B    8.467 s   3484180 bit/s  AVC High profile, level 4.1
+  sample bytes 3687424 of 3694449 in the file  (99.81%)
+=== ripresa_trasloco.mp4  3744668 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 8517 = 8.517 s
+  tracks     1
+    #1  vide  avc1   1920x1080       511 samples      3737599 B    8.517 s   3510856 bit/s  AVC High profile, level 4.1
+  sample bytes 3737599 of 3744668 in the file  (99.81%)
+=== skinny_matrix.mp4  5690590 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 9950 = 9.950 s
+  tracks     1
+    #1  vide  avc1   1920x1080       597 samples      5682457 B    9.950 s   4568810 bit/s  AVC High profile, level 4.1
+  sample bytes 5682457 of 5690590 in the file  (99.86%)
+=== sveglia_barbone.mp4  7400795 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 14600 = 14.600 s
+  tracks     1
+    #1  vide  avc1   1920x1080       876 samples      7389310 B   14.600 s   4048937 bit/s  AVC High profile, level 4.1
+  sample bytes 7389310 of 7400795 in the file  (99.84%)
+=== viaggio_tempo_1863.mp4  4189214 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 10000 = 10.000 s
+  tracks     1
+    #1  vide  avc1   1920x1080       600 samples      4181209 B   10.000 s   3344967 bit/s  AVC High profile, level 4.1
+  sample bytes 4181209 of 4189214 in the file  (99.81%)
+=== viaggio_tempo_1981.mp4  4195661 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 10000 = 10.000 s
+  tracks     1
+    #1  vide  avc1   1920x1080       600 samples      4187640 B   10.000 s   3350112 bit/s  AVC High profile, level 4.1
+  sample bytes 4187640 of 4195661 in the file  (99.81%)
+=== viaggio_tempo_back.mp4  4186413 bytes
+  brand      isom (minor 512), compatible isom iso2 avc1 mp41
+  movie      timescale 1000, duration 10000 = 10.000 s
+  tracks     1
+    #1  vide  avc1   1920x1080       600 samples      4178408 B   10.000 s   3342726 bit/s  AVC High profile, level 4.1
+  sample bytes 4178408 of 4186413 in the file  (99.81%)

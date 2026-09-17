@@ -1,0 +1,287 @@
+$ python tools/pecensus.py TheWardrobe
+
+path                                              fmt     kind      bytes     linker COFF (UTC)          mtime (local)       CompanyName / module
+---------------------------------------------- ------ -------- ---------- ---------- ------------------- ------------------- ------------------------------
+D3D12/D3D12Core.dll                             PE32+   native    4725304      14.44 2025-09-23 21:32:22 2026-06-05 17:02:28 Microsoft Corporation
+oBleedingEdge/EmbedRuntime/MonoPosixHelper.dll  PE32+   native     611240      14.29 2025-10-14 16:20:16 2026-06-05 17:02:28 
+noBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll  PE32+   native    7828912      14.29 2025-10-14 16:18:06 2026-06-05 17:02:28 
+The Wardrobe.exe                                PE32+   native     667648      14.42 2026-01-27 10:58:40 2026-06-05 17:02:28 
+obe_Data/Managed/Assembly-CSharp-firstpass.dll   PE32  managed     401408  csc 48.00 hash 0xB8109F88     2026-06-05 17:02:28 
+The Wardrobe_Data/Managed/Assembly-CSharp.dll    PE32  managed     819712  csc 48.00 hash 0x932EEDD9     2026-06-05 17:02:28 
+The Wardrobe_Data/Managed/FMODUnity.dll          PE32  managed     224256  csc 48.00 hash 0xE6469B09     2026-06-05 17:02:30 
+e Wardrobe_Data/Managed/FMODUnityResonance.dll   PE32  managed      11264  csc 48.00 hash 0x900D986F     2026-06-05 17:02:41 
+The Wardrobe_Data/Managed/Mono.Security.dll      PE32  managed     241152  csc 48.00 hash 0xAE9CDB1E     2026-06-05 17:02:30 MONO development team
+The Wardrobe_Data/Managed/Rewired_Core.dll       PE32  managed    2030592  csc 48.00 hash 0xA8425210     2026-06-05 17:02:28 Guavaman Enterprises
+The Wardrobe_Data/Managed/Rewired_Windows.dll    PE32  managed    1322496  csc 48.00 hash 0xB653B8C1     2026-06-05 17:02:28 Guavaman Enterprises
+obe_Data/Managed/Rewired_Windows_Functions.dll   PE32  managed       5120  csc 48.00 hash 0x8D781A37     2026-06-05 17:02:31 
+The Wardrobe_Data/Managed/SonyNP.dll             PE32  managed     242176  csc 11.00 2021-07-27 14:43:43 2026-06-05 17:02:30 
+ Wardrobe_Data/Managed/SonyPS4CommonDialog.dll   PE32  managed      16384  csc 11.00 2021-07-27 14:43:44 2026-06-05 17:02:30 
+The Wardrobe_Data/Managed/SonyPS4SaveData.dll    PE32  managed      70144  csc 11.00 2021-07-27 14:43:44 2026-06-05 17:02:30 
+/Managed/System.ComponentModel.Composition.dll   PE32  managed     257024   csc 8.00 hash 0x8F9DC464     2026-06-05 17:02:31 Mono development team
+Wardrobe_Data/Managed/System.Configuration.dll   PE32  managed     124928   csc 8.00 hash 0xC843C767     2026-06-05 17:02:30 Mono development team
+The Wardrobe_Data/Managed/System.Core.dll        PE32  managed    1113088   csc 8.00 hash 0xCEDCD341     2026-06-05 17:02:28 Mono development team
+Data/Managed/System.Data.DataSetExtensions.dll   PE32  managed      29696   csc 8.00 hash 0xA4443748     2026-06-05 17:02:30 Mono development team
+The Wardrobe_Data/Managed/System.Data.dll        PE32  managed    2125312   csc 8.00 hash 0x89944A4D     2026-06-05 17:02:28 Mono development team
+The Wardrobe_Data/Managed/System.Drawing.dll     PE32  managed     489984   csc 8.00 hash 0x80A3FF5E     2026-06-05 17:02:28 Mono development team
+obe_Data/Managed/System.EnterpriseServices.dll   PE32  managed      44544   csc 8.00 hash 0xF822AB17     2026-06-05 17:02:32 Mono development team
+a/Managed/System.IO.Compression.FileSystem.dll   PE32  managed      18432   csc 8.00 hash 0xD4E3328E     2026-06-05 17:02:31 Mono development team
+ardrobe_Data/Managed/System.IO.Compression.dll   PE32  managed     114688   csc 8.00 hash 0x945D5095     2026-06-05 17:02:32 Mono development team
+he Wardrobe_Data/Managed/System.IO.Hashing.dll   PE32  managed      50488  csc 48.00 hash 0xD835C2BC     2026-06-05 17:02:30 Microsoft Corporation
+The Wardrobe_Data/Managed/System.Memory.dll      PE32  managed       4608  csc 48.00 hash 0xC0BD2F1F     2026-06-05 17:02:31 Mono development team
+The Wardrobe_Data/Managed/System.Net.Http.dll    PE32  managed     122880   csc 8.00 hash 0x92CE16CB     2026-06-05 17:02:41 Mono development team
+The Wardrobe_Data/Managed/System.Numerics.dll    PE32  managed     119296   csc 8.00 hash 0x901FC22E     2026-06-05 17:02:32 Mono development team
+ged/System.Runtime.CompilerServices.Unsafe.dll   PE32  managed      18024  csc 11.00 2021-10-22 23:40:47 2026-06-05 17:02:32 Microsoft Corporation
+_Data/Managed/System.Runtime.Serialization.dll   PE32  managed     934400   csc 8.00 hash 0x86693F0A     2026-06-05 17:02:28 Mono development team
+The Wardrobe_Data/Managed/System.Runtime.dll     PE32  managed      12288  csc 48.00 hash 0xB14BC3B0     2026-06-05 17:02:32 Mono development team
+The Wardrobe_Data/Managed/System.Security.dll    PE32  managed     320000   csc 8.00 hash 0xE075C347     2026-06-05 17:02:28 Mono development team
+Data/Managed/System.ServiceModel.Internals.dll   PE32  managed     215040  csc 48.00 hash 0xCE9B2E33     2026-06-05 17:02:32 
+ Wardrobe_Data/Managed/System.Transactions.dll   PE32  managed      35328   csc 8.00 hash 0x938F0DF2     2026-06-05 17:02:30 Mono development team
+The Wardrobe_Data/Managed/System.Xml.Linq.dll    PE32  managed     136704   csc 8.00 hash 0x8656DF5E     2026-06-05 17:02:31 Mono development team
+The Wardrobe_Data/Managed/System.Xml.dll         PE32  managed    3160064   csc 8.00 hash 0x8E4A0708     2026-06-05 17:02:28 Mono development team
+The Wardrobe_Data/Managed/System.dll             PE32  managed    2641920   csc 8.00 hash 0xDB9BDA77     2026-06-05 17:02:28 Mono development team
+ Wardrobe_Data/Managed/Unity.AI.Navigation.dll   PE32  managed      24576  csc 48.00 hash 0xA96CC211     2026-06-05 17:02:31 
+e Wardrobe_Data/Managed/Unity.Burst.Unsafe.dll   PE32  managed       5632  csc 11.00 2019-06-19 16:19:37 2026-06-05 17:02:31 
+The Wardrobe_Data/Managed/Unity.Burst.dll        PE32  managed     304640  csc 48.00 hash 0xBF613BFE     2026-06-05 17:02:28 
+naged/Unity.Collections.LowLevel.ILSupport.dll   PE32  managed       5120  csc 48.00 hash 0xB5980672     2026-06-05 17:02:31 
+he Wardrobe_Data/Managed/Unity.Collections.dll   PE32  managed     450560  csc 48.00 hash 0xF50E51AF     2026-06-05 17:02:28 
+/Managed/Unity.InternalAPIEngineBridge.004.dll   PE32  managed       4608  csc 48.00 hash 0xC4ADC72D     2026-06-05 17:02:31 
+he Wardrobe_Data/Managed/Unity.Mathematics.dll   PE32  managed     752640  csc 48.00 hash 0xDFCAD233     2026-06-05 17:02:28 
+ta/Managed/Unity.Multiplayer.Center.Common.dll   PE32  managed      10752  csc 48.00 hash 0x89E7DF6F     2026-06-05 17:02:31 
+ity.RenderPipeline.Universal.ShaderLibrary.dll   PE32  managed       9216  csc 48.00 hash 0x8355E84C     2026-06-05 17:02:32 
+/Unity.RenderPipelines.Core.Runtime.Shared.dll   PE32  managed       5632  csc 48.00 hash 0x85F52CF7     2026-06-05 17:02:32 
+Managed/Unity.RenderPipelines.Core.Runtime.dll   PE32  managed    1197056  csc 48.00 hash 0xA094C831     2026-06-05 17:02:28 
+d/Unity.RenderPipelines.Core.ShaderLibrary.dll   PE32  managed       4608  csc 48.00 hash 0x8D825773     2026-06-05 17:02:40 
+ed/Unity.RenderPipelines.GPUDriven.Runtime.dll   PE32  managed     235008  csc 48.00 hash 0xD8F77DB6     2026-06-05 17:02:31 
+erPipelines.ShaderGraph.ShaderGraphLibrary.dll   PE32  managed       4608  csc 48.00 hash 0xC06BCA66     2026-06-05 17:02:32 
+Unity.RenderPipelines.Universal.2D.Runtime.dll   PE32  managed     232960  csc 48.00 hash 0xDD9FC514     2026-06-05 17:02:42 
+y.RenderPipelines.Universal.Config.Runtime.dll   PE32  managed       5632  csc 48.00 hash 0xC7C7D92A     2026-06-05 17:02:32 
+ed/Unity.RenderPipelines.Universal.Runtime.dll   PE32  managed     758784  csc 48.00 hash 0x86B7009B     2026-06-05 17:02:28 
+ed/Unity.RenderPipelines.Universal.Shaders.dll   PE32  managed       4608  csc 48.00 hash 0xD00A9B44     2026-06-05 17:02:31 
+he Wardrobe_Data/Managed/Unity.TextMeshPro.dll   PE32  managed     446464  csc 48.00 hash 0xEA9C7571     2026-06-05 17:02:28 
+The Wardrobe_Data/Managed/Unity.Timeline.dll     PE32  managed     134144  csc 48.00 hash 0x85AAE3B5     2026-06-05 17:02:31 Unity Technologies
+ta/Managed/Unity.UnifiedRayTracing.Runtime.dll   PE32  managed     101376  csc 48.00 hash 0x907728E7     2026-06-05 17:02:31 
+Wardrobe_Data/Managed/UnityEngine.AIModule.dll   PE32  managed      77232   csc 8.00 hash 0xC8AAAF9D     2026-06-05 17:02:31 
+ardrobe_Data/Managed/UnityEngine.AMDModule.dll   PE32  managed      21928   csc 8.00 hash 0xCBBF55EB     2026-06-05 17:02:32 
+Wardrobe_Data/Managed/UnityEngine.ARModule.dll   PE32  managed      25520   csc 8.00 hash 0xEA993D49     2026-06-05 17:02:32 
+ta/Managed/UnityEngine.AccessibilityModule.dll   PE32  managed      50088   csc 8.00 hash 0xF810E3CC     2026-06-05 17:02:31 
+aged/UnityEngine.AdaptivePerformanceModule.dll   PE32  managed     120232   csc 8.00 hash 0xF54F7E3B     2026-06-05 17:02:33 
+_Data/Managed/UnityEngine.AndroidJNIModule.dll   PE32  managed     121264   csc 8.00 hash 0xEA0845ED     2026-06-05 17:02:33 
+e_Data/Managed/UnityEngine.AnimationModule.dll   PE32  managed     225192   csc 8.00 hash 0xEE470586     2026-06-05 17:02:31 
+Data/Managed/UnityEngine.AssetBundleModule.dll   PE32  managed      41896   csc 8.00 hash 0xD14499A0     2026-06-05 17:02:31 
+drobe_Data/Managed/UnityEngine.AudioModule.dll   PE32  managed     142256   csc 8.00 hash 0xD33CF413     2026-06-05 17:02:42 
+drobe_Data/Managed/UnityEngine.ClothModule.dll   PE32  managed      36264   csc 8.00 hash 0xF0683C54     2026-06-05 17:02:32 
+ata/Managed/UnityEngine.ClusterInputModule.dll   PE32  managed      27560   csc 8.00 hash 0xC8AFDB3B     2026-06-05 17:02:33 
+/Managed/UnityEngine.ClusterRendererModule.dll   PE32  managed      26544   csc 8.00 hash 0x8FE6738A     2026-06-05 17:02:32 
+Data/Managed/UnityEngine.ContentLoadModule.dll   PE32  managed      32168   csc 8.00 hash 0x988E8478     2026-06-05 17:02:31 
+rdrobe_Data/Managed/UnityEngine.CoreModule.dll   PE32  managed    1982376   csc 8.00 hash 0x9190AAC4     2026-06-05 17:02:28 
+a/Managed/UnityEngine.CrashReportingModule.dll   PE32  managed      26544   csc 8.00 hash 0xDF50B5D4     2026-06-05 17:02:31 
+be_Data/Managed/UnityEngine.DSPGraphModule.dll   PE32  managed      31656   csc 8.00 hash 0x915ED605     2026-06-05 17:02:31 
+be_Data/Managed/UnityEngine.DirectorModule.dll   PE32  managed      41392   csc 8.00 hash 0x89665AEA     2026-06-05 17:02:33 
+Wardrobe_Data/Managed/UnityEngine.GIModule.dll   PE32  managed      24496   csc 8.00 hash 0xC32F30F9     2026-06-05 17:02:42 
+_Data/Managed/UnityEngine.GameCenterModule.dll   PE32  managed      45480   csc 8.00 hash 0xD328BC36     2026-06-05 17:02:42 
+ne.GraphicsStateCollectionSerializerModule.dll   PE32  managed      14256   csc 8.00 hash 0xB951037E     2026-06-05 17:02:32 
+rdrobe_Data/Managed/UnityEngine.GridModule.dll   PE32  managed      30120   csc 8.00 hash 0xC138748C     2026-06-05 17:02:32 
+ta/Managed/UnityEngine.HierarchyCoreModule.dll   PE32  managed     109488   csc 8.00 hash 0xA3963037     2026-06-05 17:02:43 
+e_Data/Managed/UnityEngine.HierarchyModule.dll   PE32  managed     102312   csc 8.00 hash 0xB80DA205     2026-06-05 17:02:31 
+e_Data/Managed/UnityEngine.HotReloadModule.dll   PE32  managed      24496   csc 8.00 hash 0xD1FC694A     2026-06-05 17:02:42 
+drobe_Data/Managed/UnityEngine.IMGUIModule.dll   PE32  managed     213928   csc 8.00 hash 0x89EF8864     2026-06-05 17:02:32 
+Data/Managed/UnityEngine.IdentifiersModule.dll   PE32  managed      14760   csc 8.00 hash 0xBDD6BD15     2026-06-05 17:02:32 
+/Managed/UnityEngine.ImageConversionModule.dll   PE32  managed      31152   csc 8.00 hash 0xB8886E3D     2026-06-05 17:02:31 
+_Data/Managed/UnityEngine.InputForUIModule.dll   PE32  managed      57768   csc 8.00 hash 0xB42AE80F     2026-06-05 17:02:42 
+Data/Managed/UnityEngine.InputLegacyModule.dll   PE32  managed      45488   csc 8.00 hash 0x886791E3     2026-06-05 17:02:33 
+drobe_Data/Managed/UnityEngine.InputModule.dll   PE32  managed      28072   csc 8.00 hash 0xB2EEAD98     2026-06-05 17:02:42 
+be_Data/Managed/UnityEngine.InsightsModule.dll   PE32  managed      14256   csc 8.00 hash 0xC3465440     2026-06-05 17:02:31 
+ta/Managed/UnityEngine.JSONSerializeModule.dll   PE32  managed      27056   csc 8.00 hash 0x8695C515     2026-06-05 17:02:31 
+ata/Managed/UnityEngine.LocalizationModule.dll   PE32  managed      26544   csc 8.00 hash 0x886D8F25     2026-06-05 17:02:31 
+Data/Managed/UnityEngine.MarshallingModule.dll   PE32  managed      83376   csc 8.00 hash 0xE4807F9B     2026-06-05 17:02:31 
+Data/Managed/UnityEngine.MultiplayerModule.dll   PE32  managed      17840   csc 8.00 hash 0xEA169FC2     2026-06-05 17:02:31 
+robe_Data/Managed/UnityEngine.NVIDIAModule.dll   PE32  managed      40368   csc 8.00 hash 0x8472478A     2026-06-05 17:02:42 
+a/Managed/UnityEngine.ParticleSystemModule.dll   PE32  managed     171440   csc 8.00 hash 0x95BD06B0     2026-06-05 17:02:31 
+ged/UnityEngine.PerformanceReportingModule.dll   PE32  managed      25008   csc 8.00 hash 0xE7E4E075     2026-06-05 17:02:42 
+e_Data/Managed/UnityEngine.Physics2DModule.dll   PE32  managed     573360   csc 8.00 hash 0xF718391C     2026-06-05 17:02:28 
+aged/UnityEngine.PhysicsBackendPhysXModule.dll   PE32  managed      14256   csc 8.00 hash 0x90382298     2026-06-05 17:02:31 
+obe_Data/Managed/UnityEngine.PhysicsModule.dll   PE32  managed     181672   csc 8.00 hash 0xC57EB018     2026-06-05 17:02:32 
+_Data/Managed/UnityEngine.PropertiesModule.dll   PE32  managed     149416   csc 8.00 hash 0xA6EC03F1     2026-06-05 17:02:32 
+_Data/Managed/UnityEngine.RenderAs2DModule.dll   PE32  managed      25520   csc 8.00 hash 0x84F8AADD     2026-06-05 17:02:33 
+meInitializeOnLoadManagerInitializerModule.dll   PE32  managed      24488   csc 8.00 hash 0x87F1270A     2026-06-05 17:02:32 
+ta/Managed/UnityEngine.ScreenCaptureModule.dll   PE32  managed      26024   csc 8.00 hash 0xB2D43219     2026-06-05 17:02:32 
+ta/Managed/UnityEngine.ShaderRuntimeModule.dll   PE32  managed      25520   csc 8.00 hash 0x945458D3     2026-06-05 17:02:32 
+d/UnityEngine.ShaderVariantAnalyticsModule.dll   PE32  managed      24496   csc 8.00 hash 0xF114B64B     2026-06-05 17:02:32 
+/Managed/UnityEngine.SharedInternalsModule.dll   PE32  managed      37800   csc 8.00 hash 0x8DCEC161     2026-06-05 17:02:32 
+e_Data/Managed/UnityEngine.SpatialTracking.dll   PE32  managed      11776  csc 48.00 hash 0xF72D6A32     2026-06-05 17:02:31 
+_Data/Managed/UnityEngine.SpriteMaskModule.dll   PE32  managed      28592   csc 8.00 hash 0xEF0FCB20     2026-06-05 17:02:32 
+Data/Managed/UnityEngine.SpriteShapeModule.dll   PE32  managed      31664   csc 8.00 hash 0xFBD5BCB0     2026-06-05 17:02:32 
+e_Data/Managed/UnityEngine.StreamingModule.dll   PE32  managed      25520   csc 8.00 hash 0xF0567FB3     2026-06-05 17:02:32 
+e_Data/Managed/UnityEngine.SubstanceModule.dll   PE32  managed      29104   csc 8.00 hash 0x85CF7F50     2026-06-05 17:02:31 
+_Data/Managed/UnityEngine.SubsystemsModule.dll   PE32  managed      41904   csc 8.00 hash 0x9926A9C7     2026-06-05 17:02:32 
+ardrobe_Data/Managed/UnityEngine.TLSModule.dll   PE32  managed      31144   csc 8.00 hash 0xFCB84C07     2026-06-05 17:02:32 
+obe_Data/Managed/UnityEngine.TerrainModule.dll   PE32  managed     133032   csc 8.00 hash 0xB2647D1D     2026-06-05 17:02:42 
+a/Managed/UnityEngine.TerrainPhysicsModule.dll   PE32  managed      25520   csc 8.00 hash 0x9ABE7975     2026-06-05 17:02:31 
+naged/UnityEngine.TextCoreFontEngineModule.dll   PE32  managed      81840   csc 8.00 hash 0x8849649D     2026-06-05 17:02:31 
+naged/UnityEngine.TextCoreTextEngineModule.dll   PE32  managed     327600   csc 8.00 hash 0xC4DDD1E5     2026-06-05 17:02:28 
+ta/Managed/UnityEngine.TextRenderingModule.dll   PE32  managed      39336   csc 8.00 hash 0xAC104BDE     2026-06-05 17:02:42 
+obe_Data/Managed/UnityEngine.TilemapModule.dll   PE32  managed      57776   csc 8.00 hash 0xA0BBB115     2026-06-05 17:02:31 
+The Wardrobe_Data/Managed/UnityEngine.UI.dll     PE32  managed     276480  csc 48.00 hash 0xEA404A32     2026-06-05 17:02:28 Microsoft
+_Data/Managed/UnityEngine.UIElementsModule.dll   PE32  managed    2418608   csc 8.00 hash 0xB0E6FD54     2026-06-05 17:02:28 
+Wardrobe_Data/Managed/UnityEngine.UIModule.dll   PE32  managed      49584   csc 8.00 hash 0x88BE3131     2026-06-05 17:02:32 
+drobe_Data/Managed/UnityEngine.UmbraModule.dll   PE32  managed      24488   csc 8.00 hash 0xBED2DDC9     2026-06-05 17:02:43 
+ged/UnityEngine.UnityAnalyticsCommonModule.dll   PE32  managed      35760   csc 8.00 hash 0x8B24F242     2026-06-05 17:02:33 
+a/Managed/UnityEngine.UnityAnalyticsModule.dll   PE32  managed      60848   csc 8.00 hash 0xA332C2F9     2026-06-05 17:02:32 
+ata/Managed/UnityEngine.UnityConnectModule.dll   PE32  managed      27560   csc 8.00 hash 0x88D4A30E     2026-06-05 17:02:32 
+ata/Managed/UnityEngine.UnityConsentModule.dll   PE32  managed      16304   csc 8.00 hash 0xC1E5ED2D     2026-06-05 17:02:31 
+e_Data/Managed/UnityEngine.UnityCurlModule.dll   PE32  managed      26032   csc 8.00 hash 0xCF3814C3     2026-06-05 17:02:32 
+ityEngine.UnityWebRequestAssetBundleModule.dll   PE32  managed      28584   csc 8.00 hash 0xC3281838     2026-06-05 17:02:31 
+ged/UnityEngine.UnityWebRequestAudioModule.dll   PE32  managed      28072   csc 8.00 hash 0xB2A7A69A     2026-06-05 17:02:31 
+/Managed/UnityEngine.UnityWebRequestModule.dll   PE32  managed      69032   csc 8.00 hash 0x8DC3864C     2026-06-05 17:02:40 
+d/UnityEngine.UnityWebRequestTextureModule.dll   PE32  managed      27568   csc 8.00 hash 0xC14984AF     2026-06-05 17:02:43 
+naged/UnityEngine.UnityWebRequestWWWModule.dll   PE32  managed      36272   csc 8.00 hash 0xA2D223D5     2026-06-05 17:02:32 
+ardrobe_Data/Managed/UnityEngine.VFXModule.dll   PE32  managed      78256   csc 8.00 hash 0xC534FDB8     2026-06-05 17:02:31 
+Wardrobe_Data/Managed/UnityEngine.VRModule.dll   PE32  managed      31656   csc 8.00 hash 0x9E6B269E     2026-06-05 17:02:33 
+a/Managed/UnityEngine.VectorGraphicsModule.dll   PE32  managed     252336   csc 8.00 hash 0xFDC5B15C     2026-06-05 17:02:32 
+be_Data/Managed/UnityEngine.VehiclesModule.dll   PE32  managed      31144   csc 8.00 hash 0xCDB744D6     2026-06-05 17:02:43 
+drobe_Data/Managed/UnityEngine.VideoModule.dll   PE32  managed      49064   csc 8.00 hash 0xC3886B19     2026-06-05 17:02:32 
+Managed/UnityEngine.VirtualTexturingModule.dll   PE32  managed      42920   csc 8.00 hash 0x9947893E     2026-06-05 17:02:32 
+rdrobe_Data/Managed/UnityEngine.WindModule.dll   PE32  managed      26536   csc 8.00 hash 0xE2E26879     2026-06-05 17:02:32 
+/Managed/UnityEngine.XR.LegacyInputHelpers.dll   PE32  managed      23552  csc 48.00 hash 0xCC45F59D     2026-06-05 17:02:34 
+Wardrobe_Data/Managed/UnityEngine.XRModule.dll   PE32  managed      87976   csc 8.00 hash 0xF0BC95D7     2026-06-05 17:02:43 
+The Wardrobe_Data/Managed/UnityEngine.dll        PE32  managed     196520  csc 48.00 hash 0x8B5A11B2     2026-06-05 17:02:32 
+The Wardrobe_Data/Managed/UsersImport.dll        PE32  managed      41984  csc 48.00 2020-04-20 12:32:47 2026-06-05 17:02:32 UsersImport
+ Wardrobe_Data/Managed/XboxOneCommonImport.dll   PE32  managed      28160  csc 48.00 2020-04-20 12:32:27 2026-06-05 17:02:31 XboxOneCommonImport
+The Wardrobe_Data/Managed/mscorlib.dll           PE32  managed    4632064   csc 8.00 hash 0xDD90C570     2026-06-05 17:02:28 Mono development team
+The Wardrobe_Data/Managed/netstandard.dll        PE32  managed      90112  csc 48.00 hash 0xC5847D96     2026-06-05 17:02:30 Mono development team
+obe_Data/Plugins/ARM64/Rewired_DirectInput.dll  PE32+   native      96768      14.34 2024-02-13 21:44:24 2026-06-05 17:02:31 
+a/Plugins/ARM64/Rewired_WindowsGamingInput.dll  PE32+   native     147456      14.34 2024-02-13 20:56:47 2026-06-05 17:02:31 
+e Wardrobe_Data/Plugins/x86_64/CSteamworks.dll  PE32+   native     169472      10.00 2017-01-08 22:46:23 2024-09-28 12:05:38 Riley Labrecque
+be_Data/Plugins/x86_64/Rewired_DirectInput.dll  PE32+   native     107008      14.34 2024-02-13 21:44:26 2026-06-05 17:02:32 
+/Plugins/x86_64/Rewired_WindowsGamingInput.dll  PE32+   native     153088      14.34 2023-10-30 18:44:31 2026-06-05 17:02:33 
+The Wardrobe_Data/Plugins/x86_64/fmod.dll       PE32+   native    1642496      10.00 2016-03-03 17:02:59 2024-09-28 12:05:30 Firelight Technologies
+The Wardrobe_Data/Plugins/x86_64/fmodl.dll      PE32+   native    1810944      10.00 2016-03-03 17:03:27 2024-09-28 12:05:30 Firelight Technologies
+he Wardrobe_Data/Plugins/x86_64/fmodstudio.dll  PE32+   native    3160576      14.29 2022-12-01 04:20:53 2026-06-05 17:02:28 Firelight Technologies
+The Wardrobe_Data/Plugins/x86_64/gvraudio.dll   PE32+   native     999936      14.00 2017-05-12 16:57:55 2024-09-28 12:05:30 
+be_Data/Plugins/x86_64/lib_burst_generated.dll  PE32+   native     443392      14.00 2026-05-06 12:29:54 2026-06-05 17:02:28 
+ardrobe_Data/Plugins/x86_64/resonanceaudio.dll  PE32+   native     816640      14.00 2021-03-22 01:19:07 2026-06-05 17:02:28 
+e Wardrobe_Data/Plugins/x86_64/steam_api64.dll  PE32+   native     262944      14.14 2020-02-21 01:25:20 2026-06-05 17:02:28 Valve Corporation
+UnityCrashHandler64.exe                         PE32+   native    1609136      14.42 2026-01-27 10:56:00 2026-06-05 17:02:28 
+UnityPlayer.dll                                 PE32+   native   35780016      14.42 2026-01-27 11:13:20 2026-06-05 17:02:28 Unity Technologies
+
+=== files whose mtime PRECEDES their own COFF link timestamp ===
+(a file cannot be written before it is linked; where this happens
+ the mtime is synthetic, or the two clocks are in different zones)
+
+    none
+
+impossible mtimes : 0 of 25 datable binaries
+deterministic (hash) stamps, not dates, counted apart : 136 of 143 managed
+  (a managed PE whose COFF field has bit 31 set, or lies after its
+   own mtime, carries Roslyn's build hash; repaired on pc-thewardrobe-doc)
+
+binaries        : 161
+by format       : PE32 143, PE32+ 18
+COFF range      : 2016-03-03 .. 2026-05-06   (over 25 datable stamps; 136 hashes excluded)
+distinct COFF days: 16  2016-03-03, 2017-01-08, 2017-05-12, 2019-06-19, 2020-02-21, 2020-04-20, 2021-03-22, 2021-07-27, 2021-10-22, 2022-12-01, 2023-10-30, 2024-02-13, 2025-09-23, 2025-10-14, 2026-01-27, 2026-05-06
+
+Authenticode: 90 of 161 PE files carry a certificate table
+    SIGNED  D3D12/D3D12Core.dll
+    SIGNED  MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll
+    SIGNED  MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll
+    SIGNED  The Wardrobe_Data/Managed/System.IO.Hashing.dll
+    SIGNED  The Wardrobe_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.AIModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.AMDModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.ARModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.AccessibilityModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.AdaptivePerformanceModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.AndroidJNIModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.AnimationModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.AssetBundleModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.AudioModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.ClothModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.ClusterInputModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.ClusterRendererModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.ContentLoadModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.CoreModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.CrashReportingModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.DSPGraphModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.DirectorModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.GIModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.GameCenterModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.GridModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.HierarchyCoreModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.HierarchyModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.HotReloadModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.IMGUIModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.IdentifiersModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.ImageConversionModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.InputForUIModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.InputLegacyModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.InputModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.InsightsModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.JSONSerializeModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.LocalizationModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.MarshallingModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.MultiplayerModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.NVIDIAModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.ParticleSystemModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.PerformanceReportingModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.Physics2DModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.PhysicsModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.PropertiesModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.RenderAs2DModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.ScreenCaptureModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.ShaderRuntimeModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.SharedInternalsModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.SpriteMaskModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.SpriteShapeModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.StreamingModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.SubstanceModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.SubsystemsModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.TLSModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.TerrainModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.TextRenderingModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.TilemapModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UIElementsModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UIModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UmbraModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UnityConnectModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UnityConsentModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UnityCurlModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UnityWebRequestModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.VFXModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.VRModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.VectorGraphicsModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.VehiclesModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.VideoModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.VirtualTexturingModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.WindModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.XRModule.dll
+    SIGNED  The Wardrobe_Data/Managed/UnityEngine.dll
+    SIGNED  The Wardrobe_Data/Plugins/x86_64/steam_api64.dll
+    SIGNED  UnityCrashHandler64.exe
+    SIGNED  UnityPlayer.dll
+
+CompanyName / module name, by count:
+    (none)                                   124
+    Mono development team                    21
+    Microsoft Corporation                    3
+    Firelight Technologies                   3
+    Guavaman Enterprises                     2
+    Unity Technologies                       2
+    MONO development team                    1
+    Microsoft                                1
+    UsersImport                              1
+    XboxOneCommonImport                      1
+    Riley Labrecque                          1
+    Valve Corporation                        1

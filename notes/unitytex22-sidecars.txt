@@ -1,0 +1,10 @@
+$ python tools/unitytex22.py sidecars "TheWardrobe/The Wardrobe_Data"
+
+SIDECAR                                 BYTES  RECS      REACHED  GAP BYTES   GAPS  OVERLAP ENDS AT 
+globalgamemanagers.assets.resS        5716192    48      5716192          0      0        0 file    
+resources.assets.resS              2432582144   892   2432582144        201     24        0 file    
+sharedassets0.assets.resS                5472     1         5460          0      0        0 short   
+sharedassets1.assets.resS             2397456     4      2397456          8      1        0 file    
+sharedassets2.assets.resS            25317008    15     25317000          0      0        0 short   
+
+3 of 5 sidecars reached to the last byte with no overlap

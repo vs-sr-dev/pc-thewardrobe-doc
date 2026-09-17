@@ -1,0 +1,80 @@
+$ python tools/fevbank.py tree "TheWardrobe/The Wardrobe_Data/StreamingAssets/ost.bank" --depth 1
+
+ost.bank: 86498816 bytes, RIFF length 86498808 (+8 = file), 1040 chunks, residue 0
+FMT   8
+LIST PROJ 39046
+  BNKI  32
+  LIST IBSS 3922
+  LIST GBSS 4122
+  LIST RBSS 4
+  LIST PRTS 4
+  LIST MBSS 5170
+  LIST BEFX 396
+  LIST PEFX 4
+  LIST SEFX 226
+  LIST SCFX 4
+  LIST VCAS 4
+  LIST EVTS 6300
+  LIST TLNS 7042
+  LIST PMLS 272
+  LIST PRMS 204
+  LIST CTRS 196
+  LIST CRVS 244
+  LIST MPGS 160
+  LIST MUIS 4
+  LIST SPIS 4
+  LIST PRIS 4
+  LIST EVIS 976
+  LIST WAIS 6278
+  LIST EFIS 4
+  LIST CMDS 4
+  LIST SLNS 4
+  LIST LWVS 4
+  LIST WAVS 1194
+  LIST SNAS 616
+  LIST MODS 4
+  SNDH  12
+  STDT  0
+  STBL  0
+  HASH  1324
+  DEL   0
+  MUTE  0
+  REFI  0
+  PLAT  0
+SND   86459726
+
+chunk ids: LIST:490 BUS :97 LCNT:49 CTRO:37 MBSB:35 EVTB:35 TLNB:35 INST:35 IBSB:31 GBSB:31 WAIB:31 WAV :31 TRNB:30 TRTL:30 EVIB:4 SNAB:4 PROP:3 BEFB:3 PMEF:3 SEFB:3 CTRL:3 CURV:3 PMLB:2 PRMB:2 MAP :2 FMT :1 BNKI:1 SNDH:1 STDT:1 STBL:1 HASH:1 DEL :1 MUTE:1 REFI:1 PLAT:1 SND :1
+SNDH: (3, 8)  offset 39104 length 86459712
+SND: 86459726 bytes; FSB5 at +14 of the chunk (file offset 39104); declared 86459712; pad + declared == chunk: yes; SNDH agrees: True
+FSB5 version 1, 31 samples, codec 15 (Vorbis), names yes
+  cameretta ronald                          48000 Hz 2 ch   114.00 s    5818880 bytes
+  cantiere                                  48000 Hz 2 ch   120.00 s    5714048 bytes
+  baracca_theme                             48000 Hz 2 ch   172.80 s    5792448 bytes
+  metal gru                                 48000 Hz 2 ch    93.71 s    4520960 bytes
+  studio                                    48000 Hz 2 ch    84.05 s    3310528 bytes
+  museo                                     48000 Hz 2 ch   128.00 s    5794752 bytes
+  main_theme                                48000 Hz 2 ch    83.08 s    3474560 bytes
+  camera_da_letto                           48000 Hz 2 ch   144.00 s    7098816 bytes
+  catacomba_buio                            48000 Hz 2 ch    80.00 s    3457024 bytes
+  Discarica theme finale                    48000 Hz 2 ch   182.89 s    7734848 bytes
+  catacomba_on_no_voci                      48000 Hz 2 ch    48.00 s    2164416 bytes
+  Cripta                                    48000 Hz 2 ch    78.00 s    3621760 bytes
+  meteorite                                 48000 Hz 2 ch   139.75 s    6614336 bytes
+  scantinato                                48000 Hz 2 ch   127.20 s    5696000 bytes
+  sgabuzzino_theme                          48000 Hz 2 ch    56.03 s    2579264 bytes
+  Zona Bonus                                48000 Hz 2 ch   138.67 s    5993088 bytes
+  camera_salotto_theme                      48000 Hz 2 ch   110.19 s    5116416 bytes
+  grotta                                    48000 Hz 2 ch   102.00 s    4913536 bytes
+  sgabuzzino on                             48000 Hz 2 ch    54.67 s    2718272 bytes
+  vicolo gipsy                              48000 Hz 2 ch   150.00 s    7725504 bytes
+  spiaggia_theme                            48000 Hz 2 ch   128.00 s    5970304 bytes
+  sala telecamere (string theme)            48000 Hz 2 ch   180.00 s    7715904 bytes
+  party_theme                               48000 Hz 2 ch   232.00 s   10108544 bytes
+  bagno_theme                               48000 Hz 2 ch    69.47 s    2954496 bytes
+  vicolo_theme                              48000 Hz 2 ch   136.80 s    7093248 bytes
+  cimitero                                  48000 Hz 2 ch   177.60 s    8896576 bytes
+  grotta (no ufo)                           48000 Hz 2 ch   102.00 s    5053568 bytes
+  intermezzo                                48000 Hz 2 ch    94.30 s    3720384 bytes
+  ingresso_theme                            48000 Hz 2 ch   133.20 s    6409856 bytes
+  casa_albero_theme                         48000 Hz 2 ch   128.00 s    6218944 bytes
+  fogna_theme                               48000 Hz 2 ch   192.00 s  -77579808 bytes

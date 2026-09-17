@@ -1,0 +1,41 @@
+$ python tools/pe.py TheWardrobe/UnityPlayer.dll --sections --version
+
+machine 0x8664  PE32+ True  image base 0x180000000  sections 8  timestamp 0x69789DD0
+name            vsize      vaddr    rawsize     rawoff   entropy   zeros%
+.text      0x01B9DDD0 0x00001000 0x01B9DE00 0x00000400    6.5385    9.77%
+.rdata     0x004AFBE8 0x01B9F000 0x004AFC00 0x01B9E200    6.2090   22.03%
+.data      0x001A0488 0x0204F000 0x00055C00 0x0204DE00    2.6888   72.43%
+.pdata     0x00143220 0x021F0000 0x00143400 0x020A3A00    6.8836   11.63%
+.rodata    0x00000B80 0x02334000 0x00000C00 0x021E6E00    4.1480   38.90%
+_RDATA     0x00010CE0 0x02335000 0x00010E00 0x021E7A00    6.5694   24.10%
+.rsrc      0x000009E0 0x02346000 0x00000A00 0x021F8800    3.3548   60.43%
+.reloc     0x000238B4 0x02347000 0x00023A00 0x021F9200    5.4753    3.18%
+6 resource data entries, directory at file 0x21F8800 (2528 bytes)
+  type=DIALOG       name=9              lang=1033   rva=0x02346160 size=292
+  type=DIALOG       name=105            lang=1033   rva=0x02346288 size=268
+  type=DIALOG       name=107            lang=1033   rva=0x02346398 size=450
+  type=DIALOG       name=108            lang=1033   rva=0x02346560 size=220
+  type=DIALOG       name=109            lang=1033   rva=0x02346640 size=142
+  type=VERSION      name=1              lang=1033   rva=0x023466D0 size=780
+
+--- VS_VERSIONINFO, 780 bytes ---
+   VS_VERSION_INFO
+   StringFileInfo
+   040904b0
+   FileVersion
+   6000.3.6.12300304
+   LegalCopyright
+   (c) 2005-2026 Unity Technologies. All rights reserved.
+   ProductVersion
+   6000.3.6f1 (bbb010bdb8a3)
+   FileDescription
+   Unity playback engine
+   InternalName
+   UnityPlayer
+   ProductName
+   Unity
+   CompanyName
+   Unity Technologies
+   VarFileInfo
+   Translation
+   FIXEDFILEINFO FileVersion 6000.3.6.45072  ProductVersion 6000.3.6.45072

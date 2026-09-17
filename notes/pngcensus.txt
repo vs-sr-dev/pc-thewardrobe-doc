@@ -1,0 +1,40 @@
+$ python tools/pngcensus.py "TheWardrobe/The Wardrobe_Data/StreamingAssets"
+
+root                 : TheWardrobe/The Wardrobe_Data/StreamingAssets
+files matching .png  : 3
+parsed as PNG        : 3
+refused              : 0
+bytes in parsed files: 176738
+
+-- closure: signature + every declared chunk length + CRC ------
+   files closing at residue 0        : 3 of 3
+   chunks walked                     : 21
+   chunks whose CRC-32 verifies      : 21 of 21
+   files with a failing CRC          : 0
+
+-- what IHDR declares ------------------------------------------
+   depth  colour type            interlace  files
+       8  2 truecolour                0        3
+
+-- the palettes ------------------------------------------------
+   files carrying a PLTE chunk       : 0 of 3
+   DISTINCT palettes by sha1 of PLTE : 0
+   palette entry counts              : {}
+
+-- geometry ----------------------------------------------------
+   distinct (width, height) pairs    : 2
+     160 x 90     2 files
+     228 x 128    1 files
+
+-- chunk types seen --------------------------------------------
+   IHDR 3  pHYs 3  iCCP 3  iTXt 3  cHRM 3  IDAT 3  IEND 3
+
+-- is any two the same image? ----------------------------------
+   The tree has one sha1 per file, so no two files are
+   byte-identical. This asks the weaker and more useful question:
+   do two files carry the SAME COMPRESSED PIXEL STREAM, which
+   would make them the same image in different wrapping?
+   distinct IDAT streams by sha1      : 3 over 3 files
+   files sharing an IDAT stream       : 0
+   files sharing (w, h, depth, colour, palette) with another
+   file but NOT its pixels            : 2

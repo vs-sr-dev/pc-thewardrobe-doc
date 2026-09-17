@@ -1,0 +1,24 @@
+$ python tools/unityfs.py info "TheWardrobe/The Wardrobe_Data/resources.assets"
+
+TheWardrobe/The Wardrobe_Data/resources.assets
+
+format version     22
+unity version      6000.3.6f1
+target platform    19
+endianness         little
+type tree          absent
+metadata size      498527, after a 48-byte header = 498575; parsed to 498575   agrees
+data offset        498576
+file size declared 231758920
+file size actual   231758920   agrees
+types              90
+objects            20586
+script types       79
+externals          3
+reference types    0
+user information   ''
+
+externals:
+  globalgamemanagers.assets                type 0  guid 00000000000000000000000000000000
+  sharedassets0.assets                     type 0  guid 00000000000000000000000000000000
+  Library/unity default resources          type 0  guid 00000000000000000e00000000000000

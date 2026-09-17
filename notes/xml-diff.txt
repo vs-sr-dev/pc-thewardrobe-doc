@@ -1,0 +1,424 @@
+$ python tools/wardrobexml.py diff "TheWardrobe/The Wardrobe_Data/StreamingAssets/XML"
+
+the key tree is ita (179 files); every other tree against it, file by file
+
+LANG  FILES     SAME   DIFFER  MISSING VERB DELTA vs ita (lang - ita)          
+deu     179       98       81        0 achievement+0 animation+4 expression+15 internal-1 lookat+1 pose-1 sound+1 text+0 wait+19
+eng     179       98       81        0 achievement+0 animation+4 expression+15 internal-1 lookat+1 pose-1 sound+1 text+0 wait+19
+fra     179       98       81        0 achievement+0 animation+4 expression+15 internal-1 lookat+1 pose-1 sound+1 text+0 wait+19
+rus     179       98       81        0 achievement+0 animation+4 expression+15 internal-1 lookat+1 pose-1 sound+1 text+0 wait+19
+spa     179       98       81        0 achievement+0 animation+4 expression+15 internal-1 lookat+1 pose-1 sound+1 text+0 wait+19
+
+the files that differ (command count ita -> lang, verb delta):
+  deu  dialogs/audioguida_botanica_IIWW.xml            24 ->    25  expression+1
+  deu  dialogs/cieco.xml                               36 ->    37  wait+1
+  deu  dialogs/custode.xml                             44 ->    43  expression+1 wait-2
+  deu  dialogs/dragone.xml                             34 ->    39  animation+4 expression+1
+  deu  dialogs/eremita.xml                             54 ->    52  wait-2
+  deu  dialogs/frank.xml                               39 ->    40  wait+1
+  deu  dialogs/guardia.xml                             56 ->    57  wait+1
+  deu  dialogs/libro_magia_nera.xml                    46 ->    46  
+  deu  dialogs/morpheus.xml                            55 ->    59  expression+2 wait+2
+  deu  dialogs/mostro_polvere.xml                      56 ->    55  expression-3 wait+2
+  deu  dialogs/mostro_polvere_forzuto.xml              46 ->    47  wait+1
+  deu  dialogs/mummia.xml                              45 ->    45  expression+1 wait-1
+  deu  dialogs/non_sapevo_come_chiamarlo.xml           42 ->    44  wait+2
+  deu  dialogs/nonnina.xml                             47 ->    46  expression-1
+  deu  dialogs/quarterback.xml                        113 ->   112  wait-1
+  deu  dialogs/robot.xml                               38 ->    39  wait+1
+  deu  dialogs/ronald.xml                              68 ->    69  wait+1
+  deu  dialogs/scelta_pezzo.xml                        39 ->    38  wait-1
+  deu  dialogs/scelta_premio.xml                       65 ->    69  wait+4
+  deu  dialogs/scienziato.xml                          55 ->    54  expression+2 wait-3
+  deu  dialogs/sviluppatori.xml                        59 ->    60  wait+1
+  deu  dialogs/tutorial.xml                            59 ->    59  expression+1 wait-1
+  deu  dialogs/zombie.xml                              50 ->    58  expression+7 wait+1
+  deu  locations/accampamento.xml                     197 ->   198  wait+1
+  deu  locations/anticamera.xml                        79 ->    77  expression-1 pose-1
+  deu  locations/bagno.xml                            191 ->   192  expression+1
+  deu  locations/bagno1.xml                           358 ->   359  wait+1
+  deu  locations/baracca.xml                          199 ->   199  
+  deu  locations/bonus.xml                             70 ->    71  wait+1
+  deu  locations/cabina.xml                           157 ->   158  wait+1
+  deu  locations/camera_letto.xml                      98 ->    97  expression+1 wait-2
+  deu  locations/cameretta.xml                        119 ->   119  
+  deu  locations/casa_albero.xml                       85 ->    85  
+  deu  locations/catacomba.xml                        115 ->   115  
+  deu  locations/cimitero.xml                         150 ->   148  expression-2
+  deu  locations/cucina1.xml                          129 ->   135  wait+6
+  deu  locations/discarica.xml                        377 ->   380  expression+1 wait+2
+  deu  locations/elenco_telefonico.xml                 15 ->    14  wait-1
+  deu  locations/frigorifero.xml                       31 ->    31  
+  deu  locations/giardino.xml                         121 ->   120  wait-1
+  deu  locations/ingresso.xml                         238 ->   238  
+  deu  locations/intro.xml                             72 ->    70  wait-2
+  deu  locations/marciapiede.xml                      110 ->   110  
+  deu  locations/meteorite.xml                        151 ->   154  wait+3
+  deu  locations/museo.xml                             62 ->    63  expression+1
+  deu  locations/piano_terra.xml                      131 ->   134  wait+3
+  deu  locations/primo_piano.xml                      198 ->   198  
+  deu  locations/retro_furgone.xml                     43 ->    43  sound+1 wait-1
+  deu  locations/sala_botanica_IIWW.xml                76 ->    73  expression-1 wait-2
+  deu  locations/sala_vikingi_egizi.xml                66 ->    64  wait-2
+  deu  locations/salotto.xml                          163 ->   165  lookat+1 wait+1
+  deu  locations/sgabuzzino.xml                       140 ->   142  expression+2
+  deu  locations/spiaggia.xml                         286 ->   283  expression-1 wait-2
+  deu  locations/studio.xml                            92 ->    94  expression+2
+  deu  locations/vicolo.xml                            70 ->    71  expression-1 wait+2
+  deu  objects/acqua_fogna.xml                         34 ->    35  wait+1
+  deu  objects/anelli.xml                              32 ->    31  wait-1
+  deu  objects/arpione.xml                             24 ->    25  wait+1
+  deu  objects/bambola voodoo incompleta.xml           44 ->    44  
+  deu  objects/bambola voodoo.xml                      93 ->    93  
+  deu  objects/bibbia.xml                              57 ->    59  expression+2
+  deu  objects/bomba_disinnescata.xml                  20 ->    21  wait+1
+  deu  objects/dentiera.xml                            26 ->    26  
+  deu  objects/ingranaggi.xml                          13 ->     9  achievement-1 expression-1 text-2
+  deu  objects/intruglio.xml                           56 ->    56  expression-1 wait+1
+  deu  objects/lenza.xml                               19 ->    18  internal-1
+  deu  objects/lettera_struccata.xml                   29 ->    28  wait-1
+  deu  objects/magnete.xml                             78 ->    77  wait-1
+  deu  objects/megafono.xml                            57 ->    56  wait-1
+  deu  objects/musicassetta.xml                        13 ->    14  wait+1
+  deu  objects/noce.xml                                51 ->    50  wait-1
+  deu  objects/pala.xml                                74 ->    74  
+  deu  objects/petardi.xml                             22 ->    22  
+  deu  objects/spillo.xml                             130 ->   130  
+  deu  objects/starter_kit_metallaro.xml               15 ->    16  wait+1
+  deu  objects/trapano_funzionante.xml                 40 ->    40  
+  deu  objects/viagra.xml                              46 ->    47  wait+1
+  deu  objects/vite.xml                                13 ->    17  achievement+1 expression+1 text+2
+  deu  scripts/buffers/call.xml                       440 ->   441  wait+1
+  deu  scripts/cutscenes/intro.xml                     14 ->    15  wait+1
+  deu  scripts/cutscenes/outro3.xml                     2 ->     2  
+  eng  dialogs/audioguida_botanica_IIWW.xml            24 ->    25  expression+1
+  eng  dialogs/cieco.xml                               36 ->    37  wait+1
+  eng  dialogs/custode.xml                             44 ->    43  expression+1 wait-2
+  eng  dialogs/dragone.xml                             34 ->    39  animation+4 expression+1
+  eng  dialogs/eremita.xml                             54 ->    52  wait-2
+  eng  dialogs/frank.xml                               39 ->    40  wait+1
+  eng  dialogs/guardia.xml                             56 ->    57  wait+1
+  eng  dialogs/libro_magia_nera.xml                    46 ->    46  
+  eng  dialogs/morpheus.xml                            55 ->    59  expression+2 wait+2
+  eng  dialogs/mostro_polvere.xml                      56 ->    55  expression-3 wait+2
+  eng  dialogs/mostro_polvere_forzuto.xml              46 ->    47  wait+1
+  eng  dialogs/mummia.xml                              45 ->    45  expression+1 wait-1
+  eng  dialogs/non_sapevo_come_chiamarlo.xml           42 ->    44  wait+2
+  eng  dialogs/nonnina.xml                             47 ->    46  expression-1
+  eng  dialogs/quarterback.xml                        113 ->   112  wait-1
+  eng  dialogs/robot.xml                               38 ->    39  wait+1
+  eng  dialogs/ronald.xml                              68 ->    69  wait+1
+  eng  dialogs/scelta_pezzo.xml                        39 ->    38  wait-1
+  eng  dialogs/scelta_premio.xml                       65 ->    69  wait+4
+  eng  dialogs/scienziato.xml                          55 ->    54  expression+2 wait-3
+  eng  dialogs/sviluppatori.xml                        59 ->    60  wait+1
+  eng  dialogs/tutorial.xml                            59 ->    59  expression+1 wait-1
+  eng  dialogs/zombie.xml                              50 ->    58  expression+7 wait+1
+  eng  locations/accampamento.xml                     197 ->   198  wait+1
+  eng  locations/anticamera.xml                        79 ->    77  expression-1 pose-1
+  eng  locations/bagno.xml                            191 ->   192  expression+1
+  eng  locations/bagno1.xml                           358 ->   359  wait+1
+  eng  locations/baracca.xml                          199 ->   199  
+  eng  locations/bonus.xml                             70 ->    71  wait+1
+  eng  locations/cabina.xml                           157 ->   158  wait+1
+  eng  locations/camera_letto.xml                      98 ->    97  expression+1 wait-2
+  eng  locations/cameretta.xml                        119 ->   119  
+  eng  locations/casa_albero.xml                       85 ->    85  
+  eng  locations/catacomba.xml                        115 ->   115  
+  eng  locations/cimitero.xml                         150 ->   148  expression-2
+  eng  locations/cucina1.xml                          129 ->   135  wait+6
+  eng  locations/discarica.xml                        377 ->   380  expression+1 wait+2
+  eng  locations/elenco_telefonico.xml                 15 ->    14  wait-1
+  eng  locations/frigorifero.xml                       31 ->    31  
+  eng  locations/giardino.xml                         121 ->   120  wait-1
+  eng  locations/ingresso.xml                         238 ->   238  
+  eng  locations/intro.xml                             72 ->    70  wait-2
+  eng  locations/marciapiede.xml                      110 ->   110  
+  eng  locations/meteorite.xml                        151 ->   154  wait+3
+  eng  locations/museo.xml                             62 ->    63  expression+1
+  eng  locations/piano_terra.xml                      131 ->   134  wait+3
+  eng  locations/primo_piano.xml                      198 ->   198  
+  eng  locations/retro_furgone.xml                     43 ->    43  sound+1 wait-1
+  eng  locations/sala_botanica_IIWW.xml                76 ->    73  expression-1 wait-2
+  eng  locations/sala_vikingi_egizi.xml                66 ->    64  wait-2
+  eng  locations/salotto.xml                          163 ->   165  lookat+1 wait+1
+  eng  locations/sgabuzzino.xml                       140 ->   142  expression+2
+  eng  locations/spiaggia.xml                         286 ->   283  expression-1 wait-2
+  eng  locations/studio.xml                            92 ->    94  expression+2
+  eng  locations/vicolo.xml                            70 ->    71  expression-1 wait+2
+  eng  objects/acqua_fogna.xml                         34 ->    35  wait+1
+  eng  objects/anelli.xml                              32 ->    31  wait-1
+  eng  objects/arpione.xml                             24 ->    25  wait+1
+  eng  objects/bambola voodoo incompleta.xml           44 ->    44  
+  eng  objects/bambola voodoo.xml                      93 ->    93  
+  eng  objects/bibbia.xml                              57 ->    59  expression+2
+  eng  objects/bomba_disinnescata.xml                  20 ->    21  wait+1
+  eng  objects/dentiera.xml                            26 ->    26  
+  eng  objects/ingranaggi.xml                          13 ->     9  achievement-1 expression-1 text-2
+  eng  objects/intruglio.xml                           56 ->    56  expression-1 wait+1
+  eng  objects/lenza.xml                               19 ->    18  internal-1
+  eng  objects/lettera_struccata.xml                   29 ->    28  wait-1
+  eng  objects/magnete.xml                             78 ->    77  wait-1
+  eng  objects/megafono.xml                            57 ->    56  wait-1
+  eng  objects/musicassetta.xml                        13 ->    14  wait+1
+  eng  objects/noce.xml                                51 ->    50  wait-1
+  eng  objects/pala.xml                                74 ->    74  
+  eng  objects/petardi.xml                             22 ->    22  
+  eng  objects/spillo.xml                             130 ->   130  
+  eng  objects/starter_kit_metallaro.xml               15 ->    16  wait+1
+  eng  objects/trapano_funzionante.xml                 40 ->    40  
+  eng  objects/viagra.xml                              46 ->    47  wait+1
+  eng  objects/vite.xml                                13 ->    17  achievement+1 expression+1 text+2
+  eng  scripts/buffers/call.xml                       440 ->   441  wait+1
+  eng  scripts/cutscenes/intro.xml                     14 ->    15  wait+1
+  eng  scripts/cutscenes/outro3.xml                     2 ->     2  
+  fra  dialogs/audioguida_botanica_IIWW.xml            24 ->    25  expression+1
+  fra  dialogs/cieco.xml                               36 ->    37  wait+1
+  fra  dialogs/custode.xml                             44 ->    43  expression+1 wait-2
+  fra  dialogs/dragone.xml                             34 ->    39  animation+4 expression+1
+  fra  dialogs/eremita.xml                             54 ->    52  wait-2
+  fra  dialogs/frank.xml                               39 ->    40  wait+1
+  fra  dialogs/guardia.xml                             56 ->    57  wait+1
+  fra  dialogs/libro_magia_nera.xml                    46 ->    46  
+  fra  dialogs/morpheus.xml                            55 ->    59  expression+2 wait+2
+  fra  dialogs/mostro_polvere.xml                      56 ->    55  expression-3 wait+2
+  fra  dialogs/mostro_polvere_forzuto.xml              46 ->    47  wait+1
+  fra  dialogs/mummia.xml                              45 ->    45  expression+1 wait-1
+  fra  dialogs/non_sapevo_come_chiamarlo.xml           42 ->    44  wait+2
+  fra  dialogs/nonnina.xml                             47 ->    46  expression-1
+  fra  dialogs/quarterback.xml                        113 ->   112  wait-1
+  fra  dialogs/robot.xml                               38 ->    39  wait+1
+  fra  dialogs/ronald.xml                              68 ->    69  wait+1
+  fra  dialogs/scelta_pezzo.xml                        39 ->    38  wait-1
+  fra  dialogs/scelta_premio.xml                       65 ->    69  wait+4
+  fra  dialogs/scienziato.xml                          55 ->    54  expression+2 wait-3
+  fra  dialogs/sviluppatori.xml                        59 ->    60  wait+1
+  fra  dialogs/tutorial.xml                            59 ->    59  expression+1 wait-1
+  fra  dialogs/zombie.xml                              50 ->    58  expression+7 wait+1
+  fra  locations/accampamento.xml                     197 ->   198  wait+1
+  fra  locations/anticamera.xml                        79 ->    77  expression-1 pose-1
+  fra  locations/bagno.xml                            191 ->   192  expression+1
+  fra  locations/bagno1.xml                           358 ->   359  wait+1
+  fra  locations/baracca.xml                          199 ->   199  
+  fra  locations/bonus.xml                             70 ->    71  wait+1
+  fra  locations/cabina.xml                           157 ->   158  wait+1
+  fra  locations/camera_letto.xml                      98 ->    97  expression+1 wait-2
+  fra  locations/cameretta.xml                        119 ->   119  
+  fra  locations/casa_albero.xml                       85 ->    85  
+  fra  locations/catacomba.xml                        115 ->   115  
+  fra  locations/cimitero.xml                         150 ->   148  expression-2
+  fra  locations/cucina1.xml                          129 ->   135  wait+6
+  fra  locations/discarica.xml                        377 ->   380  expression+1 wait+2
+  fra  locations/elenco_telefonico.xml                 15 ->    14  wait-1
+  fra  locations/frigorifero.xml                       31 ->    31  
+  fra  locations/giardino.xml                         121 ->   120  wait-1
+  fra  locations/ingresso.xml                         238 ->   238  
+  fra  locations/intro.xml                             72 ->    70  wait-2
+  fra  locations/marciapiede.xml                      110 ->   110  
+  fra  locations/meteorite.xml                        151 ->   154  wait+3
+  fra  locations/museo.xml                             62 ->    63  expression+1
+  fra  locations/piano_terra.xml                      131 ->   134  wait+3
+  fra  locations/primo_piano.xml                      198 ->   198  
+  fra  locations/retro_furgone.xml                     43 ->    43  sound+1 wait-1
+  fra  locations/sala_botanica_IIWW.xml                76 ->    73  expression-1 wait-2
+  fra  locations/sala_vikingi_egizi.xml                66 ->    64  wait-2
+  fra  locations/salotto.xml                          163 ->   165  lookat+1 wait+1
+  fra  locations/sgabuzzino.xml                       140 ->   142  expression+2
+  fra  locations/spiaggia.xml                         286 ->   283  expression-1 wait-2
+  fra  locations/studio.xml                            92 ->    94  expression+2
+  fra  locations/vicolo.xml                            70 ->    71  expression-1 wait+2
+  fra  objects/acqua_fogna.xml                         34 ->    35  wait+1
+  fra  objects/anelli.xml                              32 ->    31  wait-1
+  fra  objects/arpione.xml                             24 ->    25  wait+1
+  fra  objects/bambola voodoo incompleta.xml           44 ->    44  
+  fra  objects/bambola voodoo.xml                      93 ->    93  
+  fra  objects/bibbia.xml                              57 ->    59  expression+2
+  fra  objects/bomba_disinnescata.xml                  20 ->    21  wait+1
+  fra  objects/dentiera.xml                            26 ->    26  
+  fra  objects/ingranaggi.xml                          13 ->     9  achievement-1 expression-1 text-2
+  fra  objects/intruglio.xml                           56 ->    56  expression-1 wait+1
+  fra  objects/lenza.xml                               19 ->    18  internal-1
+  fra  objects/lettera_struccata.xml                   29 ->    28  wait-1
+  fra  objects/magnete.xml                             78 ->    77  wait-1
+  fra  objects/megafono.xml                            57 ->    56  wait-1
+  fra  objects/musicassetta.xml                        13 ->    14  wait+1
+  fra  objects/noce.xml                                51 ->    50  wait-1
+  fra  objects/pala.xml                                74 ->    74  
+  fra  objects/petardi.xml                             22 ->    22  
+  fra  objects/spillo.xml                             130 ->   130  
+  fra  objects/starter_kit_metallaro.xml               15 ->    16  wait+1
+  fra  objects/trapano_funzionante.xml                 40 ->    40  
+  fra  objects/viagra.xml                              46 ->    47  wait+1
+  fra  objects/vite.xml                                13 ->    17  achievement+1 expression+1 text+2
+  fra  scripts/buffers/call.xml                       440 ->   441  wait+1
+  fra  scripts/cutscenes/intro.xml                     14 ->    15  wait+1
+  fra  scripts/cutscenes/outro3.xml                     2 ->     2  
+  rus  dialogs/audioguida_botanica_IIWW.xml            24 ->    25  expression+1
+  rus  dialogs/cieco.xml                               36 ->    37  wait+1
+  rus  dialogs/custode.xml                             44 ->    43  expression+1 wait-2
+  rus  dialogs/dragone.xml                             34 ->    39  animation+4 expression+1
+  rus  dialogs/eremita.xml                             54 ->    52  wait-2
+  rus  dialogs/frank.xml                               39 ->    40  wait+1
+  rus  dialogs/guardia.xml                             56 ->    57  wait+1
+  rus  dialogs/libro_magia_nera.xml                    46 ->    46  
+  rus  dialogs/morpheus.xml                            55 ->    59  expression+2 wait+2
+  rus  dialogs/mostro_polvere.xml                      56 ->    55  expression-3 wait+2
+  rus  dialogs/mostro_polvere_forzuto.xml              46 ->    47  wait+1
+  rus  dialogs/mummia.xml                              45 ->    45  expression+1 wait-1
+  rus  dialogs/non_sapevo_come_chiamarlo.xml           42 ->    44  wait+2
+  rus  dialogs/nonnina.xml                             47 ->    46  expression-1
+  rus  dialogs/quarterback.xml                        113 ->   112  wait-1
+  rus  dialogs/robot.xml                               38 ->    39  wait+1
+  rus  dialogs/ronald.xml                              68 ->    69  wait+1
+  rus  dialogs/scelta_pezzo.xml                        39 ->    38  wait-1
+  rus  dialogs/scelta_premio.xml                       65 ->    69  wait+4
+  rus  dialogs/scienziato.xml                          55 ->    54  expression+2 wait-3
+  rus  dialogs/sviluppatori.xml                        59 ->    60  wait+1
+  rus  dialogs/tutorial.xml                            59 ->    59  expression+1 wait-1
+  rus  dialogs/zombie.xml                              50 ->    58  expression+7 wait+1
+  rus  locations/accampamento.xml                     197 ->   198  wait+1
+  rus  locations/anticamera.xml                        79 ->    77  expression-1 pose-1
+  rus  locations/bagno.xml                            191 ->   192  expression+1
+  rus  locations/bagno1.xml                           358 ->   359  wait+1
+  rus  locations/baracca.xml                          199 ->   199  
+  rus  locations/bonus.xml                             70 ->    71  wait+1
+  rus  locations/cabina.xml                           157 ->   158  wait+1
+  rus  locations/camera_letto.xml                      98 ->    97  expression+1 wait-2
+  rus  locations/cameretta.xml                        119 ->   119  
+  rus  locations/casa_albero.xml                       85 ->    85  
+  rus  locations/catacomba.xml                        115 ->   115  
+  rus  locations/cimitero.xml                         150 ->   148  expression-2
+  rus  locations/cucina1.xml                          129 ->   135  wait+6
+  rus  locations/discarica.xml                        377 ->   380  expression+1 wait+2
+  rus  locations/elenco_telefonico.xml                 15 ->    14  wait-1
+  rus  locations/frigorifero.xml                       31 ->    31  
+  rus  locations/giardino.xml                         121 ->   120  wait-1
+  rus  locations/ingresso.xml                         238 ->   238  
+  rus  locations/intro.xml                             72 ->    70  wait-2
+  rus  locations/marciapiede.xml                      110 ->   110  
+  rus  locations/meteorite.xml                        151 ->   154  wait+3
+  rus  locations/museo.xml                             62 ->    63  expression+1
+  rus  locations/piano_terra.xml                      131 ->   134  wait+3
+  rus  locations/primo_piano.xml                      198 ->   198  
+  rus  locations/retro_furgone.xml                     43 ->    43  sound+1 wait-1
+  rus  locations/sala_botanica_IIWW.xml                76 ->    73  expression-1 wait-2
+  rus  locations/sala_vikingi_egizi.xml                66 ->    64  wait-2
+  rus  locations/salotto.xml                          163 ->   165  lookat+1 wait+1
+  rus  locations/sgabuzzino.xml                       140 ->   142  expression+2
+  rus  locations/spiaggia.xml                         286 ->   283  expression-1 wait-2
+  rus  locations/studio.xml                            92 ->    94  expression+2
+  rus  locations/vicolo.xml                            70 ->    71  expression-1 wait+2
+  rus  objects/acqua_fogna.xml                         34 ->    35  wait+1
+  rus  objects/anelli.xml                              32 ->    31  wait-1
+  rus  objects/arpione.xml                             24 ->    25  wait+1
+  rus  objects/bambola voodoo incompleta.xml           44 ->    44  
+  rus  objects/bambola voodoo.xml                      93 ->    93  
+  rus  objects/bibbia.xml                              57 ->    59  expression+2
+  rus  objects/bomba_disinnescata.xml                  20 ->    21  wait+1
+  rus  objects/dentiera.xml                            26 ->    26  
+  rus  objects/ingranaggi.xml                          13 ->     9  achievement-1 expression-1 text-2
+  rus  objects/intruglio.xml                           56 ->    56  expression-1 wait+1
+  rus  objects/lenza.xml                               19 ->    18  internal-1
+  rus  objects/lettera_struccata.xml                   29 ->    28  wait-1
+  rus  objects/magnete.xml                             78 ->    77  wait-1
+  rus  objects/megafono.xml                            57 ->    56  wait-1
+  rus  objects/musicassetta.xml                        13 ->    14  wait+1
+  rus  objects/noce.xml                                51 ->    50  wait-1
+  rus  objects/pala.xml                                74 ->    74  
+  rus  objects/petardi.xml                             22 ->    22  
+  rus  objects/spillo.xml                             130 ->   130  
+  rus  objects/starter_kit_metallaro.xml               15 ->    16  wait+1
+  rus  objects/trapano_funzionante.xml                 40 ->    40  
+  rus  objects/viagra.xml                              46 ->    47  wait+1
+  rus  objects/vite.xml                                13 ->    17  achievement+1 expression+1 text+2
+  rus  scripts/buffers/call.xml                       440 ->   441  wait+1
+  rus  scripts/cutscenes/intro.xml                     14 ->    15  wait+1
+  rus  scripts/cutscenes/outro3.xml                     2 ->     2  
+  spa  dialogs/audioguida_botanica_IIWW.xml            24 ->    25  expression+1
+  spa  dialogs/cieco.xml                               36 ->    37  wait+1
+  spa  dialogs/custode.xml                             44 ->    43  expression+1 wait-2
+  spa  dialogs/dragone.xml                             34 ->    39  animation+4 expression+1
+  spa  dialogs/eremita.xml                             54 ->    52  wait-2
+  spa  dialogs/frank.xml                               39 ->    40  wait+1
+  spa  dialogs/guardia.xml                             56 ->    57  wait+1
+  spa  dialogs/libro_magia_nera.xml                    46 ->    46  
+  spa  dialogs/morpheus.xml                            55 ->    59  expression+2 wait+2
+  spa  dialogs/mostro_polvere.xml                      56 ->    55  expression-3 wait+2
+  spa  dialogs/mostro_polvere_forzuto.xml              46 ->    47  wait+1
+  spa  dialogs/mummia.xml                              45 ->    45  expression+1 wait-1
+  spa  dialogs/non_sapevo_come_chiamarlo.xml           42 ->    44  wait+2
+  spa  dialogs/nonnina.xml                             47 ->    46  expression-1
+  spa  dialogs/quarterback.xml                        113 ->   112  wait-1
+  spa  dialogs/robot.xml                               38 ->    39  wait+1
+  spa  dialogs/ronald.xml                              68 ->    69  wait+1
+  spa  dialogs/scelta_pezzo.xml                        39 ->    38  wait-1
+  spa  dialogs/scelta_premio.xml                       65 ->    69  wait+4
+  spa  dialogs/scienziato.xml                          55 ->    54  expression+2 wait-3
+  spa  dialogs/sviluppatori.xml                        59 ->    60  wait+1
+  spa  dialogs/tutorial.xml                            59 ->    59  expression+1 wait-1
+  spa  dialogs/zombie.xml                              50 ->    58  expression+7 wait+1
+  spa  locations/accampamento.xml                     197 ->   198  wait+1
+  spa  locations/anticamera.xml                        79 ->    77  expression-1 pose-1
+  spa  locations/bagno.xml                            191 ->   192  expression+1
+  spa  locations/bagno1.xml                           358 ->   359  wait+1
+  spa  locations/baracca.xml                          199 ->   199  
+  spa  locations/bonus.xml                             70 ->    71  wait+1
+  spa  locations/cabina.xml                           157 ->   158  wait+1
+  spa  locations/camera_letto.xml                      98 ->    97  expression+1 wait-2
+  spa  locations/cameretta.xml                        119 ->   119  
+  spa  locations/casa_albero.xml                       85 ->    85  
+  spa  locations/catacomba.xml                        115 ->   115  
+  spa  locations/cimitero.xml                         150 ->   148  expression-2
+  spa  locations/cucina1.xml                          129 ->   135  wait+6
+  spa  locations/discarica.xml                        377 ->   380  expression+1 wait+2
+  spa  locations/elenco_telefonico.xml                 15 ->    14  wait-1
+  spa  locations/frigorifero.xml                       31 ->    31  
+  spa  locations/giardino.xml                         121 ->   120  wait-1
+  spa  locations/ingresso.xml                         238 ->   238  
+  spa  locations/intro.xml                             72 ->    70  wait-2
+  spa  locations/marciapiede.xml                      110 ->   110  
+  spa  locations/meteorite.xml                        151 ->   154  wait+3
+  spa  locations/museo.xml                             62 ->    63  expression+1
+  spa  locations/piano_terra.xml                      131 ->   134  wait+3
+  spa  locations/primo_piano.xml                      198 ->   198  
+  spa  locations/retro_furgone.xml                     43 ->    43  sound+1 wait-1
+  spa  locations/sala_botanica_IIWW.xml                76 ->    73  expression-1 wait-2
+  spa  locations/sala_vikingi_egizi.xml                66 ->    64  wait-2
+  spa  locations/salotto.xml                          163 ->   165  lookat+1 wait+1
+  spa  locations/sgabuzzino.xml                       140 ->   142  expression+2
+  spa  locations/spiaggia.xml                         286 ->   283  expression-1 wait-2
+  spa  locations/studio.xml                            92 ->    94  expression+2
+  spa  locations/vicolo.xml                            70 ->    71  expression-1 wait+2
+  spa  objects/acqua_fogna.xml                         34 ->    35  wait+1
+  spa  objects/anelli.xml                              32 ->    31  wait-1
+  spa  objects/arpione.xml                             24 ->    25  wait+1
+  spa  objects/bambola voodoo incompleta.xml           44 ->    44  
+  spa  objects/bambola voodoo.xml                      93 ->    93  
+  spa  objects/bibbia.xml                              57 ->    59  expression+2
+  spa  objects/bomba_disinnescata.xml                  20 ->    21  wait+1
+  spa  objects/dentiera.xml                            26 ->    26  
+  spa  objects/ingranaggi.xml                          13 ->     9  achievement-1 expression-1 text-2
+  spa  objects/intruglio.xml                           56 ->    56  expression-1 wait+1
+  spa  objects/lenza.xml                               19 ->    18  internal-1
+  spa  objects/lettera_struccata.xml                   29 ->    28  wait-1
+  spa  objects/magnete.xml                             78 ->    77  wait-1
+  spa  objects/megafono.xml                            57 ->    56  wait-1
+  spa  objects/musicassetta.xml                        13 ->    14  wait+1
+  spa  objects/noce.xml                                51 ->    50  wait-1
+  spa  objects/pala.xml                                74 ->    74  
+  spa  objects/petardi.xml                             22 ->    22  
+  spa  objects/spillo.xml                             130 ->   130  
+  spa  objects/starter_kit_metallaro.xml               15 ->    16  wait+1
+  spa  objects/trapano_funzionante.xml                 40 ->    40  
+  spa  objects/viagra.xml                              46 ->    47  wait+1
+  spa  objects/vite.xml                                13 ->    17  achievement+1 expression+1 text+2
+  spa  scripts/buffers/call.xml                       440 ->   441  wait+1
+  spa  scripts/cutscenes/intro.xml                     14 ->    15  wait+1
+  spa  scripts/cutscenes/outro3.xml                     2 ->     2  
+
+  deu: 178 <voice ID> (171 distinct); 0 not in ita's set, 0 of ita's missing
+  eng: 178 <voice ID> (171 distinct); 0 not in ita's set, 0 of ita's missing
+  fra: 178 <voice ID> (171 distinct); 0 not in ita's set, 0 of ita's missing
+  ita: 178 <voice ID> (171 distinct); 0 not in ita's set, 0 of ita's missing
+  rus: 178 <voice ID> (171 distinct); 0 not in ita's set, 0 of ita's missing
+  spa: 178 <voice ID> (171 distinct); 0 not in ita's set, 0 of ita's missing

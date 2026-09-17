@@ -1,0 +1,9 @@
+$ python tools/toolsdiff.py ../pc-losthorizon-doc/tools --expect-differing 0
+
+mine   : tools
+theirs : ../pc-losthorizon-doc/tools
+
+mine   : 614 .py     theirs : 614 .py
+only mine   : none
+only theirs : none
+common      : 614    differing   : 0

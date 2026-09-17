@@ -1,0 +1,112 @@
+$ python tools/pe.py "TheWardrobe/The Wardrobe.exe" --sections --imports --version --resources
+
+machine 0x8664  PE32+ True  image base 0x140000000  sections 6  timestamp 0x69789A60
+name            vsize      vaddr    rawsize     rawoff   entropy   zeros%
+.text      0x0000CDB0 0x00001000 0x0000CE00 0x00000400    6.4502   10.46%
+.rdata     0x0000977C 0x0000E000 0x00009800 0x0000D200    4.6921   47.96%
+.data      0x00001D88 0x00018000 0x00000C00 0x00016A00    1.9077   78.74%
+.pdata     0x00000EC4 0x0001A000 0x00001000 0x00017600    4.6021   46.36%
+.rsrc      0x0008A018 0x0001B000 0x0008A200 0x00018600    6.4687    6.71%
+.reloc     0x00000658 0x000A6000 0x00000800 0x000A2800    4.8674   24.32%
+UnityPlayer.dll             1 imports
+      UnityMain2
+KERNEL32.dll               71 imports
+      HeapAlloc
+      WriteConsoleW
+      QueryPerformanceCounter
+      GetCurrentProcessId
+      GetCurrentThreadId
+      GetSystemTimeAsFileTime
+      InitializeSListHead
+      RtlCaptureContext
+      RtlLookupFunctionEntry
+      RtlVirtualUnwind
+      IsDebuggerPresent
+      UnhandledExceptionFilter
+      SetUnhandledExceptionFilter
+      GetStartupInfoW
+      IsProcessorFeaturePresent
+      GetModuleHandleW
+      CloseHandle
+      RtlUnwindEx
+      GetLastError
+      SetLastError
+      EnterCriticalSection
+      LeaveCriticalSection
+      DeleteCriticalSection
+      InitializeCriticalSectionAndSpinCount
+      TlsAlloc
+      TlsGetValue
+      TlsSetValue
+      TlsFree
+      FreeLibrary
+      GetProcAddress
+      LoadLibraryExW
+      EncodePointer
+      RaiseException
+      RtlPcToFileHeader
+      GetStdHandle
+      WriteFile
+      GetModuleFileNameW
+      GetCurrentProcess
+      ExitProcess
+      TerminateProcess
+      GetModuleHandleExW
+      HeapFree
+      FindClose
+      FindFirstFileExW
+      FindNextFileW
+      IsValidCodePage
+      GetACP
+      GetOEMCP
+      GetCPInfo
+      GetCommandLineA
+      GetCommandLineW
+      MultiByteToWideChar
+      WideCharToMultiByte
+      GetEnvironmentStringsW
+      FreeEnvironmentStringsW
+      SetStdHandle
+      GetFileType
+      GetStringTypeW
+      FlsAlloc
+      FlsGetValue
+      FlsSetValue
+      FlsFree
+      LCMapStringW
+      GetProcessHeap
+      HeapSize
+      HeapReAlloc
+      FlushFileBuffers
+      GetConsoleOutputCP
+      GetConsoleMode
+      SetFilePointerEx
+      CreateFileW
+2 DLLs, 72 named imports
+12 resource data entries, directory at file 0x18600 (565272 bytes)
+  type=ICON         name=1              lang=1033   rva=0x0001B2B0 size=1128
+  type=ICON         name=2              lang=1033   rva=0x0001B718 size=2440
+  type=ICON         name=3              lang=1033   rva=0x0001C0A0 size=4264
+  type=ICON         name=4              lang=1033   rva=0x0001D148 size=9640
+  type=ICON         name=5              lang=1033   rva=0x0001F6F0 size=16936
+  type=ICON         name=6              lang=1033   rva=0x00023918 size=38056
+  type=ICON         name=7              lang=1033   rva=0x0002CDC0 size=67624
+  type=ICON         name=8              lang=1033   rva=0x0003D5E8 size=152104
+  type=ICON         name=9              lang=1033   rva=0x00062810 size=270376
+  type=GROUP_ICON   name=103            lang=1033   rva=0x000A4838 size=132
+  type=VERSION      name=1              lang=1033   rva=0x000A4E08 size=524
+  type=MANIFEST     name=1              lang=1033   rva=0x000A48C0 size=1349
+
+--- VS_VERSIONINFO, 524 bytes ---
+   VS_VERSION_INFO
+   StringFileInfo
+   040904b0
+   FileVersion
+   6000.3.6.12300304
+   LegalCopyright
+   (c) 2005-2026 Unity Technologies. All rights reserved.
+   ProductVersion
+   6000.3.6f1 (bbb010bdb8a3)
+   VarFileInfo
+   Translation
+   FIXEDFILEINFO FileVersion 6000.3.6.45072  ProductVersion 6000.3.6.45072

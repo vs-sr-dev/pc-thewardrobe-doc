@@ -1,0 +1,26 @@
+$ python tools/coverage.py tree --root TheWardrobe
+
+denominator : 2020 files, 3494280269 bytes -- every file under TheWardrobe, classified BY MAGIC
+
+  bucket      files        bytes      share  format
+  specified      33    222398304    6.3646 %  MPEG-4 / ISO base media (ISO/IEC 14496-12; 14496-14 for M4A)
+  specified     161     98067688    2.8065 %  PE / MZ executable (Microsoft) -- header arithmetic checked, not the two letters alone
+  specified     628      3990357    0.1142 %  plain text, ASCII
+  specified     603      2313410    0.0662 %  plain text, UTF-8 (Unicode; IETF RFC 3629)
+  specified       3       176738    0.0051 %  PNG (W3C / ISO 15948)
+  decoded       482    457534468   13.0938 %  FMOD Studio bank -- RIFF form `FEV `, length closed on the file, FMT then LIST PROJ then one SND holding an FSB5 (fevbank.py; the format is FMOD's, unpublished, read by third parties)
+  decoded       105    243781032    6.9766 %  Unity SerializedFile -- no magic; version 5..30, endianness byte, fileSize == the file (unityfs.py; the format is Unity's, unpublished, read by third parties)
+  derived         5   2466018272   70.5730 %  Unity streamed sidecar -- no magic; named by m_StreamData / m_Resource records of sibling serialized files, every record inside the file (unityfs.py)
+
+  specified  1428 files    326946497 bytes     9.3566 % of 3494280269
+  decoded     587 files    701315500 bytes    20.0704 % of 3494280269
+  derived       5 files   2466018272 bytes    70.5730 % of 3494280269
+  opaque        0 files            0 bytes     0.0000 % of 3494280269
+  SUM        2020 files   3494280269 bytes   100.0000 %
+  against the denominator 3494280269          RESIDUE 0
+
+  The SUM row is an ACCOUNTING figure and not a coverage figure.
+  It answers 'do the bytes add up to the object'. It does not
+  answer 'how much of this can be checked against something outside
+  it', because SPECIFIED and DECODED carry warrants of different
+  strength and DERIVED carries none but this session's.

@@ -1,0 +1,122 @@
+$ python tools/unitytex17.py census "TheWardrobe/The Wardrobe_Data"
+
+Texture2D objects        0 in 0 serialized files (0 of them Cubemap, class 89, whose stream holds m_ImageCount faces)
+closure (body end)       0 of 0
+closure (arithmetic)     0 of 0
+pixels streamed          0   inline 0   none 0
+bytes of pixels          0 (m_CompleteImageSize summed)
+
+FMT  NAME        COUNT          BYTES
+
+WHERE                                     COUNT          BYTES
+
+SIZE            COUNT
+
+FILE                              COUNT
+
+105 FILES REFUSED WHOLE (not this reader's format):
+  globalgamemanagers           globalgamemanagers is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  globalgamemanagers.assets    globalgamemanagers.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level0                       level0 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level1                       level1 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level10                      level10 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level11                      level11 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level12                      level12 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level13                      level13 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level14                      level14 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level15                      level15 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level16                      level16 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level17                      level17 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level18                      level18 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level19                      level19 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level2                       level2 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level20                      level20 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level21                      level21 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level22                      level22 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level23                      level23 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level24                      level24 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level25                      level25 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level26                      level26 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level27                      level27 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level28                      level28 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level29                      level29 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level3                       level3 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level30                      level30 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level31                      level31 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level32                      level32 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level33                      level33 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level34                      level34 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level35                      level35 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level36                      level36 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level37                      level37 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level38                      level38 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level39                      level39 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level4                       level4 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level40                      level40 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level41                      level41 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level42                      level42 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level43                      level43 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level44                      level44 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level45                      level45 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level46                      level46 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level47                      level47 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level48                      level48 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level49                      level49 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level5                       level5 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level6                       level6 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level7                       level7 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level8                       level8 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  level9                       level9 is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  resources.assets             resources.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets0.assets         sharedassets0.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets1.assets         sharedassets1.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets10.assets        sharedassets10.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets11.assets        sharedassets11.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets12.assets        sharedassets12.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets13.assets        sharedassets13.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets14.assets        sharedassets14.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets15.assets        sharedassets15.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets16.assets        sharedassets16.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets17.assets        sharedassets17.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets18.assets        sharedassets18.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets19.assets        sharedassets19.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets2.assets         sharedassets2.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets20.assets        sharedassets20.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets21.assets        sharedassets21.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets22.assets        sharedassets22.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets23.assets        sharedassets23.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets24.assets        sharedassets24.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets25.assets        sharedassets25.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets26.assets        sharedassets26.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets27.assets        sharedassets27.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets28.assets        sharedassets28.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets29.assets        sharedassets29.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets3.assets         sharedassets3.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets30.assets        sharedassets30.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets31.assets        sharedassets31.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets32.assets        sharedassets32.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets33.assets        sharedassets33.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets34.assets        sharedassets34.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets35.assets        sharedassets35.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets36.assets        sharedassets36.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets37.assets        sharedassets37.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets38.assets        sharedassets38.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets39.assets        sharedassets39.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets4.assets         sharedassets4.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets40.assets        sharedassets40.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets41.assets        sharedassets41.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets42.assets        sharedassets42.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets43.assets        sharedassets43.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets44.assets        sharedassets44.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets45.assets        sharedassets45.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets46.assets        sharedassets46.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets47.assets        sharedassets47.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets48.assets        sharedassets48.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets49.assets        sharedassets49.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets5.assets         sharedassets5.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets6.assets         sharedassets6.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets7.assets         sharedassets7.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets8.assets         sharedassets8.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  sharedassets9.assets         sharedassets9.assets is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  Resources/unity default resources unity default resources is SerializedFile format 22 (Unity 6000.3.0b4); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py
+  Resources/unity_builtin_extra unity_builtin_extra is SerializedFile format 22 (Unity 6000.3.6f1); this reader is the version-17 layout and refuses it -- format 22 is unitytex22.py

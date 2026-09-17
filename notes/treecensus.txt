@@ -1,0 +1,39 @@
+$ python tools/treecensus.py TheWardrobe
+
+root            : TheWardrobe
+files           : 2020
+directories     : 83
+bytes           : 3494280269
+
+year of the directory record:
+  year    files          bytes
+  2024     1178        9813528
+  2026      842     3484466741
+
+extensions:
+  ext         files          bytes
+  .xml         1208        5446857
+  .bank         482      457534468
+  .dll          159       95790904
+  (none)         54        9179747
+  .assets        52      234605100
+  .mp4           33      222398304
+  .config         7         146119
+  .ress           5     2466018272
+  .browser        3           4815
+  .aspx           3         181725
+  .map            3           7866
+  .png            3         176738
+  .exe            2        2276784
+  .txt            2         193763
+  .json           2           6799
+  .ini            1         311984
+  .info           1             24
+
+top-level entries:
+  name            files          bytes     pct
+  The Wardrobe_Data   1995     3442182499  98.51%
+  (root)              3       38056800   1.09%
+  MonoBleedingEdge     20        9122142   0.26%
+  D3D12               1        4725304   0.14%
+  The Wardrobe_BurstDebugInformation_DoNotShip      1         193524   0.01%

@@ -1,0 +1,80 @@
+$ python tools/wardrobexml.py census "TheWardrobe/The Wardrobe_Data/StreamingAssets/XML"
+
+TREE     FILES     BYTES ROOTS                                          COMMANDS   TEXT  GUARD NOT WELL-FORMED
+areas       50     19068 area 50                                               0      0      0 0
+default     83    282813 location 47 dialog 33 inventory 1 setting 1 sk     1926    821      0 0
+deu        179    857950 object 85 location 47 dialog 33 script 6 intro    10674   3185   2671 0
+eng        179    824548 object 85 location 47 dialog 33 script 6 intro    10674   3185   2671 0
+fra        179    850179 object 85 location 47 dialog 33 script 6 intro    10674   3185   2671 0
+ita        179    831536 object 85 location 47 dialog 33 script 6 intro    10636   3185   2661 0
+rus        179    929882 object 85 location 47 dialog 33 script 6 intro    10674   3185   2671 0
+spa        179    825064 object 85 location 47 dialog 33 script 6 intro    10674   3185   2671 0
+
+tags seen 47 distinct; the rare ones (<= 12 occurrences over every tree: twice per language) with their files -- the misspellings live here:
+  <OST> x1  default/settings.xml
+  <PNTRSpeed> x1  default/settings.xml
+  <SFX> x1  default/settings.xml
+  <VO> x1  default/settings.xml
+  <language> x1  default/settings.xml
+  <setting> x1  default/settings.xml
+  <skinny> x1  default/skinny.xml
+  <textvisibile> x1  default/settings.xml
+  <comand> x6  deu/locations/cucina1.xml, eng/locations/cucina1.xml, fra/locations/cucina1.xml, ita/locations/cucina1.xml, rus/locations/cucina1.xml, spa/locations/cucina1.xml
+  <comomand> x6  deu/objects/bicchiere di birra.xml, eng/objects/bicchiere di birra.xml, fra/objects/bicchiere di birra.xml, ita/objects/bicchiere di birra.xml, rus/objects/bicchiere di birra.xml, spa/objects/bicchiere di birra.xml
+  <hotstpot> x6  deu/objects/peperoncino.xml, eng/objects/peperoncino.xml, fra/objects/peperoncino.xml, ita/objects/peperoncino.xml, rus/objects/peperoncino.xml, spa/objects/peperoncino.xml
+  <pick-e> x6  deu/default.xml, eng/default.xml, fra/default.xml, ita/default.xml, rus/default.xml, spa/default.xml
+  <pick-n> x6  deu/default.xml, eng/default.xml, fra/default.xml, ita/default.xml, rus/default.xml, spa/default.xml
+  <stepon> x6  deu/locations/cucina.xml, eng/locations/cucina.xml, fra/locations/cucina.xml, ita/locations/cucina.xml, rus/locations/cucina.xml, spa/locations/cucina.xml
+  <buffer> x12  deu/scripts/buffers/call.xml, deu/scripts/buffers/data_viaggio.xml, eng/scripts/buffers/call.xml, eng/scripts/buffers/data_viaggio.xml, fra/scripts/buffers/call.xml, fra/scripts/buffers/data_viaggio.xml
+  <document> x12  deu/scripts/documents/lettera.xml, deu/scripts/documents/lettera_struccata.xml, eng/scripts/documents/lettera.xml, eng/scripts/documents/lettera_struccata.xml, fra/scripts/documents/lettera.xml, fra/scripts/documents/lettera_struccata.xml
+
+tags, all trees:
+  command         65932
+  scene            2604
+  hotspot          2520
+  location         2310
+  talk             1716
+  look             1710
+  script           1702
+  voice            1246
+  item             1106
+  object           1026
+  use               954
+  pick              948
+  character         889
+  action            714
+  act               612
+  indipendent       588
+  goto              532
+  entry             522
+  inventory         511
+  description       510
+  go                456
+  angle             429
+  phrase            402
+  hotspots          329
+  comment           317
+  dialog            231
+  sound             114
+  area               50
+  segment            50
+  default            18
+  intro              18
+  buffer             12
+  document           12
+  pick-n              6
+  pick-e              6
+  stepon              6
+  comand              6
+  comomand            6
+  hotstpot            6
+  setting             1
+  language            1
+  textvisibile        1
+  OST                 1
+  SFX                 1
+  VO                  1
+  PNTRSpeed           1
+  skinny              1
+
+1207 files, 5421040 bytes, in 8 trees

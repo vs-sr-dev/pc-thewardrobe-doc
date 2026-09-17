@@ -1,0 +1,28 @@
+$ python tools/pe.py "TheWardrobe/The Wardrobe_Data/Managed/SonyNP.dll" --version
+
+1 resource data entries, directory at file 0x3AC00 (808 bytes)
+  type=VERSION      name=1              lang=0      rva=0x0003E058 size=720
+
+--- VS_VERSIONINFO, 720 bytes ---
+   VS_VERSION_INFO
+   枏ỆǴ
+   枏Ệ?
+   VarFileInfo
+   Translation
+   StringFileInfo
+   000004b0
+   FileDescription
+   SonyNP
+   FileVersion
+   6.500.7878.26511
+   InternalName
+   SonyNP.dll
+   LegalCopyright
+   Copyright © Unity Technologies 2015
+   OriginalFilename
+   SonyNP.dll
+   ProductVersion
+   6.500.7878.26511
+   Assembly Version
+   6.500.7878.26511
+   FIXEDFILEINFO FileVersion 6.500.7878.26511  ProductVersion 6.500.7878.26511

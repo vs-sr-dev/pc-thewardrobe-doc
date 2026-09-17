@@ -1,0 +1,58 @@
+$ python tools/authenticode.py TheWardrobe/UnityPlayer.dll
+
+file            : TheWardrobe/UnityPlayer.dll
+file size       : 35780016
+optional header : PE32+, 16 data directories
+cert table      : file offset 35769344 (0x221CC00), 10672 bytes
+tail after last section starts at 35769344, so the table is the tail
+WIN_CERTIFICATE : dwLength 10672  wRevision 0x0200  wCertificateType 2
+                  (type 2 = PKCS#7 SignedData)
+PKCS#7 blob     : 10664 bytes, sha1 f95e71f2cfc4454d7b536fd6f5c21b5e894a97f3
+
+names found, in order of appearance:
+  C              US
+  O              DigiCert Inc
+  OU             www.digicert.com
+  CN             DigiCert Trusted Root G4
+  O              DigiCert, Inc.
+  CN             DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1
+  serialNumber   3183233
+  ST             California
+  L              San Francisco
+  O              Unity Technologies SF
+  CN             Unity Technologies SF
+  CN             DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+  CN             DigiCert SHA256 RSA4096 Timestamp Responder 2025 1
+  CN             DigiCert Assured ID Root CA
+
+times found (UTCTime / GeneralizedTime):
+  UTCTime            210429000000Z
+  UTCTime            360428235959Z
+  UTCTime            231211000000Z
+  UTCTime            260608235959Z
+  UTCTime            250604000000Z
+  UTCTime            360903235959Z
+  UTCTime            250507000000Z
+  UTCTime            380114235959Z
+  UTCTime            220801000000Z
+  UTCTime            311109235959Z
+  UTCTime            260127111830Z
+
+algorithm and purpose OIDs:
+  1.2.840.113549.1.7.2  (signedData)
+  2.16.840.1.101.3.4.2.1  (sha256)
+  1.3.6.1.4.1.311.2.1.4  (SPC_INDIRECT_DATA)
+  2.5.4.6  (C)
+  2.5.4.10  (O)
+  2.5.4.11  (OU)
+  2.5.4.3  (CN)
+  1.2.840.113549.1.1.1  (rsaEncryption)
+  1.2.840.113549.1.1.11  (sha256WithRSA)
+  2.5.4.5  (serialNumber)
+  2.5.4.8  (ST)
+  2.5.4.7  (L)
+  1.3.6.1.4.1.311.2.1.12  (SPC_SP_OPUS_INFO)
+  1.2.840.113549.1.9.4  (messageDigest)
+  1.2.840.113549.1.9.5  (signingTime)
+
+strings that are not part of a name (opus info, urls):

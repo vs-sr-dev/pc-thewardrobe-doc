@@ -1,0 +1,12 @@
+$ python tools/unityfs.py verify "TheWardrobe/The Wardrobe_Data"
+
+The header states the file's own length and every object's extent.
+Both are Unity's numbers, not ours, so both are free positive
+controls on the reader.
+
+FILE                                            OBJECTS   SIZE OK BOUNDS OK       BAD
+
+105 serialized files read, 1890 skipped as not serialized
+105 of 105 declare a fileSize that matches the file on disk
+105 of 105 parse the metadata to exactly header + metadataSize
+28593 of 28593 objects lie inside the file they are declared in

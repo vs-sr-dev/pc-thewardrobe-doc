@@ -1,0 +1,25 @@
+$ python _work/repeats.py   (over _work/hashall.txt = python tools/hashall.py TheWardrobe)
+
+files 2020  bytes 3494280269  distinct sha1 1987  unreadable 0  excluded 0
+
+distinct sha1 1987; hashes with more than one file 19; extra files 33
+  x6   2511 B  locations/presa_armadio.xml  |  locations/presa_armadio.xml  |  locations/presa_armadio.xml  |  locations/presa_armadio.xml  |  locations/presa_armadi
+  x6   1902 B  locations/tv.xml  |  locations/tv.xml  |  locations/tv.xml  |  locations/tv.xml  |  locations/tv.xml  |  locations/tv.xml
+  x6    256 B  transfers/clear_bedroom.xml  |  transfers/clear_bedroom.xml  |  transfers/clear_bedroom.xml  |  transfers/clear_bedroom.xml  |  transfers/clear_bedroo
+  x3  60575 B  2.0/DefaultWsdlHelpGenerator.aspx  |  4.0/DefaultWsdlHelpGenerator.aspx  |  4.5/DefaultWsdlHelpGenerator.aspx
+  x3   1605 B  Browsers/Compat.browser  |  Browsers/Compat.browser  |  Browsers/Compat.browser
+  x2   2622 B  4.0/settings.map  |  4.5/settings.map
+  x2   2977 B  dialogs/Z8.xml  |  dialogs/Z8.xml
+  x2   2827 B  dialogs/audioguida_vikingi_egizi.xml  |  dialogs/audioguida_vikingi_egizi.xml
+  x2   3483 B  dialogs/coccodrillo.xml  |  dialogs/coccodrillo.xml
+  x2   5533 B  dialogs/noce.xml  |  dialogs/noce.xml
+  x2   4000 B  dialogs/orso.xml  |  dialogs/orso.xml
+  x2   1753 B  dialogs/pinhead.xml  |  dialogs/pinhead.xml
+  x2  29496 B  dialogs/sfida guardia.xml  |  dialogs/sfida guardia.xml
+  x2    458 B  documents/lettera.xml  |  documents/lettera_struccata.xml
+  x2    397 B  documents/lettera.xml  |  documents/lettera_struccata.xml
+  x2    416 B  documents/lettera.xml  |  documents/lettera_struccata.xml
+  x2    389 B  documents/lettera.xml  |  documents/lettera_struccata.xml
+  x2    626 B  documents/lettera.xml  |  documents/lettera_struccata.xml
+  x2    369 B  documents/lettera.xml  |  documents/lettera_struccata.xml
+Counter({'XML same bytes across languages': 28, 'other': 5})

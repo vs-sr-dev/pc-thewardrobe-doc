@@ -1,0 +1,7 @@
+.claude/
+TheWardrobe/
+_pre/
+_work/
+prompt.txt
+tools/__pycache__/
+__pycache__/

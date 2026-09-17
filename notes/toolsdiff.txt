@@ -1,0 +1,16 @@
+$ python tools/toolsdiff.py ../pc-losthorizon-doc/tools --expect-differing 0
+
+mine   : tools
+theirs : ../pc-losthorizon-doc/tools
+
+mine   : 617 .py     theirs : 614 .py
+only mine   : fevbank.py, unitytex22.py, wardrobexml.py
+only theirs : none
+common      : 614    differing   : 5
+   DIFFERS  coverage.py              mine f80ffea955bc  theirs bcf7d97b2788
+   DIFFERS  pecensus.py              mine 1ea51f8ba222  theirs c4003e0e5ca6
+   DIFFERS  unityfs.py               mine 59cd95e09bb6  theirs be2c68dd6bca
+   DIFFERS  unitymovie.py            mine 7ee2e7b80d5d  theirs 1703c06f5e4a
+   DIFFERS  unitytex17.py            mine eae330c901c2  theirs c22147fd4228
+
+FATAL: --expect-differing 0 : got 5

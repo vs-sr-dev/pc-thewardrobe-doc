@@ -1,0 +1,7 @@
+$ python tools/unitytex22.py list "TheWardrobe/The Wardrobe_Data/sharedassets0.assets"
+
+NAME                                         W     H FORMAT     MIPS       BYTES CLOSE ARITH  WHERE
+Background                                  32    32 RGBA32        6        5460 yes   yes    sharedassets0.assets.resS+0..5460
+BradyBunchUltimate SDF Atlas              1024  1024 Alpha8        1     1048576 yes   yes    inline
+
+2 Texture2D objects

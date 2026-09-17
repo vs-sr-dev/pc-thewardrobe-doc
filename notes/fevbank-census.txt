@@ -1,0 +1,24 @@
+$ python tools/fevbank.py census "TheWardrobe/The Wardrobe_Data/StreamingAssets"
+
+banks by magic          482 under StreamingAssets (RIFF + FEV + length == file)
+walked to residue 0     482 of 482
+shells (no SND)         62
+with a SND              420; FSB5 pad + declared == chunk: 420; fsb5 closes: 420
+SNDH present            420; offset and length agree with the walk: 420
+FSB5 padding in SND     +0:4 +2:20 +4:10 +6:19 +8:11 +10:24 +12:9 +14:40 +16:12 +18:33 +20:4 +22:29 +24:9 +26:122 +28:8 +30:66
+FSB5 versions           {1: 420}
+codecs                  Vorbis:420
+sample rates            48000:6385
+channels                1:5003 2:1382
+banks with a name table 420 of 420
+
+KIND        BANKS  SHELLS  SAMPLES    SECONDS     FILE BYTES   SAMPLE BYTES
+master          1       1        0        0.0           5684              0
+ost             1       0       31     3780.4       86498816       86421472
+sfx            79       2      389     2364.2       44070844       43592128
+strings         1       1        0        0.0         292808              0
+vo_eng        200      29     2974     8073.1      157054902      153826176
+vo_ita        200      29     2991     8895.1      169611414      166342720
+TOTAL         482      62     6385    23112.8      457534468      450182496
+
+chunk ids over every bank: LIST:92017 BUS :18746 CTRO:6827 INST:6529 WAIB:6516 WAV :6385 GBSB:6270 MBSB:6243 EVTB:6242 TLNB:6242 IBSB:6232 LCNT:4726 PMLB:585 CTRL:535 CURV:535 PROP:528 FMT :482 BNKI:482 SNDH:482 STDT:482 STBL:482 HASH:482 DEL :482 MUTE:482 REFI:482 PLAT:482 SEFB:471 SND :420 MAP :183 PRMB:120 BEFB:82 PMEF:82 TRNB:74 TRTL:74 SNAB:10 MUIB:8 PLST:8 MODB:5 EVIB:5 RBSB:1 SCEF:1 VCAB:1

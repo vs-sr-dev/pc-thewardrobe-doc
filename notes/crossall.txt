@@ -1,0 +1,200 @@
+$ python tools/crossall.py _work/sha1-all.txt --collection .. --skip pc-thewardrobe-doc
+
+my distinct sha1            : 1987
+  (identical files inside one object collapse into one key here;
+   the file count is the tree census's, not this tool's)
+empty-file sha1 among mine  : no
+collection root             : ..
+skipping                    : pc-thewardrobe-doc
+
+repositories swept          : 119
+list files swept            : 498
+hash tokens read            : 174119
+distinct sha1 in those lists: (counted below)
+
+========================================================================
+EMPTY-FILE SHA1 (the trap): 64 occurrences in 20 repositories
+   dc-dinocrisis-doc                        x4
+   pc-allodsonline-doc                      x2
+   pc-bloodandlace-doc                      x1
+   pc-brokensword4-doc                      x1
+   pc-bumpy-doc                             x3
+   pc-canediterracotta-doc                  x1
+   pc-capcombeatemupbundle-doc              x1
+   pc-clic11-doc                            x9
+   pc-deadlypremonitiondc-doc               x3
+   pc-hugoshouseofhorrors-doc               x1
+   pc-ilmiocomputer0206                     x6
+   pc-karmaflow-doc                         x17
+   pc-kingsofthebeach-doc                   x4
+   pc-losthorizon-doc                       x1
+   pc-residentevil-doc                      x2
+   pc-rpgmakermv-doc                        x1
+   pc-teenagent-doc                         x2
+   pc-wizardry-doc                          x3
+   pc-zerocomico-doc                        x1
+   vis-racetheclock-doc                     x1
+   -> excluded from the crossings below.
+
+========================================================================
+THE RATE AS A FUNCTION OF MINIMUM FILE LENGTH
+
+A crossing is a claim that two objects share a file. On a tree whose
+files are short, it is also a claim that two short byte strings
+happened to be equal, and those are not the same claim. This table is
+printed BEFORE any figure is quoted, and the figure quoted anywhere
+else has to name the threshold it was taken at.
+
+   min bytes    my hashes    crossings         rate
+           0         1987           19      0.9562 %
+           1         1987           19      0.9562 %
+           4         1987           19      0.9562 %
+           8         1987           19      0.9562 %
+          16         1987           19      0.9562 %
+          32         1985           19      0.9572 %
+          64         1985           19      0.9572 %
+         128         1978           19      0.9606 %
+         256         1930           19      0.9845 %
+        1024         1720           19      1.1047 %
+        4096         1138           15      1.3181 %
+       65536          476            5      1.0504 %
+
+========================================================================
+CROSSINGS at a minimum length of 0 bytes: 19 of my 1987 distinct hashes appear in another repository
+   (threshold 0 -- every hash, including files too short to be anybody's)
+
+sha1 ed206f4365131f64ff140a393513806dfa5081bc   816640 bytes
+   mine : The Wardrobe_Data/Plugins/x86_64/resonanceaudio.dll
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 2d5454e161de8a5b65910f27bd70d9d0ad8fa476   311984 bytes
+   mine : MonoBleedingEdge/etc/mono/browscap.ini
+   also : pc-iamsetsuna-doc                  notes/crossall.txt
+   also : pc-iamsetsuna-doc                  notes/hashall.txt
+   also : pc-iamsetsuna-doc                  notes/sha1-all.txt
+   also : pc-monstrum-doc                    notes/crossall.txt
+   also : pc-monstrum-doc                    notes/hashall.txt
+   also : pc-teslaeffect-doc                 notes/sha1-all.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 c32aef75058c9e1cfdd9d8528d241a48e6cd7fd3   169472 bytes
+   mine : The Wardrobe_Data/Plugins/x86_64/CSteamworks.dll
+   also : pc-academagia-doc                  notes/sha1-all.txt
+   also : pc-academagia-doc                  notes/sha1-all.txt
+
+sha1 125078bf0ce9e876c9e974f611b864cd6f63737f   153088 bytes
+   mine : The Wardrobe_Data/Plugins/x86_64/Rewired_WindowsGamingInput.dll
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 c2db6e7376977c5c7f17d816406ca70f95d8e1ef   90112 bytes
+   mine : The Wardrobe_Data/Managed/netstandard.dll
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 b3e4b508aab3cf201c06892713b43ddb0c43b7ae   60575 bytes
+   mine : MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 392e5ae6b3dad59418bda890952ee27a8b290e90   34056 bytes
+   mine : MonoBleedingEdge/etc/mono/4.5/machine.config
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 7a9bca61e6af9ad720da1d7d24192637d9037886   33598 bytes
+   mine : MonoBleedingEdge/etc/mono/4.0/machine.config
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 3fbcec786ac4b6e81b6d2f2ab288cf67dd6760f4   29066 bytes
+   mine : MonoBleedingEdge/etc/mono/2.0/machine.config
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 936520d5bb5c00a1985d7a4c4f0ef763a9031862   25817 bytes
+   mine : MonoBleedingEdge/etc/mono/mconfig/config.xml
+   also : pc-iamsetsuna-doc                  notes/crossall.txt
+   also : pc-iamsetsuna-doc                  notes/hashall.txt
+   also : pc-iamsetsuna-doc                  notes/sha1-all.txt
+   also : pc-monstrum-doc                    notes/crossall.txt
+   also : pc-monstrum-doc                    notes/hashall.txt
+   also : pc-teslaeffect-doc                 notes/sha1-all.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 56c4c47501664bc3bcd54be505cc3d9f7d0761f5   18811 bytes
+   mine : MonoBleedingEdge/etc/mono/4.5/web.config
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 771648fadc7ed9a422b4bc26e38d854d066742d7   18802 bytes
+   mine : MonoBleedingEdge/etc/mono/4.0/web.config
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 de72b6101ef0315d0f2c9934bf63ec7512dfceb5   12288 bytes
+   mine : The Wardrobe_Data/Managed/System.Runtime.dll
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 574e4b24015852d45ac80dfce8af3c6fd4a4f09a   11635 bytes
+   mine : MonoBleedingEdge/etc/mono/2.0/web.config
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 3b34cbb3f76a73e2f14571c105202dc5f147d83b   5632 bytes
+   mine : The Wardrobe_Data/Managed/Unity.Burst.Unsafe.dll
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 52795ffda8b88701793acc05e87897bdba99a633   3815 bytes
+   mine : MonoBleedingEdge/etc/mono/config
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 dd2be2dbccd34736719301aee92429d4258ea5a0   2622 bytes
+   mine : MonoBleedingEdge/etc/mono/2.0/settings.map
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 8e17e2aec423a8e6fb43e8cbe6215040217bb8a3   2622 bytes
+   mine : MonoBleedingEdge/etc/mono/4.5/settings.map
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+
+sha1 187dff516f9448e63ea5078190b3347922c4b3eb   1605 bytes
+   mine : MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+   also : pc-iamsetsuna-doc                  notes/crossall.txt
+   also : pc-iamsetsuna-doc                  notes/hashall.txt
+   also : pc-iamsetsuna-doc                  notes/sha1-all.txt
+   also : pc-monstrum-doc                    notes/crossall.txt
+   also : pc-monstrum-doc                    notes/hashall.txt
+   also : pc-teslaeffect-doc                 notes/sha1-all.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/crossall-files.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-themurderofsonicthehedgehog-doc notes/hashall.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+   also : pc-twinsensquest-doc               notes/sha1-installed.txt
+

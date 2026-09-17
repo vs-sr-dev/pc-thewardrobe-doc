@@ -1,0 +1,13 @@
+tracked files            : 686
+text files checked       : 686
+needles                  : 2, masked in this report
+hits excused as artefacts: 0
+VIOLATIONS               : 0
+
+-- POSITIVE CONTROL, which must fire ---------------------------
+   planted line : see D:\<needle 1>\pc-rpgmaker2003-doc\notes\x.txt for more
+   the check fires on it : True
+
+-- NEGATIVE CONTROL, which must stay quiet ---------------------
+   line : the build root D:\ha\02rpg2000\2003\ is a third party's
+   unexcused hits : 0

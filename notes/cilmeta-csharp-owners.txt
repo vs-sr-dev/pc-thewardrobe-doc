@@ -1,0 +1,36 @@
+$ python tools/cilmeta.py owners "TheWardrobe/The Wardrobe_Data/Managed/Assembly-CSharp.dll" --grep ^(text|wait|expression|pose|bitmap|animation|achievement|cutscene|throw|lookat|nolook|blackscreen|status|Execute)$
+
+Assembly                                 field   Text
+CutsceneScript                           field   blackscreen
+DocumentViewer                           field   Text
+Entry                                    field   Pose
+Icon                                     field   bitmap
+Hotspot                                  field   NoLook
+Location                                 field   Status
+LogoScreen                               field   Wait
+Map                                      field   blackscreen
+MapStoreScript                           field   Blackscreen
+ObjectI                                  field   bitmap
+ObjectI                                  field   lookAt
+ScreenC                                  field   Bitmap
+ScreenC                                  field   Wait
+ScreenC                                  field   Text
+ScreenC                                  method  BlackScreen
+Script                                   field   Text
+Script                                   method  Execute
+Global                                   field   BlackScreen
+Global                                   field   Cutscene
+Voice                                    field   text
+Voice                                    field   Status
+Rewired.Demos.PlayerPointerEventHandlerExample field   text
+CINIC.TheWardrobe.LocalizedText          field   text
+CINIC.TheWardrobe.LocalizedTextTMProUGUI field   text
+CINIC.Boot.Bootstrapper                  field   status
+CINIC.Boot.Splashscreen                  field   animation
+Message                                  field   text
+DataFormat                               field   Text
+Row                                      field   text
+Row                                      field   text
+Message                                  field   text
+
+32 members in 23 types match '^(text|wait|expression|pose|bitmap|animation|achievement|cutscene|throw|lookat|nolook|blackscreen|status|Execute)$'

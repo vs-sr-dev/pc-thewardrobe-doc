@@ -1,0 +1,1728 @@
+$ python tools/riffwalk.py "TheWardrobe/The Wardrobe_Data/StreamingAssets"
+
+SaveIcon.png                 REFUSED: not RIFF (first four bytes b'\x89PNG')
+SaveIconEmpty.png            REFUSED: not RIFF (first four bytes b'\x89PNG')
+ScreenShotOverlay.png        REFUSED: not RIFF (first four bytes b'\x89PNG')
+buf_call_vo_eng.bank     4608960  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+buf_call_vo_ita.bank     5394208  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+buf_data_viaggio_vo_eng.bank       81696  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+buf_data_viaggio_vo_ita.bank       92448  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_accensione_catacomba_sfx.bank      241408  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_accensione_catacomba_vo_eng.bank       46976  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_accensione_catacomba_vo_ita.bank      109376  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_armadio_discarica_sfx.bank      258368  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_armadio_discarica_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_armadio_discarica_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_arrivo_pacco_sfx.bank      132320  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_arrivo_pacco_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_arrivo_pacco_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_boogeyman_sfx.bank      215392  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_boogeyman_vo_eng.bank       18048  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_boogeyman_vo_ita.bank       20448  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_casa_a_fuoco_sfx.bank      409472  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_casa_a_fuoco_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_casa_a_fuoco_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_ciccione_fuga_sfx.bank      190496  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_ciccione_fuga_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_ciccione_fuga_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_estrazione_ingranaggi_sfx.bank      193920  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_estrazione_ingranaggi_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_estrazione_ingranaggi_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_evoluzione_mostro_sfx.bank      438496  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_evoluzione_mostro_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_evoluzione_mostro_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_foto_telecamera_sfx.bank       19104  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_foto_telecamera_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_foto_telecamera_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_fuga_ladro_sfx.bank      250944  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_fuga_ladro_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_fuga_ladro_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_fuga_traslocatori_sfx.bank      509216  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_fuga_traslocatori_vo_eng.bank       89152  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_fuga_traslocatori_vo_ita.bank      116992  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_furgone_sfx.bank      304448  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_furgone_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_furgone_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_ingresso_catacomba_sfx.bank      148704  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_ingresso_catacomba_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_ingresso_catacomba_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_intro_sfx.bank     1625184  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_intro_vo_eng.bank      864640  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_intro_vo_ita.bank     1045248  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_johnny_sfx.bank      175552  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_johnny_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_johnny_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_matrimonio_sfx.bank      545312  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_matrimonio_vo_eng.bank      149824  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_matrimonio_vo_ita.bank      163296  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_nonnina_spaventa_ragazzini_sfx.bank      180128  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_nonnina_spaventa_ragazzini_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_nonnina_spaventa_ragazzini_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_outro1_sfx.bank       85216  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_outro1_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_outro1_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_outro2_sfx.bank     1467360  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_outro2_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_outro2_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_outro3_sfx.bank      644992  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_outro3_vo_eng.bank       26304  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_outro3_vo_ita.bank       49184  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_outro4_sfx.bank      302816  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_outro4_vo_eng.bank      137184  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_outro4_vo_ita.bank      208800  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_pala_custode_sfx.bank      129728  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_pala_custode_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_pala_custode_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_pittore_dipinge_sfx.bank      273184  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_pittore_dipinge_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_pittore_dipinge_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_pomello_excalibur_sfx.bank      134144  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_pomello_excalibur_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_pomello_excalibur_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_pomello_fiamma_ossidrica_sfx.bank      167840  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_pomello_fiamma_ossidrica_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_pomello_fiamma_ossidrica_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_ripresa_trasloco_sfx.bank      129120  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_ripresa_trasloco_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_ripresa_trasloco_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_skinny_matrix_sfx.bank      257216  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_skinny_matrix_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_skinny_matrix_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_sveglia_barbone_sfx.bank      478592  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_sveglia_barbone_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_sveglia_barbone_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_viaggio_tempo_1863_sfx.bank      280032  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_viaggio_tempo_1863_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_viaggio_tempo_1863_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_viaggio_tempo_1981_sfx.bank      280032  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_viaggio_tempo_1981_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_viaggio_tempo_1981_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_viaggio_tempo_back_sfx.bank      280032  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+cut_viaggio_tempo_back_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+cut_viaggio_tempo_back_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+default_sfx.bank      998528  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+default_vo_eng.bank     2907616  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+default_vo_ita.bank     2908224  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_Z8_vo_eng.bank     1114048  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_Z8_vo_ita.bank     1405280  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_audioguida_botanica_IIWW_vo_eng.bank     1349824  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_audioguida_botanica_IIWW_vo_ita.bank     1835776  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_audioguida_vikingi_egizi_vo_eng.bank     1665184  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_audioguida_vikingi_egizi_vo_ita.bank     2309792  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_barista_vo_eng.bank      511264  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_barista_vo_ita.bank      701216  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_cieco_vo_eng.bank      786624  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_cieco_vo_ita.bank      993376  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_coccodrillo_vo_eng.bank      782560  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_coccodrillo_vo_ita.bank      765152  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_custode_vo_eng.bank     2049888  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_custode_vo_ita.bank     1651552  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_diavoletto_vo_eng.bank     1453856  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_diavoletto_vo_ita.bank     2448256  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_dragone_vo_eng.bank      758720  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_dragone_vo_ita.bank      862912  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_eremita_vo_eng.bank     4181824  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_eremita_vo_ita.bank     3365152  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_frank_vo_eng.bank     1258592  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_frank_vo_ita.bank     1365312  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_guardia_vo_eng.bank     1306720  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_guardia_vo_ita.bank     1279424  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_libro_magia_nera_vo_eng.bank     2180384  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_libro_magia_nera_vo_ita.bank     2623904  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_morpheus_vo_eng.bank     2646208  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_morpheus_vo_ita.bank     1833664  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_mostro_polvere_forzuto_vo_eng.bank      813216  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_mostro_polvere_forzuto_vo_ita.bank      918720  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_mostro_polvere_vo_eng.bank     1294912  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_mostro_polvere_vo_ita.bank     1474400  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_mummia_vo_eng.bank     1000608  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_mummia_vo_ita.bank     1254464  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_noce_vo_eng.bank     1438112  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_noce_vo_ita.bank     1774816  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_non_sapevo_come_chiamarlo_vo_eng.bank     1015392  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_non_sapevo_come_chiamarlo_vo_ita.bank     1127200  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_nonnina_risposta_vo_eng.bank      572320  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_nonnina_risposta_vo_ita.bank      723648  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_nonnina_vo_eng.bank      822816  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_nonnina_vo_ita.bank      858144  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_orso_vo_eng.bank     1159936  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_orso_vo_ita.bank     1216768  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_pinhead_vo_eng.bank      569600  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_pinhead_vo_ita.bank      534464  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_quarterback_vo_eng.bank     2160064  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_quarterback_vo_ita.bank     1712896  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_robot_vo_eng.bank     1484384  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_robot_vo_ita.bank     1689152  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_ronald_vo_eng.bank     1339872  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_ronald_vo_ita.bank     1460800  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_scelta_pezzo_vo_eng.bank      669984  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_scelta_pezzo_vo_ita.bank      827648  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_scelta_premio_vo_eng.bank      771200  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_scelta_premio_vo_ita.bank      741568  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_scienziato_vo_eng.bank     2449152  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_scienziato_vo_ita.bank     2357312  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_sfida guardia_vo_eng.bank     2086560  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_sfida guardia_vo_ita.bank     1989024  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_sviluppatori_vo_eng.bank     1475168  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_sviluppatori_vo_ita.bank     1898944  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_tutorial_vo_eng.bank      718880  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_tutorial_vo_ita.bank      722816  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_zombie_vo_eng.bank     1678816  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+dia_zombie_vo_ita.bank     1829440  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_acqua_fogna_vo_eng.bank       56800  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_acqua_fogna_vo_ita.bank       85856  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_anelli_vo_eng.bank      372160  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_anelli_vo_ita.bank      408928  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_antifurto_fai_da_te_vo_eng.bank       51680  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_antifurto_fai_da_te_vo_ita.bank       82848  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_arpione_vo_eng.bank       84640  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_arpione_vo_ita.bank      118048  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_assenzio_radioattivo_vo_eng.bank       59584  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_assenzio_radioattivo_vo_ita.bank       69376  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_assenzio_vo_eng.bank       77248  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_assenzio_vo_ita.bank       72032  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bagnoschiuma_vo_eng.bank      219936  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bagnoschiuma_vo_ita.bank      227808  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bambola voodoo funzionante_vo_eng.bank      169664  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bambola voodoo funzionante_vo_ita.bank      204448  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bambola voodoo incompleta_vo_eng.bank      514144  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bambola voodoo incompleta_vo_ita.bank      482592  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bambola voodoo_vo_eng.bank      612128  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bambola voodoo_vo_ita.bank      519328  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_banconote_vo_eng.bank       51008  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_banconote_vo_ita.bank       66432  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bende_vo_eng.bank       50688  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bende_vo_ita.bank       67488  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bibbia_vo_eng.bank      300928  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bibbia_vo_ita.bank      330432  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bicchiere di birra_vo_eng.bank      155168  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bicchiere di birra_vo_ita.bank      107200  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bicchiere vuoto_vo_eng.bank      124288  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bicchiere vuoto_vo_ita.bank      111424  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_boccale_vuoto_vo_eng.bank       21536  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_boccale_vuoto_vo_ita.bank       41440  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bomba_appiccicosa_vo_eng.bank       53504  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bomba_appiccicosa_vo_ita.bank       56672  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bomba_disinnescata_vo_eng.bank      160224  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bomba_disinnescata_vo_ita.bank      195392  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bomba_vo_eng.bank       86944  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bomba_vo_ita.bank      102624  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bomboletta_spray_vo_eng.bank       41792  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_bomboletta_spray_vo_ita.bank       62624  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_buono_vo_eng.bank      104512  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_buono_vo_ita.bank      129440  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_capelli_vo_eng.bank      171232  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_capelli_vo_ita.bank      148096  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_capsaicina_vo_eng.bank       98880  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_capsaicina_vo_ita.bank      132224  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_chiavi_vo_eng.bank       33600  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_chiavi_vo_ita.bank       41088  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_circuito_vo_eng.bank       41856  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_circuito_vo_ita.bank       54496  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_cravatta_vo_eng.bank       39520  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_cravatta_vo_ita.bank       62016  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_dentiera_vo_eng.bank      177344  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_dentiera_vo_ita.bank      169632  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_disco_alieno_vo_eng.bank       47936  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_disco_alieno_vo_ita.bank       70464  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_fiammiferi_vo_eng.bank       50976  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_fiammiferi_vo_ita.bank       68800  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_filo_rame_vo_eng.bank       83584  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_filo_rame_vo_ita.bank       95264  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_forchetta_vo_eng.bank       21824  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_forchetta_vo_ita.bank       31168  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_foto_vo_eng.bank       60096  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_foto_vo_ita.bank       65792  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_gomma_gigante_vo_eng.bank       71104  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_gomma_gigante_vo_ita.bank       84544  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_gomma_presa_rapida_vo_eng.bank      103328  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_gomma_presa_rapida_vo_ita.bank      137024  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_gomma_solidificata_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+inv_gomma_solidificata_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+inv_gomme_da_masticare_vo_eng.bank       77184  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_gomme_da_masticare_vo_ita.bank      103232  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_ingranaggi_vo_eng.bank       42720  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_ingranaggi_vo_ita.bank       69216  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_inserto_pubblicitario_vo_eng.bank      220000  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_inserto_pubblicitario_vo_ita.bank      223808  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_intruglio_vo_eng.bank      494688  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_intruglio_vo_ita.bank      560416  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_jalapeno_vo_eng.bank       32256  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_jalapeno_vo_ita.bank       37632  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_kit_imballaggio_vo_eng.bank      382560  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_kit_imballaggio_vo_ita.bank      385984  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_lenza_vo_eng.bank       41952  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_lenza_vo_ita.bank       53792  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_lenzuolo_vo_eng.bank      351648  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_lenzuolo_vo_ita.bank      406752  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_lettera_struccata_vo_eng.bank      194240  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_lettera_struccata_vo_ita.bank      238592  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_lettera_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+inv_lettera_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+inv_magnete_vo_eng.bank      805376  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_magnete_vo_ita.bank      816096  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_mappa_vo_eng.bank       26272  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_mappa_vo_ita.bank       34976  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_megafono_vo_eng.bank      192928  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_megafono_vo_ita.bank      165568  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_monete_antiche_vo_eng.bank       64352  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_monete_antiche_vo_ita.bank      106080  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_musicassetta_vo_eng.bank       82912  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_musicassetta_vo_ita.bank      110240  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_noce_vo_eng.bank       89440  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_noce_vo_ita.bank      117856  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pala_vo_eng.bank      452288  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pala_vo_ita.bank      396480  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_papillon_vo_eng.bank       41984  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_papillon_vo_ita.bank       41312  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pass_vo_eng.bank       32800  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pass_vo_ita.bank       44704  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_penny_vo_eng.bank      104640  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_penny_vo_ita.bank      140768  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_peperoncino_vo_eng.bank       94016  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_peperoncino_vo_ita.bank      113440  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_petardi_vo_eng.bank      133088  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_petardi_vo_ita.bank      164384  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_piede_di_porco_vo_eng.bank      157088  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_piede_di_porco_vo_ita.bank      164512  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pigotta_vo_eng.bank       70208  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pigotta_vo_ita.bank       64288  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pila_vo_eng.bank       46720  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pila_vo_ita.bank       44928  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pillole_vo_eng.bank       71680  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pillole_vo_ita.bank      116416  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pirite_vo_eng.bank       54944  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pirite_vo_ita.bank       68320  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_plutonio_vo_eng.bank     1433728  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_plutonio_vo_ita.bank     1410464  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_polaroid_vo_eng.bank       48640  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_polaroid_vo_ita.bank       58496  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_polvere_sparo_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+inv_polvere_sparo_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+inv_pomello_vo_eng.bank       83968  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_pomello_vo_ita.bank      108288  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_premio_vo_eng.bank       75872  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_premio_vo_ita.bank       83808  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_registratore_vo_eng.bank       54592  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_registratore_vo_ita.bank       97344  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_registrazione_polizia_vo_eng.bank       61120  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_registrazione_polizia_vo_ita.bank       82912  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_residui_plutonio_vo_eng.bank       22976  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_residui_plutonio_vo_ita.bank       34016  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_semi_mela_vo_eng.bank       99424  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_semi_mela_vo_ita.bank      106848  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_spillo_vo_eng.bank      382976  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_spillo_vo_ita.bank      360288  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_starter_kit_metallaro_vo_eng.bank      170016  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_starter_kit_metallaro_vo_ita.bank      204672  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_struccante_vo_eng.bank       30688  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_struccante_vo_ita.bank       27264  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_sveglia_funzionante_vo_eng.bank       95616  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_sveglia_funzionante_vo_ita.bank      107424  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_sveglia_vo_eng.bank       38752  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_sveglia_vo_ita.bank       57696  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_targa_antica_vo_eng.bank       33568  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_targa_antica_vo_ita.bank       50848  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_telone_vo_eng.bank       79808  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_telone_vo_ita.bank      128096  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_torcia_scarica_vo_eng.bank       41696  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_torcia_scarica_vo_ita.bank       35200  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_torcia_vo_eng.bank      106944  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_torcia_vo_ita.bank      123008  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_trapano_funzionante_vo_eng.bank      257184  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_trapano_funzionante_vo_ita.bank      308000  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_trapano_vo_eng.bank      100608  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_trapano_vo_ita.bank      117120  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_tubo_vo_eng.bank      108832  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_tubo_vo_ita.bank      136640  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_viagra_vo_eng.bank      356672  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_viagra_vo_ita.bank      391904  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_vite_vo_eng.bank       94592  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+inv_vite_vo_ita.bank       94016  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_accampamento_sfx.bank     1622912  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_accampamento_vo_eng.bank     2938240  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_accampamento_vo_ita.bank     3790336  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_anticamera_sfx.bank       60960  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_anticamera_vo_eng.bank     1230368  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_anticamera_vo_ita.bank     1565152  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_bagno1_sfx.bank      462112  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_bagno1_vo_eng.bank     4561088  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_bagno1_vo_ita.bank     5280288  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_bagno_sfx.bank     1511104  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_bagno_vo_eng.bank     2126496  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_bagno_vo_ita.bank     2857728  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_baracca_sfx.bank     1117248  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_baracca_vo_eng.bank     3108256  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_baracca_vo_ita.bank     2915840  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_bonus_sfx.bank      434880  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_bonus_vo_eng.bank      766848  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_bonus_vo_ita.bank      864128  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cabina_sfx.bank      170688  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cabina_vo_eng.bank      276672  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cabina_vo_ita.bank      395008  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_camera_letto_sfx.bank       87968  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_camera_letto_vo_eng.bank     1259552  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_camera_letto_vo_ita.bank     1485792  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cameretta_ronald_sfx.bank       32224  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cameretta_ronald_vo_eng.bank       51776  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cameretta_ronald_vo_ita.bank       64032  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cameretta_sfx.bank      113760  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cameretta_vo_eng.bank      879712  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cameretta_vo_ita.bank     1128800  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cantiere_sfx.bank     1180480  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cantiere_vo_eng.bank     1577984  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cantiere_vo_ita.bank     1852448  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_casa_albero_sfx.bank      455808  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_casa_albero_vo_eng.bank     2137536  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_casa_albero_vo_ita.bank     1777408  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_catacomba_sfx.bank     2033760  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_catacomba_vo_eng.bank     1431616  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_catacomba_vo_ita.bank     1643488  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cimitero_sfx.bank     1586880  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cimitero_vo_eng.bank     1432288  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cimitero_vo_ita.bank     2071680  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cripta_sfx.bank       28064  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cripta_vo_eng.bank     1600000  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cripta_vo_ita.bank     1968608  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cucina1_sfx.bank      533408  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cucina1_vo_eng.bank     2196192  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cucina1_vo_ita.bank     2826432  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cucina_sfx.bank     1551360  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cucina_vo_eng.bank     3191488  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_cucina_vo_ita.bank     2786368  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_discarica_sfx.bank     1401248  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_discarica_vo_eng.bank     8016768  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_discarica_vo_ita.bank     6895296  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_elenco_telefonico_sfx.bank       19680  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_elenco_telefonico_vo_eng.bank      521696  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_elenco_telefonico_vo_ita.bank      515808  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_finestra_sfx.bank       16992  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_finestra_vo_eng.bank      683488  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_finestra_vo_ita.bank      854464  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_fogna_sfx.bank     2907584  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_fogna_vo_eng.bank     1202496  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_fogna_vo_ita.bank     1553440  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_frigorifero_sfx.bank      203968  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_frigorifero_vo_eng.bank     1194848  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_frigorifero_vo_ita.bank     1020992  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_giardino_sfx.bank      225952  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_giardino_vo_eng.bank     2088544  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_giardino_vo_ita.bank     1885568  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_grotta_sfx.bank     1646784  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_grotta_vo_eng.bank     1138144  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_grotta_vo_ita.bank     1424224  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_ingresso_sfx.bank      276384  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_ingresso_vo_eng.bank     1654880  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_ingresso_vo_ita.bank     2106272  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_interno_gru_sfx.bank     3091520  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_interno_gru_vo_eng.bank      627680  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_interno_gru_vo_ita.bank      623008  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_intro_sfx.bank      221888  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_intro_vo_eng.bank      798112  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_intro_vo_ita.bank      549312  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_macchina_tempo_sfx.bank       14304  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_macchina_tempo_vo_eng.bank      140832  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_macchina_tempo_vo_ita.bank      409920  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_marciapiede_sfx.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+loc_marciapiede_vo_eng.bank     1901280  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_marciapiede_vo_ita.bank     2254496  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_meteorite_sfx.bank      926176  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_meteorite_vo_eng.bank     1837248  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_meteorite_vo_ita.bank     2031008  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_museo_sfx.bank      151392  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_museo_vo_eng.bank      873024  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_museo_vo_ita.bank     1283616  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_pensile_sfx.bank       52352  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_pensile_vo_eng.bank      477536  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_pensile_vo_ita.bank      578880  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_piano_terra_sfx.bank       13440  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_piano_terra_vo_eng.bank     2112000  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_piano_terra_vo_ita.bank     1813568  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_presa_armadio_sfx.bank      130144  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_presa_armadio_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+loc_presa_armadio_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+loc_primo_piano_sfx.bank      172448  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_primo_piano_vo_eng.bank     2875104  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_primo_piano_vo_ita.bank     2360704  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_retro_furgone_sfx.bank      432320  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_retro_furgone_vo_eng.bank      621056  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_retro_furgone_vo_ita.bank      770816  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_sala_botanica_IIWW_sfx.bank     1252576  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_sala_botanica_IIWW_vo_eng.bank     1389856  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_sala_botanica_IIWW_vo_ita.bank     1603808  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_sala_telecamere_sfx.bank      553888  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_sala_telecamere_vo_eng.bank      296832  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_sala_telecamere_vo_ita.bank      420288  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_sala_vikingi_egizi_sfx.bank      625440  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_sala_vikingi_egizi_vo_eng.bank     1220608  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_sala_vikingi_egizi_vo_ita.bank     1324128  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_salotto_sfx.bank      380384  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_salotto_vo_eng.bank     2199936  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_salotto_vo_ita.bank     2720640  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_scantinato_sfx.bank      126272  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_scantinato_vo_eng.bank     1083200  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_scantinato_vo_ita.bank     1322592  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_sgabuzzino_sfx.bank      282752  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_sgabuzzino_vo_eng.bank     3308544  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_sgabuzzino_vo_ita.bank     2934592  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_spiaggia_sfx.bank      857760  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_spiaggia_vo_eng.bank     2689024  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_spiaggia_vo_ita.bank     3323008  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_studio_sfx.bank      303168  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_studio_vo_eng.bank     1892384  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_studio_vo_ita.bank     1764000  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_toppa_bagno_sfx.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+loc_toppa_bagno_vo_eng.bank       22816  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_toppa_bagno_vo_ita.bank       27648  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_tv_sfx.bank      1495744  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_tv_vo_eng.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+loc_tv_vo_ita.bank         494  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+loc_vicolo_sfx.bank     1556384  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_vicolo_vo_eng.bank     1565120  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+loc_vicolo_vo_ita.bank     2024384  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+master_bank.bank        5684  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+master_bank.strings.bank      292808  form=FEV  residue=0 chunks=40  FMT : LIST:PROJ
+matrix_vo_eng.bank    14838208  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+matrix_vo_ita.bank    15648672  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+ost.bank            86498816  form=FEV  residue=0 chunks=41  FMT : LIST:PROJ SND :
+CG_horizontal.mp4            REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+TW_gamera_logo.mp4           REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+accensione_catacomba.mp4     REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+armadio_discarica.mp4        REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+arrivo_pacco.mp4             REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+boogeyman.mp4                REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+casa_a_fuoco.mp4             REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+ciccione_fuga.mp4            REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+estrazione_ingranaggi.mp4    REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+evoluzione_mostro.mp4        REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+foto_telecamera.mp4          REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+fuga_ladro.mp4               REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+fuga_traslocatori.mp4        REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+furgone.mp4                  REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+ingresso_catacomba.mp4       REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+intro.mp4                    REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+johnny.mp4                   REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+matrimonio.mp4               REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+nonnina_spaventa_ragazzini.mp4 REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+outro1.mp4                   REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+outro2.mp4                   REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+outro3.mp4                   REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+outro4.mp4                   REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+pala_custode.mp4             REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+pittore_dipinge.mp4          REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+pomello_excalibur.mp4        REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+pomello_fiamma_ossidrica.mp4 REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+ripresa_trasloco.mp4         REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+skinny_matrix.mp4            REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+sveglia_barbone.mp4          REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+viaggio_tempo_1863.mp4       REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+viaggio_tempo_1981.mp4       REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+viaggio_tempo_back.mp4       REFUSED: not RIFF (first four bytes b'\x00\x00\x00 ')
+accampamento.xml             REFUSED: not RIFF (first four bytes b'<are')
+anticamera.xml               REFUSED: not RIFF (first four bytes b'<are')
+bagno.xml                    REFUSED: not RIFF (first four bytes b'<are')
+bagno1.xml                   REFUSED: not RIFF (first four bytes b'<are')
+baracca.xml                  REFUSED: not RIFF (first four bytes b'<are')
+baracca_custode_KO.xml       REFUSED: not RIFF (first four bytes b'<are')
+bonus.xml                    REFUSED: not RIFF (first four bytes b'<are')
+camera_letto.xml             REFUSED: not RIFF (first four bytes b'<are')
+cameretta.xml                REFUSED: not RIFF (first four bytes b'<are')
+cameretta_ronald.xml         REFUSED: not RIFF (first four bytes b'<are')
+cantiere.xml                 REFUSED: not RIFF (first four bytes b'<are')
+casa_albero.xml              REFUSED: not RIFF (first four bytes b'<are')
+catacomba.xml                REFUSED: not RIFF (first four bytes b'<are')
+cimitero.xml                 REFUSED: not RIFF (first four bytes b'<are')
+cimitero_x_cripta.xml        REFUSED: not RIFF (first four bytes b'<are')
+cripta.xml                   REFUSED: not RIFF (first four bytes b'<are')
+cucina.xml                   REFUSED: not RIFF (first four bytes b'<are')
+cucina1.xml                  REFUSED: not RIFF (first four bytes b'<are')
+discarica.xml                REFUSED: not RIFF (first four bytes b'<are')
+discarica0.xml               REFUSED: not RIFF (first four bytes b'<are')
+discarica2.xml               REFUSED: not RIFF (first four bytes b'<are')
+discarica3.xml               REFUSED: not RIFF (first four bytes b'<are')
+discarica4.xml               REFUSED: not RIFF (first four bytes b'<are')
+fogna.xml                    REFUSED: not RIFF (first four bytes b'<are')
+giardino.xml                 REFUSED: not RIFF (first four bytes b'<are')
+grotta.xml                   REFUSED: not RIFF (first four bytes b'<are')
+ingresso.xml                 REFUSED: not RIFF (first four bytes b'<are')
+ingresso_scatolone1.xml      REFUSED: not RIFF (first four bytes b'<are')
+ingresso_scatolone2.xml      REFUSED: not RIFF (first four bytes b'<are')
+ingresso_scatolone3.xml      REFUSED: not RIFF (first four bytes b'<are')
+marciapiede.xml              REFUSED: not RIFF (first four bytes b'<are')
+meteorite.xml                REFUSED: not RIFF (first four bytes b'<are')
+museo.xml                    REFUSED: not RIFF (first four bytes b'<are')
+piano_terra.xml              REFUSED: not RIFF (first four bytes b'<are')
+primo_piano.xml              REFUSED: not RIFF (first four bytes b'<are')
+retro_furgone.xml            REFUSED: not RIFF (first four bytes b'<are')
+retro_furgone_ladro.xml      REFUSED: not RIFF (first four bytes b'<are')
+sala_botanica_IIWW.xml       REFUSED: not RIFF (first four bytes b'<are')
+sala_telecamere.xml          REFUSED: not RIFF (first four bytes b'<are')
+sala_vikingi_egizi.xml       REFUSED: not RIFF (first four bytes b'<are')
+salotto.xml                  REFUSED: not RIFF (first four bytes b'<are')
+salotto2.xml                 REFUSED: not RIFF (first four bytes b'<are')
+scantinato.xml               REFUSED: not RIFF (first four bytes b'<are')
+sgabuzzino_buio.xml          REFUSED: not RIFF (first four bytes b'<are')
+sgabuzzino_luce.xml          REFUSED: not RIFF (first four bytes b'<are')
+spiaggia.xml                 REFUSED: not RIFF (first four bytes b'<are')
+spiaggia_x_macchina_tempo.xml REFUSED: not RIFF (first four bytes b'<are')
+studio.xml                   REFUSED: not RIFF (first four bytes b'<are')
+vicolo.xml                   REFUSED: not RIFF (first four bytes b'<are')
+vicolo2.xml                  REFUSED: not RIFF (first four bytes b'<are')
+inventory.xml                REFUSED: not RIFF (first four bytes b'<inv')
+settings.xml                 REFUSED: not RIFF (first four bytes b'<set')
+skinny.xml                   REFUSED: not RIFF (first four bytes b'<ski')
+Z8.xml                       REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_botanica_IIWW.xml REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_vikingi_egizi.xml REFUSED: not RIFF (first four bytes b'<dia')
+barista.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+cieco.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+coccodrillo.xml              REFUSED: not RIFF (first four bytes b'<dia')
+custode.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+diavoletto.xml               REFUSED: not RIFF (first four bytes b'<dia')
+dragone.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+eremita.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+frank.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+guardia.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+libro_magia_nera.xml         REFUSED: not RIFF (first four bytes b'<dia')
+morpheus.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere.xml           REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere_forzuto.xml   REFUSED: not RIFF (first four bytes b'<dia')
+mummia.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+non_sapevo_come_chiamarlo.xml REFUSED: not RIFF (first four bytes b'<dia')
+nonnina.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+nonnina_risposta.xml         REFUSED: not RIFF (first four bytes b'<dia')
+orso.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+pinhead.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+quarterback.xml              REFUSED: not RIFF (first four bytes b'<dia')
+robot.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+ronald.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+scelta_pezzo.xml             REFUSED: not RIFF (first four bytes b'<dia')
+scelta_premio.xml            REFUSED: not RIFF (first four bytes b'<dia')
+scienziato.xml               REFUSED: not RIFF (first four bytes b'<dia')
+sfida guardia.xml            REFUSED: not RIFF (first four bytes b'<dia')
+sviluppatori.xml             REFUSED: not RIFF (first four bytes b'<dia')
+tutorial.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+zombie.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+accampamento_mutable.xml     REFUSED: not RIFF (first four bytes b'<loc')
+anticamera_mutable.xml       REFUSED: not RIFF (first four bytes b'<loc')
+bagno1_mutable.xml           REFUSED: not RIFF (first four bytes b'<loc')
+bagno_mutable.xml            REFUSED: not RIFF (first four bytes b'<loc')
+baracca_mutable.xml          REFUSED: not RIFF (first four bytes b'<loc')
+bonus_mutable.xml            REFUSED: not RIFF (first four bytes b'<loc')
+cabina_mutable.xml           REFUSED: not RIFF (first four bytes b'<loc')
+camera_letto_mutable.xml     REFUSED: not RIFF (first four bytes b'<loc')
+cameretta_mutable.xml        REFUSED: not RIFF (first four bytes b'<loc')
+cameretta_ronald_mutable.xml REFUSED: not RIFF (first four bytes b'<loc')
+cantiere_mutable.xml         REFUSED: not RIFF (first four bytes b'<loc')
+casa_albero_mutable.xml      REFUSED: not RIFF (first four bytes b'<loc')
+catacomba_mutable.xml        REFUSED: not RIFF (first four bytes b'<loc')
+cimitero_mutable.xml         REFUSED: not RIFF (first four bytes b'<loc')
+cripta_mutable.xml           REFUSED: not RIFF (first four bytes b'<loc')
+cucina1_mutable.xml          REFUSED: not RIFF (first four bytes b'<loc')
+cucina_mutable.xml           REFUSED: not RIFF (first four bytes b'<loc')
+discarica_mutable.xml        REFUSED: not RIFF (first four bytes b'<loc')
+elenco_telefonico_mutable.xml REFUSED: not RIFF (first four bytes b'<loc')
+finestra_mutable.xml         REFUSED: not RIFF (first four bytes b'<loc')
+fogna_mutable.xml            REFUSED: not RIFF (first four bytes b'<loc')
+frigorifero_mutable.xml      REFUSED: not RIFF (first four bytes b'<loc')
+giardino_mutable.xml         REFUSED: not RIFF (first four bytes b'<loc')
+grotta_mutable.xml           REFUSED: not RIFF (first four bytes b'<loc')
+ingresso_mutable.xml         REFUSED: not RIFF (first four bytes b'<loc')
+interno_gru_mutable.xml      REFUSED: not RIFF (first four bytes b'<loc')
+intro_mutable.xml            REFUSED: not RIFF (first four bytes b'<loc')
+macchina_tempo_mutable.xml   REFUSED: not RIFF (first four bytes b'<loc')
+marciapiede_mutable.xml      REFUSED: not RIFF (first four bytes b'<loc')
+meteorite_mutable.xml        REFUSED: not RIFF (first four bytes b'<loc')
+museo_mutable.xml            REFUSED: not RIFF (first four bytes b'<loc')
+pensile_mutable.xml          REFUSED: not RIFF (first four bytes b'<loc')
+piano_terra_mutable.xml      REFUSED: not RIFF (first four bytes b'<loc')
+presa_armadio_mutable.xml    REFUSED: not RIFF (first four bytes b'<loc')
+primo_piano_mutable.xml      REFUSED: not RIFF (first four bytes b'<loc')
+retro_furgone_mutable.xml    REFUSED: not RIFF (first four bytes b'<loc')
+sala_botanica_IIWW_mutable.xml REFUSED: not RIFF (first four bytes b'<loc')
+sala_telecamere_mutable.xml  REFUSED: not RIFF (first four bytes b'<loc')
+sala_vikingi_egizi_mutable.xml REFUSED: not RIFF (first four bytes b'<loc')
+salotto_mutable.xml          REFUSED: not RIFF (first four bytes b'<loc')
+scantinato_mutable.xml       REFUSED: not RIFF (first four bytes b'<loc')
+sgabuzzino_mutable.xml       REFUSED: not RIFF (first four bytes b'<loc')
+spiaggia_mutable.xml         REFUSED: not RIFF (first four bytes b'<loc')
+studio_mutable.xml           REFUSED: not RIFF (first four bytes b'<loc')
+toppa_bagno_mutable.xml      REFUSED: not RIFF (first four bytes b'<loc')
+tv_mutable.xml               REFUSED: not RIFF (first four bytes b'<loc')
+vicolo_mutable.xml           REFUSED: not RIFF (first four bytes b'<loc')
+default.xml                  REFUSED: not RIFF (first four bytes b'<def')
+Z8.xml                       REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_botanica_IIWW.xml REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_vikingi_egizi.xml REFUSED: not RIFF (first four bytes b'<dia')
+barista.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+cieco.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+coccodrillo.xml              REFUSED: not RIFF (first four bytes b'<dia')
+custode.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+diavoletto.xml               REFUSED: not RIFF (first four bytes b'<dia')
+dragone.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+eremita.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+frank.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+guardia.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+libro_magia_nera.xml         REFUSED: not RIFF (first four bytes b'<dia')
+morpheus.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere.xml           REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere_forzuto.xml   REFUSED: not RIFF (first four bytes b'<dia')
+mummia.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+non_sapevo_come_chiamarlo.xml REFUSED: not RIFF (first four bytes b'<dia')
+nonnina.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+nonnina_risposta.xml         REFUSED: not RIFF (first four bytes b'<dia')
+orso.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+pinhead.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+quarterback.xml              REFUSED: not RIFF (first four bytes b'<dia')
+robot.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+ronald.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+scelta_pezzo.xml             REFUSED: not RIFF (first four bytes b'<dia')
+scelta_premio.xml            REFUSED: not RIFF (first four bytes b'<dia')
+scienziato.xml               REFUSED: not RIFF (first four bytes b'<dia')
+sfida guardia.xml            REFUSED: not RIFF (first four bytes b'<dia')
+sviluppatori.xml             REFUSED: not RIFF (first four bytes b'<dia')
+tutorial.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+zombie.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+accampamento.xml             REFUSED: not RIFF (first four bytes b'<loc')
+anticamera.xml               REFUSED: not RIFF (first four bytes b'<loc')
+bagno.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+bagno1.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+baracca.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+bonus.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+cabina.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+camera_letto.xml             REFUSED: not RIFF (first four bytes b'<loc')
+cameretta.xml                REFUSED: not RIFF (first four bytes b'<loc')
+cameretta_ronald.xml         REFUSED: not RIFF (first four bytes b'<loc')
+cantiere.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+casa_albero.xml              REFUSED: not RIFF (first four bytes b'<loc')
+catacomba.xml                REFUSED: not RIFF (first four bytes b'<loc')
+cimitero.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+cripta.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+cucina.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+cucina1.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+discarica.xml                REFUSED: not RIFF (first four bytes b'<loc')
+elenco_telefonico.xml        REFUSED: not RIFF (first four bytes b'<loc')
+finestra.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+fogna.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+frigorifero.xml              REFUSED: not RIFF (first four bytes b'<loc')
+giardino.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+grotta.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+ingresso.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+interno_gru.xml              REFUSED: not RIFF (first four bytes b'<loc')
+intro.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+macchina_tempo.xml           REFUSED: not RIFF (first four bytes b'<loc')
+marciapiede.xml              REFUSED: not RIFF (first four bytes b'<loc')
+meteorite.xml                REFUSED: not RIFF (first four bytes b'<loc')
+museo.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+pensile.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+piano_terra.xml              REFUSED: not RIFF (first four bytes b'<loc')
+presa_armadio.xml            REFUSED: not RIFF (first four bytes b'<loc')
+primo_piano.xml              REFUSED: not RIFF (first four bytes b'<loc')
+retro_furgone.xml            REFUSED: not RIFF (first four bytes b'<loc')
+sala_botanica_IIWW.xml       REFUSED: not RIFF (first four bytes b'<loc')
+sala_telecamere.xml          REFUSED: not RIFF (first four bytes b'<loc')
+sala_vikingi_egizi.xml       REFUSED: not RIFF (first four bytes b'<loc')
+salotto.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+scantinato.xml               REFUSED: not RIFF (first four bytes b'<loc')
+sgabuzzino.xml               REFUSED: not RIFF (first four bytes b'<loc')
+spiaggia.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+studio.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+toppa_bagno.xml              REFUSED: not RIFF (first four bytes b'<loc')
+tv.xml                       REFUSED: not RIFF (first four bytes b'<loc')
+vicolo.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+acqua_fogna.xml              REFUSED: not RIFF (first four bytes b'<obj')
+anelli.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+antifurto_fai_da_te.xml      REFUSED: not RIFF (first four bytes b'<obj')
+arpione.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+assenzio.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+assenzio_radioattivo.xml     REFUSED: not RIFF (first four bytes b'<obj')
+bagnoschiuma.xml             REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo funzionante.xml REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo incompleta.xml REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo.xml           REFUSED: not RIFF (first four bytes b'<obj')
+banconote.xml                REFUSED: not RIFF (first four bytes b'<obj')
+bende.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+bibbia.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+bicchiere di birra.xml       REFUSED: not RIFF (first four bytes b'<obj')
+bicchiere vuoto.xml          REFUSED: not RIFF (first four bytes b'<obj')
+boccale_vuoto.xml            REFUSED: not RIFF (first four bytes b'<obj')
+bomba.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+bomba_appiccicosa.xml        REFUSED: not RIFF (first four bytes b'<obj')
+bomba_disinnescata.xml       REFUSED: not RIFF (first four bytes b'<obj')
+bomboletta_spray.xml         REFUSED: not RIFF (first four bytes b'<obj')
+buono.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+capelli.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+capsaicina.xml               REFUSED: not RIFF (first four bytes b'<obj')
+chiavi.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+circuito.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+cravatta.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+dentiera.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+disco_alieno.xml             REFUSED: not RIFF (first four bytes b'<obj')
+fiammiferi.xml               REFUSED: not RIFF (first four bytes b'<obj')
+filo_rame.xml                REFUSED: not RIFF (first four bytes b'<obj')
+forchetta.xml                REFUSED: not RIFF (first four bytes b'<obj')
+foto.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+gomma_gigante.xml            REFUSED: not RIFF (first four bytes b'<obj')
+gomma_presa_rapida.xml       REFUSED: not RIFF (first four bytes b'<obj')
+gomma_solidificata.xml       REFUSED: not RIFF (first four bytes b'<obj')
+gomme_da_masticare.xml       REFUSED: not RIFF (first four bytes b'<obj')
+ingranaggi.xml               REFUSED: not RIFF (first four bytes b'<obj')
+inserto_pubblicitario.xml    REFUSED: not RIFF (first four bytes b'<obj')
+intruglio.xml                REFUSED: not RIFF (first four bytes b'<obj')
+jalapeno.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+kit_imballaggio.xml          REFUSED: not RIFF (first four bytes b'<obj')
+lenza.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+lenzuolo.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+lettera.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+lettera_struccata.xml        REFUSED: not RIFF (first four bytes b'<obj')
+magnete.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+mappa.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+megafono.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+monete_antiche.xml           REFUSED: not RIFF (first four bytes b'<obj')
+musicassetta.xml             REFUSED: not RIFF (first four bytes b'<obj')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+pala.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+papillon.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+pass.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+penny.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+peperoncino.xml              REFUSED: not RIFF (first four bytes b'<obj')
+petardi.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+piede_di_porco.xml           REFUSED: not RIFF (first four bytes b'<obj')
+pigotta.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+pila.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+pillole.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+pirite.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+plutonio.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+polaroid.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+polvere_sparo.xml            REFUSED: not RIFF (first four bytes b'<obj')
+pomello.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+premio.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+registratore.xml             REFUSED: not RIFF (first four bytes b'<obj')
+registrazione_polizia.xml    REFUSED: not RIFF (first four bytes b'<obj')
+residui_plutonio.xml         REFUSED: not RIFF (first four bytes b'<obj')
+semi_mela.xml                REFUSED: not RIFF (first four bytes b'<obj')
+spillo.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+starter_kit_metallaro.xml    REFUSED: not RIFF (first four bytes b'<obj')
+struccante.xml               REFUSED: not RIFF (first four bytes b'<obj')
+sveglia.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+sveglia_funzionante.xml      REFUSED: not RIFF (first four bytes b'<obj')
+targa_antica.xml             REFUSED: not RIFF (first four bytes b'<obj')
+telone.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+torcia.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+torcia_scarica.xml           REFUSED: not RIFF (first four bytes b'<obj')
+trapano.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+trapano_funzionante.xml      REFUSED: not RIFF (first four bytes b'<obj')
+tubo.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+viagra.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+vite.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+call.xml                     REFUSED: not RIFF (first four bytes b'<buf')
+data_viaggio.xml             REFUSED: not RIFF (first four bytes b'<buf')
+accensione_catacomba.xml     REFUSED: not RIFF (first four bytes b'<scr')
+boogeyman.xml                REFUSED: not RIFF (first four bytes b'<scr')
+fuga_traslocatori.xml        REFUSED: not RIFF (first four bytes b'<scr')
+intro.xml                    REFUSED: not RIFF (first four bytes b'<int')
+matrimonio.xml               REFUSED: not RIFF (first four bytes b'<scr')
+outro3.xml                   REFUSED: not RIFF (first four bytes b'<int')
+outro4.xml                   REFUSED: not RIFF (first four bytes b'<int')
+lettera.xml                  REFUSED: not RIFF (first four bytes b'<doc')
+lettera_struccata.xml        REFUSED: not RIFF (first four bytes b'<doc')
+clear_bedroom.xml            REFUSED: not RIFF (first four bytes b'<scr')
+painter_back.xml             REFUSED: not RIFF (first four bytes b'<scr')
+default.xml                  REFUSED: not RIFF (first four bytes b'<def')
+Z8.xml                       REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_botanica_IIWW.xml REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_vikingi_egizi.xml REFUSED: not RIFF (first four bytes b'<dia')
+barista.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+cieco.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+coccodrillo.xml              REFUSED: not RIFF (first four bytes b'<dia')
+custode.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+diavoletto.xml               REFUSED: not RIFF (first four bytes b'<dia')
+dragone.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+eremita.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+frank.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+guardia.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+libro_magia_nera.xml         REFUSED: not RIFF (first four bytes b'<dia')
+morpheus.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere.xml           REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere_forzuto.xml   REFUSED: not RIFF (first four bytes b'<dia')
+mummia.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+non_sapevo_come_chiamarlo.xml REFUSED: not RIFF (first four bytes b'<dia')
+nonnina.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+nonnina_risposta.xml         REFUSED: not RIFF (first four bytes b'<dia')
+orso.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+pinhead.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+quarterback.xml              REFUSED: not RIFF (first four bytes b'<dia')
+robot.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+ronald.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+scelta_pezzo.xml             REFUSED: not RIFF (first four bytes b'<dia')
+scelta_premio.xml            REFUSED: not RIFF (first four bytes b'<dia')
+scienziato.xml               REFUSED: not RIFF (first four bytes b'<dia')
+sfida guardia.xml            REFUSED: not RIFF (first four bytes b'<dia')
+sviluppatori.xml             REFUSED: not RIFF (first four bytes b'<dia')
+tutorial.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+zombie.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+accampamento.xml             REFUSED: not RIFF (first four bytes b'<loc')
+anticamera.xml               REFUSED: not RIFF (first four bytes b'<loc')
+bagno.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+bagno1.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+baracca.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+bonus.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+cabina.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+camera_letto.xml             REFUSED: not RIFF (first four bytes b'<loc')
+cameretta.xml                REFUSED: not RIFF (first four bytes b'<loc')
+cameretta_ronald.xml         REFUSED: not RIFF (first four bytes b'<loc')
+cantiere.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+casa_albero.xml              REFUSED: not RIFF (first four bytes b'<loc')
+catacomba.xml                REFUSED: not RIFF (first four bytes b'<loc')
+cimitero.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+cripta.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+cucina.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+cucina1.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+discarica.xml                REFUSED: not RIFF (first four bytes b'<loc')
+elenco_telefonico.xml        REFUSED: not RIFF (first four bytes b'<loc')
+finestra.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+fogna.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+frigorifero.xml              REFUSED: not RIFF (first four bytes b'<loc')
+giardino.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+grotta.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+ingresso.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+interno_gru.xml              REFUSED: not RIFF (first four bytes b'<loc')
+intro.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+macchina_tempo.xml           REFUSED: not RIFF (first four bytes b'<loc')
+marciapiede.xml              REFUSED: not RIFF (first four bytes b'<loc')
+meteorite.xml                REFUSED: not RIFF (first four bytes b'<loc')
+museo.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+pensile.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+piano_terra.xml              REFUSED: not RIFF (first four bytes b'<loc')
+presa_armadio.xml            REFUSED: not RIFF (first four bytes b'<loc')
+primo_piano.xml              REFUSED: not RIFF (first four bytes b'<loc')
+retro_furgone.xml            REFUSED: not RIFF (first four bytes b'<loc')
+sala_botanica_IIWW.xml       REFUSED: not RIFF (first four bytes b'<loc')
+sala_telecamere.xml          REFUSED: not RIFF (first four bytes b'<loc')
+sala_vikingi_egizi.xml       REFUSED: not RIFF (first four bytes b'<loc')
+salotto.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+scantinato.xml               REFUSED: not RIFF (first four bytes b'<loc')
+sgabuzzino.xml               REFUSED: not RIFF (first four bytes b'<loc')
+spiaggia.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+studio.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+toppa_bagno.xml              REFUSED: not RIFF (first four bytes b'<loc')
+tv.xml                       REFUSED: not RIFF (first four bytes b'<loc')
+vicolo.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+acqua_fogna.xml              REFUSED: not RIFF (first four bytes b'<obj')
+anelli.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+antifurto_fai_da_te.xml      REFUSED: not RIFF (first four bytes b'<obj')
+arpione.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+assenzio.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+assenzio_radioattivo.xml     REFUSED: not RIFF (first four bytes b'<obj')
+bagnoschiuma.xml             REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo funzionante.xml REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo incompleta.xml REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo.xml           REFUSED: not RIFF (first four bytes b'<obj')
+banconote.xml                REFUSED: not RIFF (first four bytes b'<obj')
+bende.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+bibbia.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+bicchiere di birra.xml       REFUSED: not RIFF (first four bytes b'<obj')
+bicchiere vuoto.xml          REFUSED: not RIFF (first four bytes b'<obj')
+boccale_vuoto.xml            REFUSED: not RIFF (first four bytes b'<obj')
+bomba.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+bomba_appiccicosa.xml        REFUSED: not RIFF (first four bytes b'<obj')
+bomba_disinnescata.xml       REFUSED: not RIFF (first four bytes b'<obj')
+bomboletta_spray.xml         REFUSED: not RIFF (first four bytes b'<obj')
+buono.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+capelli.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+capsaicina.xml               REFUSED: not RIFF (first four bytes b'<obj')
+chiavi.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+circuito.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+cravatta.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+dentiera.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+disco_alieno.xml             REFUSED: not RIFF (first four bytes b'<obj')
+fiammiferi.xml               REFUSED: not RIFF (first four bytes b'<obj')
+filo_rame.xml                REFUSED: not RIFF (first four bytes b'<obj')
+forchetta.xml                REFUSED: not RIFF (first four bytes b'<obj')
+foto.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+gomma_gigante.xml            REFUSED: not RIFF (first four bytes b'<obj')
+gomma_presa_rapida.xml       REFUSED: not RIFF (first four bytes b'<obj')
+gomma_solidificata.xml       REFUSED: not RIFF (first four bytes b'<obj')
+gomme_da_masticare.xml       REFUSED: not RIFF (first four bytes b'<obj')
+ingranaggi.xml               REFUSED: not RIFF (first four bytes b'<obj')
+inserto_pubblicitario.xml    REFUSED: not RIFF (first four bytes b'<obj')
+intruglio.xml                REFUSED: not RIFF (first four bytes b'<obj')
+jalapeno.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+kit_imballaggio.xml          REFUSED: not RIFF (first four bytes b'<obj')
+lenza.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+lenzuolo.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+lettera.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+lettera_struccata.xml        REFUSED: not RIFF (first four bytes b'<obj')
+magnete.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+mappa.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+megafono.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+monete_antiche.xml           REFUSED: not RIFF (first four bytes b'<obj')
+musicassetta.xml             REFUSED: not RIFF (first four bytes b'<obj')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+pala.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+papillon.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+pass.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+penny.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+peperoncino.xml              REFUSED: not RIFF (first four bytes b'<obj')
+petardi.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+piede_di_porco.xml           REFUSED: not RIFF (first four bytes b'<obj')
+pigotta.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+pila.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+pillole.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+pirite.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+plutonio.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+polaroid.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+polvere_sparo.xml            REFUSED: not RIFF (first four bytes b'<obj')
+pomello.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+premio.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+registratore.xml             REFUSED: not RIFF (first four bytes b'<obj')
+registrazione_polizia.xml    REFUSED: not RIFF (first four bytes b'<obj')
+residui_plutonio.xml         REFUSED: not RIFF (first four bytes b'<obj')
+semi_mela.xml                REFUSED: not RIFF (first four bytes b'<obj')
+spillo.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+starter_kit_metallaro.xml    REFUSED: not RIFF (first four bytes b'<obj')
+struccante.xml               REFUSED: not RIFF (first four bytes b'<obj')
+sveglia.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+sveglia_funzionante.xml      REFUSED: not RIFF (first four bytes b'<obj')
+targa_antica.xml             REFUSED: not RIFF (first four bytes b'<obj')
+telone.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+torcia.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+torcia_scarica.xml           REFUSED: not RIFF (first four bytes b'<obj')
+trapano.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+trapano_funzionante.xml      REFUSED: not RIFF (first four bytes b'<obj')
+tubo.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+viagra.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+vite.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+call.xml                     REFUSED: not RIFF (first four bytes b'<buf')
+data_viaggio.xml             REFUSED: not RIFF (first four bytes b'<buf')
+accensione_catacomba.xml     REFUSED: not RIFF (first four bytes b'<scr')
+boogeyman.xml                REFUSED: not RIFF (first four bytes b'<scr')
+fuga_traslocatori.xml        REFUSED: not RIFF (first four bytes b'<scr')
+intro.xml                    REFUSED: not RIFF (first four bytes b'<int')
+matrimonio.xml               REFUSED: not RIFF (first four bytes b'<scr')
+outro3.xml                   REFUSED: not RIFF (first four bytes b'<int')
+outro4.xml                   REFUSED: not RIFF (first four bytes b'<int')
+lettera.xml                  REFUSED: not RIFF (first four bytes b'<doc')
+lettera_struccata.xml        REFUSED: not RIFF (first four bytes b'<doc')
+clear_bedroom.xml            REFUSED: not RIFF (first four bytes b'<scr')
+painter_back.xml             REFUSED: not RIFF (first four bytes b'<scr')
+default.xml                  REFUSED: not RIFF (first four bytes b'<def')
+Z8.xml                       REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_botanica_IIWW.xml REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_vikingi_egizi.xml REFUSED: not RIFF (first four bytes b'<dia')
+barista.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+cieco.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+coccodrillo.xml              REFUSED: not RIFF (first four bytes b'<dia')
+custode.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+diavoletto.xml               REFUSED: not RIFF (first four bytes b'<dia')
+dragone.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+eremita.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+frank.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+guardia.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+libro_magia_nera.xml         REFUSED: not RIFF (first four bytes b'<dia')
+morpheus.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere.xml           REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere_forzuto.xml   REFUSED: not RIFF (first four bytes b'<dia')
+mummia.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+non_sapevo_come_chiamarlo.xml REFUSED: not RIFF (first four bytes b'<dia')
+nonnina.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+nonnina_risposta.xml         REFUSED: not RIFF (first four bytes b'<dia')
+orso.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+pinhead.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+quarterback.xml              REFUSED: not RIFF (first four bytes b'<dia')
+robot.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+ronald.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+scelta_pezzo.xml             REFUSED: not RIFF (first four bytes b'<dia')
+scelta_premio.xml            REFUSED: not RIFF (first four bytes b'<dia')
+scienziato.xml               REFUSED: not RIFF (first four bytes b'<dia')
+sfida guardia.xml            REFUSED: not RIFF (first four bytes b'<dia')
+sviluppatori.xml             REFUSED: not RIFF (first four bytes b'<dia')
+tutorial.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+zombie.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+accampamento.xml             REFUSED: not RIFF (first four bytes b'<loc')
+anticamera.xml               REFUSED: not RIFF (first four bytes b'<loc')
+bagno.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+bagno1.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+baracca.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+bonus.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+cabina.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+camera_letto.xml             REFUSED: not RIFF (first four bytes b'<loc')
+cameretta.xml                REFUSED: not RIFF (first four bytes b'<loc')
+cameretta_ronald.xml         REFUSED: not RIFF (first four bytes b'<loc')
+cantiere.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+casa_albero.xml              REFUSED: not RIFF (first four bytes b'<loc')
+catacomba.xml                REFUSED: not RIFF (first four bytes b'<loc')
+cimitero.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+cripta.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+cucina.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+cucina1.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+discarica.xml                REFUSED: not RIFF (first four bytes b'<loc')
+elenco_telefonico.xml        REFUSED: not RIFF (first four bytes b'<loc')
+finestra.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+fogna.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+frigorifero.xml              REFUSED: not RIFF (first four bytes b'<loc')
+giardino.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+grotta.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+ingresso.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+interno_gru.xml              REFUSED: not RIFF (first four bytes b'<loc')
+intro.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+macchina_tempo.xml           REFUSED: not RIFF (first four bytes b'<loc')
+marciapiede.xml              REFUSED: not RIFF (first four bytes b'<loc')
+meteorite.xml                REFUSED: not RIFF (first four bytes b'<loc')
+museo.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+pensile.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+piano_terra.xml              REFUSED: not RIFF (first four bytes b'<loc')
+presa_armadio.xml            REFUSED: not RIFF (first four bytes b'<loc')
+primo_piano.xml              REFUSED: not RIFF (first four bytes b'<loc')
+retro_furgone.xml            REFUSED: not RIFF (first four bytes b'<loc')
+sala_botanica_IIWW.xml       REFUSED: not RIFF (first four bytes b'<loc')
+sala_telecamere.xml          REFUSED: not RIFF (first four bytes b'<loc')
+sala_vikingi_egizi.xml       REFUSED: not RIFF (first four bytes b'<loc')
+salotto.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+scantinato.xml               REFUSED: not RIFF (first four bytes b'<loc')
+sgabuzzino.xml               REFUSED: not RIFF (first four bytes b'<loc')
+spiaggia.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+studio.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+toppa_bagno.xml              REFUSED: not RIFF (first four bytes b'<loc')
+tv.xml                       REFUSED: not RIFF (first four bytes b'<loc')
+vicolo.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+acqua_fogna.xml              REFUSED: not RIFF (first four bytes b'<obj')
+anelli.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+antifurto_fai_da_te.xml      REFUSED: not RIFF (first four bytes b'<obj')
+arpione.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+assenzio.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+assenzio_radioattivo.xml     REFUSED: not RIFF (first four bytes b'<obj')
+bagnoschiuma.xml             REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo funzionante.xml REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo incompleta.xml REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo.xml           REFUSED: not RIFF (first four bytes b'<obj')
+banconote.xml                REFUSED: not RIFF (first four bytes b'<obj')
+bende.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+bibbia.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+bicchiere di birra.xml       REFUSED: not RIFF (first four bytes b'<obj')
+bicchiere vuoto.xml          REFUSED: not RIFF (first four bytes b'<obj')
+boccale_vuoto.xml            REFUSED: not RIFF (first four bytes b'<obj')
+bomba.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+bomba_appiccicosa.xml        REFUSED: not RIFF (first four bytes b'<obj')
+bomba_disinnescata.xml       REFUSED: not RIFF (first four bytes b'<obj')
+bomboletta_spray.xml         REFUSED: not RIFF (first four bytes b'<obj')
+buono.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+capelli.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+capsaicina.xml               REFUSED: not RIFF (first four bytes b'<obj')
+chiavi.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+circuito.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+cravatta.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+dentiera.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+disco_alieno.xml             REFUSED: not RIFF (first four bytes b'<obj')
+fiammiferi.xml               REFUSED: not RIFF (first four bytes b'<obj')
+filo_rame.xml                REFUSED: not RIFF (first four bytes b'<obj')
+forchetta.xml                REFUSED: not RIFF (first four bytes b'<obj')
+foto.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+gomma_gigante.xml            REFUSED: not RIFF (first four bytes b'<obj')
+gomma_presa_rapida.xml       REFUSED: not RIFF (first four bytes b'<obj')
+gomma_solidificata.xml       REFUSED: not RIFF (first four bytes b'<obj')
+gomme_da_masticare.xml       REFUSED: not RIFF (first four bytes b'<obj')
+ingranaggi.xml               REFUSED: not RIFF (first four bytes b'<obj')
+inserto_pubblicitario.xml    REFUSED: not RIFF (first four bytes b'<obj')
+intruglio.xml                REFUSED: not RIFF (first four bytes b'<obj')
+jalapeno.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+kit_imballaggio.xml          REFUSED: not RIFF (first four bytes b'<obj')
+lenza.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+lenzuolo.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+lettera.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+lettera_struccata.xml        REFUSED: not RIFF (first four bytes b'<obj')
+magnete.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+mappa.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+megafono.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+monete_antiche.xml           REFUSED: not RIFF (first four bytes b'<obj')
+musicassetta.xml             REFUSED: not RIFF (first four bytes b'<obj')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+pala.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+papillon.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+pass.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+penny.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+peperoncino.xml              REFUSED: not RIFF (first four bytes b'<obj')
+petardi.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+piede_di_porco.xml           REFUSED: not RIFF (first four bytes b'<obj')
+pigotta.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+pila.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+pillole.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+pirite.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+plutonio.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+polaroid.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+polvere_sparo.xml            REFUSED: not RIFF (first four bytes b'<obj')
+pomello.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+premio.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+registratore.xml             REFUSED: not RIFF (first four bytes b'<obj')
+registrazione_polizia.xml    REFUSED: not RIFF (first four bytes b'<obj')
+residui_plutonio.xml         REFUSED: not RIFF (first four bytes b'<obj')
+semi_mela.xml                REFUSED: not RIFF (first four bytes b'<obj')
+spillo.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+starter_kit_metallaro.xml    REFUSED: not RIFF (first four bytes b'<obj')
+struccante.xml               REFUSED: not RIFF (first four bytes b'<obj')
+sveglia.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+sveglia_funzionante.xml      REFUSED: not RIFF (first four bytes b'<obj')
+targa_antica.xml             REFUSED: not RIFF (first four bytes b'<obj')
+telone.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+torcia.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+torcia_scarica.xml           REFUSED: not RIFF (first four bytes b'<obj')
+trapano.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+trapano_funzionante.xml      REFUSED: not RIFF (first four bytes b'<obj')
+tubo.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+viagra.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+vite.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+call.xml                     REFUSED: not RIFF (first four bytes b'<buf')
+data_viaggio.xml             REFUSED: not RIFF (first four bytes b'<buf')
+accensione_catacomba.xml     REFUSED: not RIFF (first four bytes b'<scr')
+boogeyman.xml                REFUSED: not RIFF (first four bytes b'<scr')
+fuga_traslocatori.xml        REFUSED: not RIFF (first four bytes b'<scr')
+intro.xml                    REFUSED: not RIFF (first four bytes b'<int')
+matrimonio.xml               REFUSED: not RIFF (first four bytes b'<scr')
+outro3.xml                   REFUSED: not RIFF (first four bytes b'<int')
+outro4.xml                   REFUSED: not RIFF (first four bytes b'<int')
+lettera.xml                  REFUSED: not RIFF (first four bytes b'<doc')
+lettera_struccata.xml        REFUSED: not RIFF (first four bytes b'<doc')
+clear_bedroom.xml            REFUSED: not RIFF (first four bytes b'<scr')
+painter_back.xml             REFUSED: not RIFF (first four bytes b'<scr')
+default.xml                  REFUSED: not RIFF (first four bytes b'<def')
+Z8.xml                       REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_botanica_IIWW.xml REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_vikingi_egizi.xml REFUSED: not RIFF (first four bytes b'<dia')
+barista.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+cieco.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+coccodrillo.xml              REFUSED: not RIFF (first four bytes b'<dia')
+custode.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+diavoletto.xml               REFUSED: not RIFF (first four bytes b'<dia')
+dragone.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+eremita.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+frank.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+guardia.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+libro_magia_nera.xml         REFUSED: not RIFF (first four bytes b'<dia')
+morpheus.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere.xml           REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere_forzuto.xml   REFUSED: not RIFF (first four bytes b'<dia')
+mummia.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+non_sapevo_come_chiamarlo.xml REFUSED: not RIFF (first four bytes b'<dia')
+nonnina.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+nonnina_risposta.xml         REFUSED: not RIFF (first four bytes b'<dia')
+orso.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+pinhead.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+quarterback.xml              REFUSED: not RIFF (first four bytes b'<dia')
+robot.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+ronald.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+scelta_pezzo.xml             REFUSED: not RIFF (first four bytes b'<dia')
+scelta_premio.xml            REFUSED: not RIFF (first four bytes b'<dia')
+scienziato.xml               REFUSED: not RIFF (first four bytes b'<dia')
+sfida guardia.xml            REFUSED: not RIFF (first four bytes b'<dia')
+sviluppatori.xml             REFUSED: not RIFF (first four bytes b'<dia')
+tutorial.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+zombie.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+accampamento.xml             REFUSED: not RIFF (first four bytes b'<loc')
+anticamera.xml               REFUSED: not RIFF (first four bytes b'<loc')
+bagno.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+bagno1.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+baracca.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+bonus.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+cabina.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+camera_letto.xml             REFUSED: not RIFF (first four bytes b'<loc')
+cameretta.xml                REFUSED: not RIFF (first four bytes b'<loc')
+cameretta_ronald.xml         REFUSED: not RIFF (first four bytes b'<loc')
+cantiere.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+casa_albero.xml              REFUSED: not RIFF (first four bytes b'<loc')
+catacomba.xml                REFUSED: not RIFF (first four bytes b'<loc')
+cimitero.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+cripta.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+cucina.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+cucina1.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+discarica.xml                REFUSED: not RIFF (first four bytes b'<loc')
+elenco_telefonico.xml        REFUSED: not RIFF (first four bytes b'<loc')
+finestra.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+fogna.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+frigorifero.xml              REFUSED: not RIFF (first four bytes b'<loc')
+giardino.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+grotta.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+ingresso.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+interno_gru.xml              REFUSED: not RIFF (first four bytes b'<loc')
+intro.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+macchina_tempo.xml           REFUSED: not RIFF (first four bytes b'<loc')
+marciapiede.xml              REFUSED: not RIFF (first four bytes b'<loc')
+meteorite.xml                REFUSED: not RIFF (first four bytes b'<loc')
+museo.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+pensile.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+piano_terra.xml              REFUSED: not RIFF (first four bytes b'<loc')
+presa_armadio.xml            REFUSED: not RIFF (first four bytes b'<loc')
+primo_piano.xml              REFUSED: not RIFF (first four bytes b'<loc')
+retro_furgone.xml            REFUSED: not RIFF (first four bytes b'<loc')
+sala_botanica_IIWW.xml       REFUSED: not RIFF (first four bytes b'<loc')
+sala_telecamere.xml          REFUSED: not RIFF (first four bytes b'<loc')
+sala_vikingi_egizi.xml       REFUSED: not RIFF (first four bytes b'<loc')
+salotto.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+scantinato.xml               REFUSED: not RIFF (first four bytes b'<loc')
+sgabuzzino.xml               REFUSED: not RIFF (first four bytes b'<loc')
+spiaggia.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+studio.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+toppa_bagno.xml              REFUSED: not RIFF (first four bytes b'<loc')
+tv.xml                       REFUSED: not RIFF (first four bytes b'<loc')
+vicolo.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+acqua_fogna.xml              REFUSED: not RIFF (first four bytes b'<obj')
+anelli.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+antifurto_fai_da_te.xml      REFUSED: not RIFF (first four bytes b'<obj')
+arpione.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+assenzio.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+assenzio_radioattivo.xml     REFUSED: not RIFF (first four bytes b'<obj')
+bagnoschiuma.xml             REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo funzionante.xml REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo incompleta.xml REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo.xml           REFUSED: not RIFF (first four bytes b'<obj')
+banconote.xml                REFUSED: not RIFF (first four bytes b'<obj')
+bende.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+bibbia.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+bicchiere di birra.xml       REFUSED: not RIFF (first four bytes b'<obj')
+bicchiere vuoto.xml          REFUSED: not RIFF (first four bytes b'<obj')
+boccale_vuoto.xml            REFUSED: not RIFF (first four bytes b'<obj')
+bomba.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+bomba_appiccicosa.xml        REFUSED: not RIFF (first four bytes b'<obj')
+bomba_disinnescata.xml       REFUSED: not RIFF (first four bytes b'<obj')
+bomboletta_spray.xml         REFUSED: not RIFF (first four bytes b'<obj')
+buono.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+capelli.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+capsaicina.xml               REFUSED: not RIFF (first four bytes b'<obj')
+chiavi.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+circuito.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+cravatta.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+dentiera.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+disco_alieno.xml             REFUSED: not RIFF (first four bytes b'<obj')
+fiammiferi.xml               REFUSED: not RIFF (first four bytes b'<obj')
+filo_rame.xml                REFUSED: not RIFF (first four bytes b'<obj')
+forchetta.xml                REFUSED: not RIFF (first four bytes b'<obj')
+foto.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+gomma_gigante.xml            REFUSED: not RIFF (first four bytes b'<obj')
+gomma_presa_rapida.xml       REFUSED: not RIFF (first four bytes b'<obj')
+gomma_solidificata.xml       REFUSED: not RIFF (first four bytes b'<obj')
+gomme_da_masticare.xml       REFUSED: not RIFF (first four bytes b'<obj')
+ingranaggi.xml               REFUSED: not RIFF (first four bytes b'<obj')
+inserto_pubblicitario.xml    REFUSED: not RIFF (first four bytes b'<obj')
+intruglio.xml                REFUSED: not RIFF (first four bytes b'<obj')
+jalapeno.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+kit_imballaggio.xml          REFUSED: not RIFF (first four bytes b'<obj')
+lenza.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+lenzuolo.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+lettera.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+lettera_struccata.xml        REFUSED: not RIFF (first four bytes b'<obj')
+magnete.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+mappa.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+megafono.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+monete_antiche.xml           REFUSED: not RIFF (first four bytes b'<obj')
+musicassetta.xml             REFUSED: not RIFF (first four bytes b'<obj')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+pala.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+papillon.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+pass.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+penny.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+peperoncino.xml              REFUSED: not RIFF (first four bytes b'<obj')
+petardi.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+piede_di_porco.xml           REFUSED: not RIFF (first four bytes b'<obj')
+pigotta.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+pila.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+pillole.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+pirite.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+plutonio.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+polaroid.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+polvere_sparo.xml            REFUSED: not RIFF (first four bytes b'<obj')
+pomello.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+premio.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+registratore.xml             REFUSED: not RIFF (first four bytes b'<obj')
+registrazione_polizia.xml    REFUSED: not RIFF (first four bytes b'<obj')
+residui_plutonio.xml         REFUSED: not RIFF (first four bytes b'<obj')
+semi_mela.xml                REFUSED: not RIFF (first four bytes b'<obj')
+spillo.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+starter_kit_metallaro.xml    REFUSED: not RIFF (first four bytes b'<obj')
+struccante.xml               REFUSED: not RIFF (first four bytes b'<obj')
+sveglia.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+sveglia_funzionante.xml      REFUSED: not RIFF (first four bytes b'<obj')
+targa_antica.xml             REFUSED: not RIFF (first four bytes b'<obj')
+telone.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+torcia.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+torcia_scarica.xml           REFUSED: not RIFF (first four bytes b'<obj')
+trapano.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+trapano_funzionante.xml      REFUSED: not RIFF (first four bytes b'<obj')
+tubo.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+viagra.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+vite.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+call.xml                     REFUSED: not RIFF (first four bytes b'<buf')
+data_viaggio.xml             REFUSED: not RIFF (first four bytes b'<buf')
+accensione_catacomba.xml     REFUSED: not RIFF (first four bytes b'<scr')
+boogeyman.xml                REFUSED: not RIFF (first four bytes b'<scr')
+fuga_traslocatori.xml        REFUSED: not RIFF (first four bytes b'<scr')
+intro.xml                    REFUSED: not RIFF (first four bytes b'<int')
+matrimonio.xml               REFUSED: not RIFF (first four bytes b'<scr')
+outro3.xml                   REFUSED: not RIFF (first four bytes b'<int')
+outro4.xml                   REFUSED: not RIFF (first four bytes b'<int')
+lettera.xml                  REFUSED: not RIFF (first four bytes b'<doc')
+lettera_struccata.xml        REFUSED: not RIFF (first four bytes b'<doc')
+clear_bedroom.xml            REFUSED: not RIFF (first four bytes b'<scr')
+painter_back.xml             REFUSED: not RIFF (first four bytes b'<scr')
+default.xml                  REFUSED: not RIFF (first four bytes b'<def')
+Z8.xml                       REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_botanica_IIWW.xml REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_vikingi_egizi.xml REFUSED: not RIFF (first four bytes b'<dia')
+barista.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+cieco.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+coccodrillo.xml              REFUSED: not RIFF (first four bytes b'<dia')
+custode.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+diavoletto.xml               REFUSED: not RIFF (first four bytes b'<dia')
+dragone.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+eremita.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+frank.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+guardia.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+libro_magia_nera.xml         REFUSED: not RIFF (first four bytes b'<dia')
+morpheus.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere.xml           REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere_forzuto.xml   REFUSED: not RIFF (first four bytes b'<dia')
+mummia.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+non_sapevo_come_chiamarlo.xml REFUSED: not RIFF (first four bytes b'<dia')
+nonnina.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+nonnina_risposta.xml         REFUSED: not RIFF (first four bytes b'<dia')
+orso.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+pinhead.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+quarterback.xml              REFUSED: not RIFF (first four bytes b'<dia')
+robot.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+ronald.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+scelta_pezzo.xml             REFUSED: not RIFF (first four bytes b'<dia')
+scelta_premio.xml            REFUSED: not RIFF (first four bytes b'<dia')
+scienziato.xml               REFUSED: not RIFF (first four bytes b'<dia')
+sfida guardia.xml            REFUSED: not RIFF (first four bytes b'<dia')
+sviluppatori.xml             REFUSED: not RIFF (first four bytes b'<dia')
+tutorial.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+zombie.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+accampamento.xml             REFUSED: not RIFF (first four bytes b'<loc')
+anticamera.xml               REFUSED: not RIFF (first four bytes b'<loc')
+bagno.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+bagno1.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+baracca.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+bonus.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+cabina.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+camera_letto.xml             REFUSED: not RIFF (first four bytes b'<loc')
+cameretta.xml                REFUSED: not RIFF (first four bytes b'<loc')
+cameretta_ronald.xml         REFUSED: not RIFF (first four bytes b'<loc')
+cantiere.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+casa_albero.xml              REFUSED: not RIFF (first four bytes b'<loc')
+catacomba.xml                REFUSED: not RIFF (first four bytes b'<loc')
+cimitero.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+cripta.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+cucina.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+cucina1.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+discarica.xml                REFUSED: not RIFF (first four bytes b'<loc')
+elenco_telefonico.xml        REFUSED: not RIFF (first four bytes b'<loc')
+finestra.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+fogna.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+frigorifero.xml              REFUSED: not RIFF (first four bytes b'<loc')
+giardino.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+grotta.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+ingresso.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+interno_gru.xml              REFUSED: not RIFF (first four bytes b'<loc')
+intro.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+macchina_tempo.xml           REFUSED: not RIFF (first four bytes b'<loc')
+marciapiede.xml              REFUSED: not RIFF (first four bytes b'<loc')
+meteorite.xml                REFUSED: not RIFF (first four bytes b'<loc')
+museo.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+pensile.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+piano_terra.xml              REFUSED: not RIFF (first four bytes b'<loc')
+presa_armadio.xml            REFUSED: not RIFF (first four bytes b'<loc')
+primo_piano.xml              REFUSED: not RIFF (first four bytes b'<loc')
+retro_furgone.xml            REFUSED: not RIFF (first four bytes b'<loc')
+sala_botanica_IIWW.xml       REFUSED: not RIFF (first four bytes b'<loc')
+sala_telecamere.xml          REFUSED: not RIFF (first four bytes b'<loc')
+sala_vikingi_egizi.xml       REFUSED: not RIFF (first four bytes b'<loc')
+salotto.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+scantinato.xml               REFUSED: not RIFF (first four bytes b'<loc')
+sgabuzzino.xml               REFUSED: not RIFF (first four bytes b'<loc')
+spiaggia.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+studio.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+toppa_bagno.xml              REFUSED: not RIFF (first four bytes b'<loc')
+tv.xml                       REFUSED: not RIFF (first four bytes b'<loc')
+vicolo.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+acqua_fogna.xml              REFUSED: not RIFF (first four bytes b'<obj')
+anelli.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+antifurto_fai_da_te.xml      REFUSED: not RIFF (first four bytes b'<obj')
+arpione.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+assenzio.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+assenzio_radioattivo.xml     REFUSED: not RIFF (first four bytes b'<obj')
+bagnoschiuma.xml             REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo funzionante.xml REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo incompleta.xml REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo.xml           REFUSED: not RIFF (first four bytes b'<obj')
+banconote.xml                REFUSED: not RIFF (first four bytes b'<obj')
+bende.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+bibbia.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+bicchiere di birra.xml       REFUSED: not RIFF (first four bytes b'<obj')
+bicchiere vuoto.xml          REFUSED: not RIFF (first four bytes b'<obj')
+boccale_vuoto.xml            REFUSED: not RIFF (first four bytes b'<obj')
+bomba.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+bomba_appiccicosa.xml        REFUSED: not RIFF (first four bytes b'<obj')
+bomba_disinnescata.xml       REFUSED: not RIFF (first four bytes b'<obj')
+bomboletta_spray.xml         REFUSED: not RIFF (first four bytes b'<obj')
+buono.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+capelli.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+capsaicina.xml               REFUSED: not RIFF (first four bytes b'<obj')
+chiavi.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+circuito.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+cravatta.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+dentiera.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+disco_alieno.xml             REFUSED: not RIFF (first four bytes b'<obj')
+fiammiferi.xml               REFUSED: not RIFF (first four bytes b'<obj')
+filo_rame.xml                REFUSED: not RIFF (first four bytes b'<obj')
+forchetta.xml                REFUSED: not RIFF (first four bytes b'<obj')
+foto.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+gomma_gigante.xml            REFUSED: not RIFF (first four bytes b'<obj')
+gomma_presa_rapida.xml       REFUSED: not RIFF (first four bytes b'<obj')
+gomma_solidificata.xml       REFUSED: not RIFF (first four bytes b'<obj')
+gomme_da_masticare.xml       REFUSED: not RIFF (first four bytes b'<obj')
+ingranaggi.xml               REFUSED: not RIFF (first four bytes b'<obj')
+inserto_pubblicitario.xml    REFUSED: not RIFF (first four bytes b'<obj')
+intruglio.xml                REFUSED: not RIFF (first four bytes b'<obj')
+jalapeno.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+kit_imballaggio.xml          REFUSED: not RIFF (first four bytes b'<obj')
+lenza.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+lenzuolo.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+lettera.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+lettera_struccata.xml        REFUSED: not RIFF (first four bytes b'<obj')
+magnete.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+mappa.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+megafono.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+monete_antiche.xml           REFUSED: not RIFF (first four bytes b'<obj')
+musicassetta.xml             REFUSED: not RIFF (first four bytes b'<obj')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+pala.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+papillon.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+pass.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+penny.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+peperoncino.xml              REFUSED: not RIFF (first four bytes b'<obj')
+petardi.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+piede_di_porco.xml           REFUSED: not RIFF (first four bytes b'<obj')
+pigotta.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+pila.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+pillole.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+pirite.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+plutonio.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+polaroid.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+polvere_sparo.xml            REFUSED: not RIFF (first four bytes b'<obj')
+pomello.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+premio.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+registratore.xml             REFUSED: not RIFF (first four bytes b'<obj')
+registrazione_polizia.xml    REFUSED: not RIFF (first four bytes b'<obj')
+residui_plutonio.xml         REFUSED: not RIFF (first four bytes b'<obj')
+semi_mela.xml                REFUSED: not RIFF (first four bytes b'<obj')
+spillo.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+starter_kit_metallaro.xml    REFUSED: not RIFF (first four bytes b'<obj')
+struccante.xml               REFUSED: not RIFF (first four bytes b'<obj')
+sveglia.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+sveglia_funzionante.xml      REFUSED: not RIFF (first four bytes b'<obj')
+targa_antica.xml             REFUSED: not RIFF (first four bytes b'<obj')
+telone.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+torcia.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+torcia_scarica.xml           REFUSED: not RIFF (first four bytes b'<obj')
+trapano.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+trapano_funzionante.xml      REFUSED: not RIFF (first four bytes b'<obj')
+tubo.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+viagra.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+vite.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+call.xml                     REFUSED: not RIFF (first four bytes b'<buf')
+data_viaggio.xml             REFUSED: not RIFF (first four bytes b'<buf')
+accensione_catacomba.xml     REFUSED: not RIFF (first four bytes b'<scr')
+boogeyman.xml                REFUSED: not RIFF (first four bytes b'<scr')
+fuga_traslocatori.xml        REFUSED: not RIFF (first four bytes b'<scr')
+intro.xml                    REFUSED: not RIFF (first four bytes b'<int')
+matrimonio.xml               REFUSED: not RIFF (first four bytes b'<scr')
+outro3.xml                   REFUSED: not RIFF (first four bytes b'<int')
+outro4.xml                   REFUSED: not RIFF (first four bytes b'<int')
+lettera.xml                  REFUSED: not RIFF (first four bytes b'<doc')
+lettera_struccata.xml        REFUSED: not RIFF (first four bytes b'<doc')
+clear_bedroom.xml            REFUSED: not RIFF (first four bytes b'<scr')
+painter_back.xml             REFUSED: not RIFF (first four bytes b'<scr')
+default.xml                  REFUSED: not RIFF (first four bytes b'<def')
+Z8.xml                       REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_botanica_IIWW.xml REFUSED: not RIFF (first four bytes b'<dia')
+audioguida_vikingi_egizi.xml REFUSED: not RIFF (first four bytes b'<dia')
+barista.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+cieco.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+coccodrillo.xml              REFUSED: not RIFF (first four bytes b'<dia')
+custode.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+diavoletto.xml               REFUSED: not RIFF (first four bytes b'<dia')
+dragone.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+eremita.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+frank.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+guardia.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+libro_magia_nera.xml         REFUSED: not RIFF (first four bytes b'<dia')
+morpheus.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere.xml           REFUSED: not RIFF (first four bytes b'<dia')
+mostro_polvere_forzuto.xml   REFUSED: not RIFF (first four bytes b'<dia')
+mummia.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+non_sapevo_come_chiamarlo.xml REFUSED: not RIFF (first four bytes b'<dia')
+nonnina.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+nonnina_risposta.xml         REFUSED: not RIFF (first four bytes b'<dia')
+orso.xml                     REFUSED: not RIFF (first four bytes b'<dia')
+pinhead.xml                  REFUSED: not RIFF (first four bytes b'<dia')
+quarterback.xml              REFUSED: not RIFF (first four bytes b'<dia')
+robot.xml                    REFUSED: not RIFF (first four bytes b'<dia')
+ronald.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+scelta_pezzo.xml             REFUSED: not RIFF (first four bytes b'<dia')
+scelta_premio.xml            REFUSED: not RIFF (first four bytes b'<dia')
+scienziato.xml               REFUSED: not RIFF (first four bytes b'<dia')
+sfida guardia.xml            REFUSED: not RIFF (first four bytes b'<dia')
+sviluppatori.xml             REFUSED: not RIFF (first four bytes b'<dia')
+tutorial.xml                 REFUSED: not RIFF (first four bytes b'<dia')
+zombie.xml                   REFUSED: not RIFF (first four bytes b'<dia')
+accampamento.xml             REFUSED: not RIFF (first four bytes b'<loc')
+anticamera.xml               REFUSED: not RIFF (first four bytes b'<loc')
+bagno.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+bagno1.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+baracca.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+bonus.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+cabina.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+camera_letto.xml             REFUSED: not RIFF (first four bytes b'<loc')
+cameretta.xml                REFUSED: not RIFF (first four bytes b'<loc')
+cameretta_ronald.xml         REFUSED: not RIFF (first four bytes b'<loc')
+cantiere.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+casa_albero.xml              REFUSED: not RIFF (first four bytes b'<loc')
+catacomba.xml                REFUSED: not RIFF (first four bytes b'<loc')
+cimitero.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+cripta.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+cucina.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+cucina1.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+discarica.xml                REFUSED: not RIFF (first four bytes b'<loc')
+elenco_telefonico.xml        REFUSED: not RIFF (first four bytes b'<loc')
+finestra.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+fogna.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+frigorifero.xml              REFUSED: not RIFF (first four bytes b'<loc')
+giardino.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+grotta.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+ingresso.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+interno_gru.xml              REFUSED: not RIFF (first four bytes b'<loc')
+intro.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+macchina_tempo.xml           REFUSED: not RIFF (first four bytes b'<loc')
+marciapiede.xml              REFUSED: not RIFF (first four bytes b'<loc')
+meteorite.xml                REFUSED: not RIFF (first four bytes b'<loc')
+museo.xml                    REFUSED: not RIFF (first four bytes b'<loc')
+pensile.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+piano_terra.xml              REFUSED: not RIFF (first four bytes b'<loc')
+presa_armadio.xml            REFUSED: not RIFF (first four bytes b'<loc')
+primo_piano.xml              REFUSED: not RIFF (first four bytes b'<loc')
+retro_furgone.xml            REFUSED: not RIFF (first four bytes b'<loc')
+sala_botanica_IIWW.xml       REFUSED: not RIFF (first four bytes b'<loc')
+sala_telecamere.xml          REFUSED: not RIFF (first four bytes b'<loc')
+sala_vikingi_egizi.xml       REFUSED: not RIFF (first four bytes b'<loc')
+salotto.xml                  REFUSED: not RIFF (first four bytes b'<loc')
+scantinato.xml               REFUSED: not RIFF (first four bytes b'<loc')
+sgabuzzino.xml               REFUSED: not RIFF (first four bytes b'<loc')
+spiaggia.xml                 REFUSED: not RIFF (first four bytes b'<loc')
+studio.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+toppa_bagno.xml              REFUSED: not RIFF (first four bytes b'<loc')
+tv.xml                       REFUSED: not RIFF (first four bytes b'<loc')
+vicolo.xml                   REFUSED: not RIFF (first four bytes b'<loc')
+acqua_fogna.xml              REFUSED: not RIFF (first four bytes b'<obj')
+anelli.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+antifurto_fai_da_te.xml      REFUSED: not RIFF (first four bytes b'<obj')
+arpione.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+assenzio.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+assenzio_radioattivo.xml     REFUSED: not RIFF (first four bytes b'<obj')
+bagnoschiuma.xml             REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo funzionante.xml REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo incompleta.xml REFUSED: not RIFF (first four bytes b'<obj')
+bambola voodoo.xml           REFUSED: not RIFF (first four bytes b'<obj')
+banconote.xml                REFUSED: not RIFF (first four bytes b'<obj')
+bende.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+bibbia.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+bicchiere di birra.xml       REFUSED: not RIFF (first four bytes b'<obj')
+bicchiere vuoto.xml          REFUSED: not RIFF (first four bytes b'<obj')
+boccale_vuoto.xml            REFUSED: not RIFF (first four bytes b'<obj')
+bomba.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+bomba_appiccicosa.xml        REFUSED: not RIFF (first four bytes b'<obj')
+bomba_disinnescata.xml       REFUSED: not RIFF (first four bytes b'<obj')
+bomboletta_spray.xml         REFUSED: not RIFF (first four bytes b'<obj')
+buono.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+capelli.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+capsaicina.xml               REFUSED: not RIFF (first four bytes b'<obj')
+chiavi.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+circuito.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+cravatta.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+dentiera.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+disco_alieno.xml             REFUSED: not RIFF (first four bytes b'<obj')
+fiammiferi.xml               REFUSED: not RIFF (first four bytes b'<obj')
+filo_rame.xml                REFUSED: not RIFF (first four bytes b'<obj')
+forchetta.xml                REFUSED: not RIFF (first four bytes b'<obj')
+foto.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+gomma_gigante.xml            REFUSED: not RIFF (first four bytes b'<obj')
+gomma_presa_rapida.xml       REFUSED: not RIFF (first four bytes b'<obj')
+gomma_solidificata.xml       REFUSED: not RIFF (first four bytes b'<obj')
+gomme_da_masticare.xml       REFUSED: not RIFF (first four bytes b'<obj')
+ingranaggi.xml               REFUSED: not RIFF (first four bytes b'<obj')
+inserto_pubblicitario.xml    REFUSED: not RIFF (first four bytes b'<obj')
+intruglio.xml                REFUSED: not RIFF (first four bytes b'<obj')
+jalapeno.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+kit_imballaggio.xml          REFUSED: not RIFF (first four bytes b'<obj')
+lenza.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+lenzuolo.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+lettera.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+lettera_struccata.xml        REFUSED: not RIFF (first four bytes b'<obj')
+magnete.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+mappa.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+megafono.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+monete_antiche.xml           REFUSED: not RIFF (first four bytes b'<obj')
+musicassetta.xml             REFUSED: not RIFF (first four bytes b'<obj')
+noce.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+pala.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+papillon.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+pass.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+penny.xml                    REFUSED: not RIFF (first four bytes b'<obj')
+peperoncino.xml              REFUSED: not RIFF (first four bytes b'<obj')
+petardi.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+piede_di_porco.xml           REFUSED: not RIFF (first four bytes b'<obj')
+pigotta.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+pila.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+pillole.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+pirite.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+plutonio.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+polaroid.xml                 REFUSED: not RIFF (first four bytes b'<obj')
+polvere_sparo.xml            REFUSED: not RIFF (first four bytes b'<obj')
+pomello.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+premio.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+registratore.xml             REFUSED: not RIFF (first four bytes b'<obj')
+registrazione_polizia.xml    REFUSED: not RIFF (first four bytes b'<obj')
+residui_plutonio.xml         REFUSED: not RIFF (first four bytes b'<obj')
+semi_mela.xml                REFUSED: not RIFF (first four bytes b'<obj')
+spillo.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+starter_kit_metallaro.xml    REFUSED: not RIFF (first four bytes b'<obj')
+struccante.xml               REFUSED: not RIFF (first four bytes b'<obj')
+sveglia.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+sveglia_funzionante.xml      REFUSED: not RIFF (first four bytes b'<obj')
+targa_antica.xml             REFUSED: not RIFF (first four bytes b'<obj')
+telone.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+torcia.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+torcia_scarica.xml           REFUSED: not RIFF (first four bytes b'<obj')
+trapano.xml                  REFUSED: not RIFF (first four bytes b'<obj')
+trapano_funzionante.xml      REFUSED: not RIFF (first four bytes b'<obj')
+tubo.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+viagra.xml                   REFUSED: not RIFF (first four bytes b'<obj')
+vite.xml                     REFUSED: not RIFF (first four bytes b'<obj')
+call.xml                     REFUSED: not RIFF (first four bytes b'<buf')
+data_viaggio.xml             REFUSED: not RIFF (first four bytes b'<buf')
+accensione_catacomba.xml     REFUSED: not RIFF (first four bytes b'<scr')
+boogeyman.xml                REFUSED: not RIFF (first four bytes b'<scr')
+fuga_traslocatori.xml        REFUSED: not RIFF (first four bytes b'<scr')
+intro.xml                    REFUSED: not RIFF (first four bytes b'<int')
+matrimonio.xml               REFUSED: not RIFF (first four bytes b'<scr')
+outro3.xml                   REFUSED: not RIFF (first four bytes b'<int')
+outro4.xml                   REFUSED: not RIFF (first four bytes b'<int')
+lettera.xml                  REFUSED: not RIFF (first four bytes b'<doc')
+lettera_struccata.xml        REFUSED: not RIFF (first four bytes b'<doc')
+clear_bedroom.xml            REFUSED: not RIFF (first four bytes b'<scr')
+painter_back.xml             REFUSED: not RIFF (first four bytes b'<scr')
+1725 files, 1243 did not close with residue 0

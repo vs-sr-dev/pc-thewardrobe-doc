@@ -1,0 +1,19 @@
+$ python tools/unityfs.py info "TheWardrobe/The Wardrobe_Data/Resources/unity default resources"
+
+TheWardrobe/The Wardrobe_Data/Resources/unity default resources
+
+format version     22
+unity version      6000.3.0b4
+target platform    5
+endianness         little
+type tree          absent
+metadata size      2625, after a 48-byte header = 2673; parsed to 2673   agrees
+data offset        2688
+file size declared 5883780
+file size actual   5883780   agrees
+types              8
+objects            99
+script types       1
+externals          0
+reference types    0
+user information   ''

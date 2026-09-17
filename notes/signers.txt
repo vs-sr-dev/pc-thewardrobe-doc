@@ -1,0 +1,11 @@
+$ python _work/signers.py TheWardrobe   (authenticode.py over the 90 signed files of pecensus.txt)
+
+90 signed files; signer subject O by count:
+  Unity Technologies SF                     86
+  Microsoft Corporation                      3
+  Thawte                                     1
+
+  Microsoft Corporation                    D3D12/D3D12Core.dll
+  Microsoft Corporation                    The Wardrobe_Data/Managed/System.IO.Hashing.dll
+  Microsoft Corporation                    The Wardrobe_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll
+  Thawte                                   The Wardrobe_Data/Plugins/x86_64/steam_api64.dll

@@ -1,0 +1,70 @@
+$ python _work/generations.py TheWardrobe
+
+2020 files under TheWardrobe
+
+mtime days: 2024-09-28 x1178, 2026-06-05 x842
+the 2024 generation runs 2024-09-28 12:05:30.909403 .. 2024-09-28 12:07:52.885603 (local clock of the copy)
+the 2026 generation runs 2026-06-05 17:02:28.720548 .. 2026-06-05 17:03:34.647526 = 65 s
+
+2024: 1178 files, 9813528 bytes
+   .xml        1172        4877091
+   .dll           4        4622848
+   .ini           1         311984
+   .browser       1           1605
+   by top folder: The Wardrobe_Data 1175, MonoBleedingEdge 3
+2026: 842 files, 3484466741 bytes
+   .bank        482      457534468
+   .dll         155       91168056
+   (none)        54        9179747
+   .assets       52      234605100
+   .xml          36         569766
+   .mp4          33      222398304
+   .config        7         146119
+   .ress          5     2466018272
+   .aspx          3         181725
+   .map           3           7866
+   .png           3         176738
+   .exe           2        2276784
+   .browser       2           3210
+   .txt           2         193763
+   .json          2           6799
+   .info          1             24
+   by top folder: The Wardrobe_Data 820, MonoBleedingEdge 17, (root) 3, D3D12 1, The Wardrobe_BurstDebugInformation_DoNotShip 1
+
+36 XML files carry the 2026 clock (the update rewrote them):
+   deu/dialogs/tutorial.xml
+   deu/locations/bagno.xml
+   deu/locations/bagno1.xml
+   deu/locations/discarica.xml
+   deu/locations/interno_gru.xml
+   deu/objects/magnete.xml
+   eng/dialogs/tutorial.xml
+   eng/locations/bagno.xml
+   eng/locations/bagno1.xml
+   eng/locations/discarica.xml
+   eng/locations/interno_gru.xml
+   eng/objects/magnete.xml
+   fra/dialogs/tutorial.xml
+   fra/locations/bagno.xml
+   fra/locations/bagno1.xml
+   fra/locations/discarica.xml
+   fra/locations/interno_gru.xml
+   fra/objects/magnete.xml
+   ita/dialogs/tutorial.xml
+   ita/locations/bagno.xml
+   ita/locations/bagno1.xml
+   ita/locations/discarica.xml
+   ita/locations/interno_gru.xml
+   ita/objects/magnete.xml
+   rus/dialogs/tutorial.xml
+   rus/locations/bagno.xml
+   rus/locations/bagno1.xml
+   rus/locations/discarica.xml
+   rus/locations/interno_gru.xml
+   rus/objects/magnete.xml
+   spa/dialogs/tutorial.xml
+   spa/locations/bagno.xml
+   spa/locations/bagno1.xml
+   spa/locations/discarica.xml
+   spa/locations/interno_gru.xml
+   spa/objects/magnete.xml

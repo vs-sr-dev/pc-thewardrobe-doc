@@ -1,0 +1,29 @@
+$ python tools/mp4box.py census "TheWardrobe/The Wardrobe_Data/StreamingAssets/Movies"
+
+files whose first box is `ftyp`  : 33
+box trees that close at residue 0: 33 of 33
+bytes over the parsed files      : 222398304
+
+  major brands       : {'isom': 33}
+  top-level boxes    : {'ftyp': 33, 'free': 33, 'mdat': 33, 'moov': 33}
+  sample rates       : {48000: 2, None: 31}   (from the AudioSpecificConfig)
+  channel counts     : {2: 2, None: 31}   (from the AudioSpecificConfig)
+  audioObjectType    : {2: 2}   (2 is AAC Low Complexity)
+  frame length, units: {1000: 1, 1001: 1, 1500: 31}
+  files with an edit list : 33 of 33
+  files with no decoder configuration at all : 31
+
+  THE ADVISORY FIELDS, AND HOW OFTEN THEY LIE:
+    the mp4a box's channelcount disagrees with the decoder configuration on 0 of 2
+    the mp4a box's samplerate   disagrees with it on 0 of 2
+    ISO/IEC 14496-14 makes the decoder configuration authoritative,
+    so the two rows above are the census and the box is not.
+
+  total duration, mvhd : 444.639 s
+  total duration, stts : 444.622 s
+  the two agree per file on : 17 of 33
+  access units, summed : 26331
+
+  mvhd is the container's claim and stts is what the sample table
+  adds up to. They are printed apart because a reader that prefers
+  one of them throws away the evidence that they differ.

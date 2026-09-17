@@ -1,0 +1,6 @@
+$ python tools/unitymovie.py census "TheWardrobe/The Wardrobe_Data"
+
+NAME                             BYTES  PAGES  CRC VIDEO       FPS AUDIO       V SEC   A SEC TILE 
+
+0 movies, 0 bytes of Ogg, 0 pages; 0 close on body and pages
+video 0.0 s (0.00 min), audio 0.0 s (0.00 min)

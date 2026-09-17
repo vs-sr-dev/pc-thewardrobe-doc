@@ -1,0 +1,20 @@
+$ python _work/texfields.py "TheWardrobe/The Wardrobe_Data"
+
+i32 after m_Name (m_ForcedFallbackFormat): value -> count
+     0 (?) x1052
+     1 (Alpha8) x109
+(value, texture format) pairs:
+  fallback 0 (?) on format 1 (Alpha8): 49
+  fallback 0 (?) on format 2 (ARGB4444): 32
+  fallback 0 (?) on format 4 (RGBA32): 236
+  fallback 0 (?) on format 12 (DXT5): 735
+  fallback 1 (Alpha8) on format 3 (RGB24): 18
+  fallback 1 (Alpha8) on format 10 (DXT1): 91
+
+gaps between records, per sidecar (size -> count):
+  globalgamemanagers.assets.resS   records   48  gaps {}  tail 0  (file 5716192, reached 5716192)
+  resources.assets.resS            records  892  gaps {12: 9, 4: 8, 13: 1, 8: 6}  tail 0  (file 2432582144, reached 2432582144)
+  sharedassets0.assets.resS        records    1  gaps {}  tail 12  (file 5472, reached 5460)
+  sharedassets1.assets.resS        records    4  gaps {8: 1}  tail 0  (file 2397456, reached 2397456)
+  sharedassets2.assets.resS        records   15  gaps {}  tail 8  (file 25317008, reached 25317000)
+total bytes not covered by a record: 229

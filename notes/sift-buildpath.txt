@@ -1,0 +1,20 @@
+$ python tools/sift.py TheWardrobe --group buildpath
+
+root                : TheWardrobe
+blobs searched      : 2020   (2020 of 2020 -- nothing was filtered out)
+bytes searched      : 3494280269
+chance rate in this haystack, per needle width:
+    2 bytes    53318.485550 expected occurrences
+    4 bytes        0.813576 expected occurrences
+    6 bytes        0.000012 expected occurrences
+    8 bytes        0.000000 expected occurrences
+
+pattern                                hits    blobs
+------------------------------------------------------
+drive-letter path                      1045       29
+unix build path                           4        4
+CONTROL must-hit '!This pr' (derived from the population)      161      160
+CONTROL must-miss 'zzqxjvwk'              0        0
+------------------------------------------------------
+positive control fired : YES (161 hits)
+negative control quiet : YES

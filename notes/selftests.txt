@@ -1,0 +1,18 @@
+selftests run with PYTHONIOENCODING unset, from the repository root
+
+coverage.py        rc 0  253 checks, 0 failures
+unityfs.py         rc 0  14 checks, 0 failures
+unitytex17.py      rc 0  21 checks, 0 failures
+unitymovie.py      rc 0  13 checks, 0 failures
+unitytex22.py      rc 0  17 checks, 0 failures
+wardrobexml.py     rc 0  16 checks, 0 failures
+fevbank.py         rc 0  9 checks, 0 failures
+pecensus.py        rc 0  5 checks, 0 failures
+fsb5.py            rc 0    18 of 18 checks pass.
+mp4box.py          rc 0  31 checks, 0 failures
+rule0hook.py       rc 0  28 checks, 0 failures
+dirguard.py        rc 0  13 checks, 0 failures
+nameguard.py       rc 0  13 checks, 0 failures
+cilmeta.py         rc 0  12 cases: 12 pass, 0 fail. 6 of 12 are rejections.
+
+463 checks, 0 failures over 14 selftests

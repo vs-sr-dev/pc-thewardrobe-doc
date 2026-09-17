@@ -1,0 +1,12 @@
+$ python tools/clrmeta.py "TheWardrobe/The Wardrobe_Data/Managed/Assembly-CSharp.dll"
+
+binaries examined : 1
+managed           : 1
+native            : 0
+
+file                                            bytes format runtime    #Strings        #US
+Assembly-CSharp.dll                            819712 PE32   v4.0.30319      94180     240624
+
+#Strings total : 94180 bytes of UTF-8 names
+#US total      : 240624 bytes of UTF-16 string literals
+runtime versions : {'v4.0.30319': 1}
